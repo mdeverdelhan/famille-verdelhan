@@ -19,8 +19,8 @@ Langogne.
 
 Il a plusieurs enfants et notamment :
 
-` * René, qui lui succèdera comme maire de Langogne`\
-` * Bernard, qui mourra au cours de la Ière guerre mondiale dans un accident d'hydravion (son nom figure sur le monument aux morts de la ville de Langogne)`\
-` * Paul`
+ * René, qui lui succèdera comme maire de Langogne\
+ * Bernard, qui mourra au cours de la Ière guerre mondiale dans un accident d'hydravion (son nom figure sur le monument aux morts de la ville de Langogne)\
+ * Paul
 
 Paulin-Albert meurt en 1914.

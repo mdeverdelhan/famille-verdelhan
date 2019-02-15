@@ -16,9 +16,9 @@ Cévennes](http://site.acgc.free.fr/) (\<\< Généalogie en
 Cévennes \>\>) en 2008. Elle est divisée en trois parties (retranscrites
 sur ce site) :
 
-` - `[`Les`` ``Verdelhan`` ``de`` ``Saint-Privat-de-Vallongue`` ``(1275-1775)`](Les_Verdelhan_de_Saint-Privat-de-Vallongue_(1275-1775)_(Vierne))\
-` - `[`Les`` ``Verdelhan`` ``de`` ``Castagnols`](Les_Verdelhan_de_Castagnols_(Vierne))\
-` - `[`Les`` ``Verdelhan`` ``de`` ``Saint-Germain-de-Calberte`](Les_Verdelhan_de_Saint-Germain-de-Calberte_(Vierne))
+ - [Les Verdelhan de Saint-Privat-de-Vallongue (1275-1775)](Les_Verdelhan_de_Saint-Privat-de-Vallongue_(1275-1775)_(Vierne))\
+ - [Les Verdelhan de Castagnols](Les_Verdelhan_de_Castagnols_(Vierne))\
+ - [Les Verdelhan de Saint-Germain-de-Calberte](Les_Verdelhan_de_Saint-Germain-de-Calberte_(Vierne))
 
 L\'étude porte sur les Verdelhan de la Vallée Longue (en Cévennes) et
 alentours. La Vallée Longue est la plus septentrionale des vallées

@@ -40,11 +40,11 @@ quatre enfants :\\\\ I --- //Simon-Marcel// qui épouse, en 1803,
 Elisabeth de Cadolle, d\'Alès, décédé le 20 mars 1821, à Alès. Ils ont
 cinq enfants :
 
-` * 1) `[`Charles-Léon`](Charles-Léon_Verdelhan_des_Molles_(1805-1868))`, propriétaire à Langogne, en 1850.`\
-` * 2) Joseph-Daniel-Gustave.`\
-` * 3) Marie-Xavier-Calixte, avocat à Montpellier, en 1854.`\
-` * 4) Marcel-Calixte-Clodomir, à St-Etienne-Vallée-Française, en 1850.`\
-` * 5) Marie-Joséphine-Virginie.`
+ * 1) [Charles-Léon](Charles-Léon_Verdelhan_des_Molles_(1805-1868)), propriétaire à Langogne, en 1850.\
+ * 2) Joseph-Daniel-Gustave.\
+ * 3) Marie-Xavier-Calixte, avocat à Montpellier, en 1854.\
+ * 4) Marcel-Calixte-Clodomir, à St-Etienne-Vallée-Française, en 1850.\
+ * 5) Marie-Joséphine-Virginie.
 
 II --- //Julie-Elisabeth//.\\\\ III --- //Marie-Sophie-Agnès//, épouse
 de Joseph-Nicolas Subiderroux de la Bastide. Ils habitent à
@@ -574,4 +574,4 @@ Languedoc ou à Alès, ville principale des Cévennes où les appellent
 leurs fonctions d\'avocats mais ils viennent finir leurs jours dans le
 village natal où revivent leurs anciennes habitudes paysannes.
 
-`--- Robert TINTHOIN.`
+--- Robert TINTHOIN.

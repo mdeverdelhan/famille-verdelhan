@@ -29,4 +29,4 @@ St-André ; mort à cet hôpital, le 24 août 1794, à l\'âge de 56 ans. \>\>
 
 ##### Autres sources
 
-` * `[`http://books.google.fr/books?id=dfZEAQAAIAAJ&dq=verdelhan%20jacques%20bordeaux&hl=fr&pg=PA696#v=onepage&q=verdelhan%20jacques%20bordeaux&f=false`](http://books.google.fr/books?id=dfZEAQAAIAAJ&dq=verdelhan%20jacques%20bordeaux&hl=fr&pg=PA696#v=onepage&q=verdelhan%20jacques%20bordeaux&f=false)
+ * [http://books.google.fr/books?id=dfZEAQAAIAAJ&dq=verdelhan%20jacques%20bordeaux&hl=fr&pg=PA696#v=onepage&q=verdelhan%20jacques%20bordeaux&f=false](http://books.google.fr/books?id=dfZEAQAAIAAJ&dq=verdelhan%20jacques%20bordeaux&hl=fr&pg=PA696#v=onepage&q=verdelhan%20jacques%20bordeaux&f=false)

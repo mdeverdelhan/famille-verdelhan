@@ -54,12 +54,12 @@ Merveillac, paroisse de Saint-Jean de Chambon de Dese, et qui s\'est
         Camboux, le 13 février 1730, fille d\'Henry, maire de
         Saint-Etienne de Valfrancisque, et de Lucrèce de Cabiron, dont :
 
-` * 1° Pierre-Jacques, qui suit ;`\
-` * 2° Jacques, conseiller et premier médecin du prince de Condé, né le 20 septembre 1710 ;`\
-` * 3° Louis, né le 8 novembre 1715 ;`\
-` * 4° Simon, sgr de Poujol, avocat au parlement de Toulouse, né le 1`^`er`^` avril 1725 ;`\
-` * 5° Julie-Madeleine, née le 23 mai 1718 ; mariée le 14 février 1743, à Philippe Dessalin, sgr de Sailhan, Lelze ;`\
-` * 6° Anne, née le 17 mars 1722.`
+ * 1° Pierre-Jacques, qui suit ;\
+ * 2° Jacques, conseiller et premier médecin du prince de Condé, né le 20 septembre 1710 ;\
+ * 3° Louis, né le 8 novembre 1715 ;\
+ * 4° Simon, sgr de Poujol, avocat au parlement de Toulouse, né le 1^er^ avril 1725 ;\
+ * 5° Julie-Madeleine, née le 23 mai 1718 ; mariée le 14 février 1743, à Philippe Dessalin, sgr de Sailhan, Lelze ;\
+ * 6° Anne, née le 17 mars 1722.
 
  **V.\*\* Pierre-Jacques Verdelhan des Molles, sgr des Molles, la
         Garde, etc., la Combe de Thonas, etc., avocat au parlement de
@@ -67,11 +67,11 @@ Merveillac, paroisse de Saint-Jean de Chambon de Dese, et qui s\'est
         contrat du 10 novembre 1733, fille de Jean et de Jeanne Vellay,
         dont :
 
-` * 1° `[`Jean-Daniel`](Jean-Daniel_Verdelhan_des_Molles_(1737-1822))`, né le 24 juin 1737 ;`\
-` * 2° `[`Jacques-Gaspard`](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794))`, prêtre, né le 13 juin 1739 ;`\
-` * 3° Léon-Maurice, sous-lieutenant au régiment de Condé-infanterie, né le 14 juin 1744 ;`\
-` * 4° Pierre-Marie, né le 8 septembre 1747 ;`\
-` * 5° Jeanne, née le 11 juin 1735, mariée le 1`^`er`^` novembre 1752 à Jean-Olivier de Teissier, sgr de Saint-Frézal de la Vernède.`
+ * 1° [Jean-Daniel](Jean-Daniel_Verdelhan_des_Molles_(1737-1822)), né le 24 juin 1737 ;\
+ * 2° [Jacques-Gaspard](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794)), prêtre, né le 13 juin 1739 ;\
+ * 3° Léon-Maurice, sous-lieutenant au régiment de Condé-infanterie, né le 14 juin 1744 ;\
+ * 4° Pierre-Marie, né le 8 septembre 1747 ;\
+ * 5° Jeanne, née le 11 juin 1735, mariée le 1^er^ novembre 1752 à Jean-Olivier de Teissier, sgr de Saint-Frézal de la Vernède.
 
 Cette famille s\'est perpétuée par Simon-Marcel, qui suit, et descend
 d\'un des frères ci-dessus.
@@ -79,8 +79,8 @@ d\'un des frères ci-dessus.
  **VII.\*\* Simon-Marcel Verdelhan des Molles, né vers 1770. épousa
         Joséphine-Elisabeth Cadolle, dont au moins :
 
-` * 1° Charles-Léon, qui suit ;`\
-` * 2° Calixte, maire d'Alais, qui a laissé postérité représentée de nos jours.`
+ * 1° Charles-Léon, qui suit ;\
+ * 2° Calixte, maire d'Alais, qui a laissé postérité représentée de nos jours.
 
  **VIII.\*\* [Charles-Léon Verdelhan des
         Molles](Charles-Léon_Verdelhan_des_Molles_(1805-1868)),

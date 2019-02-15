@@ -16,10 +16,10 @@ château fort de type médiéval. L\'édifice est en ruines et l\'était déjà
 ouvrage](http://gallica.bnf.fr/ark:/12148/bpt6k393388.image.hl.r=fressac.f55.langFR)
 (1892).
 
-` * `[`http://fressac.un.chate.perso.libertysurf.fr/page2.html`](http://fressac.un.chate.perso.libertysurf.fr/page2.html)\
-` * `[`http://www.cevennes-garrigue-tourisme.com/fressac.php`](http://www.cevennes-garrigue-tourisme.com/fressac.php)\
-` * `[`http://gallica.bnf.fr/ark:/12148/bpt6k6132028z.image.hl.r=fressac.f143.langFR`](http://gallica.bnf.fr/ark:/12148/bpt6k6132028z.image.hl.r=fressac.f143.langFR)\
-` * `[`http://fr.wikipedia.org/wiki/Fressac`](http://fr.wikipedia.org/wiki/Fressac)
+ * [http://fressac.un.chate.perso.libertysurf.fr/page2.html](http://fressac.un.chate.perso.libertysurf.fr/page2.html)\
+ * [http://www.cevennes-garrigue-tourisme.com/fressac.php](http://www.cevennes-garrigue-tourisme.com/fressac.php)\
+ * [http://gallica.bnf.fr/ark:/12148/bpt6k6132028z.image.hl.r=fressac.f143.langFR](http://gallica.bnf.fr/ark:/12148/bpt6k6132028z.image.hl.r=fressac.f143.langFR)\
+ * [http://fr.wikipedia.org/wiki/Fressac](http://fr.wikipedia.org/wiki/Fressac)
 
 [\[Voir des photos du
 château](https://picasaweb.google.com/111524259305843655428/ChateauDeFressac092010?authkey=Gv1sRgCL6CwILs2MeHVw)\]
