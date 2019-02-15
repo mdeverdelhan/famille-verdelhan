@@ -30,7 +30,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 
 #### 1 - A Polimies
 
--   -   I -- Jehan VERDELHAN (+\>1408)\*\*
+ **I -- Jehan VERDELHAN (+\>1408)\*\*
 
 ` * Il habite à Polimies, un des principaux hameaux, près de Vialas.`\
 ` * En 1404, il reconnaît des biens au seigneur d’Alès, comme l’avaient fait ses prédécesseurs ; à la même époque, un autre Jehan VERDELHAN dit ROSSEL, habitant à la Vialasse, reconnaît aussi au comte d’Alès des biens dans la paroisse de Saint-Maurice-de-Ventalon.`\
@@ -38,14 +38,14 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 `   * Jehan qui suit,`\
 `   * Grégoire, marié en 1408, avec Raymonde Mathieu, fille de Raymond, de Valouse, près de Malons((C.M. le 7-2-1408 n.s., M`^`e`^` DOLADILHE)) ; il cède ses droits à son frère Jehan contre une vache, un boeuf (ou 6 florins), quatre brebis et 5 florins.`
 
--   -   II -- Jehan VERDELHAN\*\*
+ **II -- Jehan VERDELHAN\*\*
 
 ` * Il a vécu à Polimies comme héritier.`\
 ` * La marche du temps en fait très probablement le grand-père de :`\
 `   * Pierre qui suit.`\
 `   * il est le contemporain de Jehan VERDELHAN dit PONSARD qui habitait à Vialas (1417).`
 
--   -   IV -- Pierre VERDELHAN (+\<1483)\*\*
+ **IV -- Pierre VERDELHAN (+\<1483)\*\*
 
 ` * Il habite à Polimies où ses biens sont estimés à plus de 1000 livres.`\
 ` * Il a eu cinq enfants dont :`\
@@ -55,14 +55,14 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 ` * Parmi ses deux autres enfants on devrait trouver :`\
 `   * Jehan qu’on verra au paragraphe 3.`
 
--   -   V -- Antoine VERDELHAN (+\<1523)\*\*
+ **V -- Antoine VERDELHAN (+\<1523)\*\*
 
 ` * Il reste à Polimies comme héritier.`\
 ` * Il est le père de :`\
 `   * Jehan qui suit,`\
 `   * Peyronne épouse de Pierre RIGAL du Pont-de-Rastel, elle teste en 1566, veuve avec des enfants.`
 
--   -   VI -- Jehan VERDELHAN\*\*
+ **VI -- Jehan VERDELHAN\*\*
 
 ` * Héritier, il habite à Polimies.`\
 ` * En 1543, il règle à son oncle Étienne ses droits sur sa tante Marguerite.`\
@@ -70,7 +70,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 `   * Jehan qui suit,`\
 `   * Blazette, une des douze manantes de Polimies en 1565, mariée à Jacques VIGNES.`
 
--   -   VII -- Jehan VERDELHAN\*\*
+ **VII -- Jehan VERDELHAN\*\*
 
 ` * Charpentier à Polimies dont il est un des douze manants en 1565.`\
 ` * Son épouse Catherine MOLINES teste en 1571((Le 25-2-1571, M`^`e`^` BOSCHET)) et lui en 1585((Le 6-10-1585, M`^`e`^` BOSCHET)).`\
@@ -82,7 +82,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 `   * Antonye, mariée dès 1572 à Claude MATHIEU de Génolhac,`\
 `   * Jehanne (+1571/85).`
 
--   -   VIII -- Antoine VERDELHAN (+ ca 1576)\*\*
+ **VIII -- Antoine VERDELHAN (+ ca 1576)\*\*
 
 ` * Héritier, il reste à Polimies.`\
 ` * En 1566, il épouse Jehanne BONIJOL, fille de Jehan, d’une très ancienne famille de Figeirolles((C.M. le 17-4-1566, M`^`e`^` BOSCHET)). Jehanne se remarie en 1578 avec Guillaume MARTIN de Sénéchas, le père de son gendre. Elle teste en 1586, citant ses six enfants comme l’avait fait Antoine en 1576 peu avant de disparaître.`\
@@ -91,7 +91,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 `   * Marie, fiancée en 1580 avec Antoine VIGNES de la Vialasse((C.M. le 8-5-1580, M`^`e`^` BOSCHET)) puis épouse en 1585 de Jehan VALENTIN((C.M. le 5-12-1585, M`^`e`^` BOSCHET)) ; en 1591, Marie, héritière d’une partie des biens paye les dettes de son grand-père,`\
 `   * Anne, mariée en 1593 à Nicolas DELAFONT de Liborette, dotée de 140 francs, une robe, deux linceuls, deux pourceaux et une pièce de terre((C.M. le 25-5-1594, M`^`e`^` BOSCHET)).`
 
--   -   IX -- Jacques VERDELHAN\*\*
+ **IX -- Jacques VERDELHAN\*\*
 
 ` * Héritier universel, il habite à Polimies.`\
 ` * Époux de Marguerite DELAFONT qui lui a donné pour le moins :`\
@@ -100,7 +100,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 `   * Marc, cardeur à Polimies, il teste en 1652 et décède peu après laissant trois filles : Marguerite, Anne épouse en 1682 de Pierre DAYRES du Granier de Génolhac et Jeanne mariée en 1684 à Nicolas DURAND de Gourdouze, qu’il avaient eu de Marie BENOIT.`\
 `   * Marguerite, épouse dès 1641 de Pierre GUIN de Gourdouze et mère de Suzanne, Anne, Lucrèce et Marie GUIN, avec une descendance en Cévennes.`
 
--   -   X -- Pierre VERDELHAN (+1669)\*\*
+ **X -- Pierre VERDELHAN (+1669)\*\*
 
 ` * Il habite à Polimies.`\
 ` * Sa femme Jeanne VIGNES lui a donné au moins cinq enfants :`\
@@ -112,7 +112,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 
 #### 2 - Au Soulier de Génolhac
 
--   -   V -- Étienne VERDELHAN (+\<1527)\*\*
+ **V -- Étienne VERDELHAN (+\<1527)\*\*
 
 ` * Un des fils cadets de Pierre vu au niveau IV de Polimies.`\
 ` * Époux d’Agnès DURANC, fille de Guillaume et veuve en premières noces de Jehan BONDURANT dont elle a eu deux fils, Jehan et Guillaume.`\
@@ -123,7 +123,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 `   * autre Jehanne (1513),`\
 `   * Agnès (1513).`
 
--   -   VI -- Antoine VERDELHAN\*\*
+ **VI -- Antoine VERDELHAN\*\*
 
 ` * Héritier des biens de sa mère, il reste au Soulier.`\
 ` * En 1527, il épouse Marguerite REBOUL, fille de Guillaume, du Chambon Gazaldès, dotée de 70 livres et trousseau habituel((C.M. le 6-2-1527 n.s., M`^`e`^` BASTIDE)) ; d’où pour le moins :`\
@@ -132,7 +132,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 `   * Catherine, épouse de Pierre REBOUL du Palanquy,`\
 `   * Marguerite, mariée à Pierre BONDURANT de Corniaret.`
 
--   -   VII -- Étienne VERDELHAN (+\<1590)\*\*
+ **VII -- Étienne VERDELHAN (+\<1590)\*\*
 
 ` * Il habite au Soulier (1543, 1562), puis à l’Arnaldès (1598).`\
 ` * Époux de Catherine LEBLANC, soeur de Michel, docteur avocat à Montpellier qui a du mal à payer la dot de sa soeur en 1565.`\
@@ -147,7 +147,7 @@ Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 Cette lignée est particulièrement intéressante par ses développements à
 Saint-Michel-de-Dèze et à la Melouse.
 
--   -   V -- Jehan VERDELHAN (+\>1540)\*\*
+ **V -- Jehan VERDELHAN (+\>1540)\*\*
 
 ` * Il est dit de Castagnols sans que l’on sache s’il s’agit du hameau ou de la paroisse ; il pourrait bien être un fils cadet de Pierre vu au niveau IV de Polimies, sans beaucoup d’arguments pour justifier cette hypothèse, si ce n’est la géographie.`\
 ` * De son épouse Jehanne CORBIER, il a eu :`\
@@ -157,7 +157,7 @@ Saint-Michel-de-Dèze et à la Melouse.
 `   * Marguerite, mariée dès 1540 à Jehan COPPET de Tarascon,`\
 `   * Antonye, épouse d’Antoine DURANT.`
 
--   -   VI -- Marc VERDELHAN (+\<1569)\*\*
+ **VI -- Marc VERDELHAN (+\<1569)\*\*
 
 ` * Manifestement sans attaches terriennes, il se fixe à Saint-Michel-de-Dèze en épousant en 1549, Antonye BONAFOUS, fille d’Antoine((C.M. le 16-12-1549, M`^`e`^` BRICONNET)).`\
 ` * Il adhère aux idées de la réforme.`\
@@ -166,7 +166,7 @@ Saint-Michel-de-Dèze et à la Melouse.
 `   * Marthe ; épouse en 1576 de Jacques CODERC, travailleur de terre à Alès (elle était alors en procès avec Pierre DELEUZE d’Avenières en raison de son déflorement commis et perpétré en sa personne)((C.M. le 25-9-1576, M`^`e`^` CORBIER)). Ce n’est qu’en 1669 que sa fille Secondine CODERC gagne son procès contre son cousin Jean FRANCEZON, condamné à payer 135 livres pour ses droits sur son grand-père Marc.`\
 `   * Claude, mariée en 1585 à Jehan CHAMPARNAL des Laupies de Blannaves((C.M. le 11-7-1585, M`^`e`^` CORBIER)).`
 
--   -   VII -- Denis VERDELHAN\*\*
+ **VII -- Denis VERDELHAN\*\*
 
 ` * Serrurier à Saint-Michel-de-Dèze, il participe à la gestion de la communauté (deuxième consul en 1581, conseiller en 1586...)`\
 ` * En 1583, il épouse Catherine NOGUIER, fille de Jehan de Cadoine((C.M. le 16-6-1586, M`^`e`^` CORBIER)), d’où au moins huit enfants cités dans son testament de 1603 :`\
@@ -179,7 +179,7 @@ Saint-Michel-de-Dèze et à la Melouse.
 `   * Marie, épouse de Pierre LAVAL de Saint-Martin-de-Boubaux`\
 `   * Jacquette (°1603), mariée en 1620 avec Jean FRANCEZON du mas de Saint-Michel-de-Dèze((C.M. le 14-1-1620, M`^`e`^` BONNET)) ; héritière des biens, elle paye la dot de sa soeur Suzanne en 1672.`
 
--   -   VIII -- Étienne VERDELHAN (+\<1631)\*\*
+ **VIII -- Étienne VERDELHAN (+\<1631)\*\*
 
 ` * Cardeur de laine, il se fixe à Boubaux près de la Melouse en épousant, en 1617, Marie DUMAS, fille de Pierre et Marguerite MARTEL((C.M. le 26-9-1617, M`^`e`^` DUCAMP)).`\
 ` * Qualifié parfois de capitaine.`\
@@ -187,13 +187,13 @@ Saint-Michel-de-Dèze et à la Melouse.
 `   * Jean qui suit,`\
 `   * Catherine (1655).`
 
--   -   IX -- Jean VERDELHAN\*\*
+ **IX -- Jean VERDELHAN\*\*
 
 ` * Boulanger à Boubaux.`\
 ` * Époux en 1657 de Jeanne SERVIERE, fille d’Étienne et Pierre GIBERT de Boubaux((C.M. le 15-3-1657, M`^`e`^` BRES)) ; d’où :`\
 `   * Jean qui suit.`
 
--   -   X -- Jean VERDELHAN\*\*
+ **X -- Jean VERDELHAN\*\*
 
 ` * Il habite à la Pénitence où il est recensé NC en 1697.`\
 ` * En 1684, il épouse Jacquette VIERNE, fille de Pierre et Anne PIN des Salles de la Melouse((C.M. le 14-2-1684, M`^`e`^` BRES)).`\
@@ -221,7 +221,7 @@ descendance dans la Vallée longue, au Mas Soubeyran de
 Saint-Michel-de-Dèze et à Chabaniels près du Collet-de-Dèze intéresse
 les généalogistes.
 
--   -   I -- Jehan VERDELHAN (+\>1446)\*\*
+ **I -- Jehan VERDELHAN (+\>1446)\*\*
 
 ` * Un des 14 principaux habitants de Saint-Michel-de-Dèze (1439)`\
 ` * Dès 1433, il est cité comme possédant le Puech d’Ombras qu’il reconnaît au seigneur de Portes en 1439.`\
@@ -230,14 +230,14 @@ les généalogistes.
 `   * Laurent qui suit`\
 `   * Dauphine, mariée en 1446 avec Guillaume GREFEUILLE de la Bastide, dans la paroisse, dotée de 16 livres par son frère((C.M. le 12-2-1446 n.s., M`^`e`^` TORRES)).`
 
--   -   II -- Laurent VERDELHAN (+\>1450)\*\*
+ **II -- Laurent VERDELHAN (+\>1450)\*\*
 
 ` * Il habite au Puech d’Ombras,`\
 ` * En 1444, il reconnaît ce qu’il tient au Puech, au seigneur de Portes`\
 ` * Il est manifestement le père de :`\
 `   * Jehan qui habite à Ombras en 1479.`
 
--   -   III -- Laurent VERDELHAN (+\<1521)\*\*
+ **III -- Laurent VERDELHAN (+\<1521)\*\*
 
 ` * Ce prénom, extrêmement rare dans les hautes Cévennes n’est connu chez les VERDELHAN qu’avec celui qui précède et qui pourrait être le père de ce Laurent dont les attaches à Saint-Michel-de-Dèze sont établies par le mariage d’un de ses fils au Mas Soubeyran.`\
 ` * Il a vécu à Gourdouze qui était un village important et attirait des gens des alentours.`\
@@ -249,7 +249,7 @@ les généalogistes.
 `   * Jehan junior, souche de la lignée du Mas Soubeyran`\
 ` * En 1485, il se remarie avec Guillemette PAULET, sa cognate.`
 
--   -   IV -- Firmin VERDELHAN (+1537/43)\*\*
+ **IV -- Firmin VERDELHAN (+1537/43)\*\*
 
 ` * Il habite à Gourdouze.`\
 ` * En 1485, il épouse Guillemette SIRVEN, fille de feu Vital et Guillemette PAULET, de Besses près de Curières((C.M. le 29-12-1485, M`^`e`^` ROCHIER)) ; Guillemette teste en 1537 désignant sa fille Marguerite comme héritière((Le 19-4-1537, M`^`e`^` LAURENT)).`\
@@ -260,7 +260,7 @@ les généalogistes.
 `   * Marguerite,`\
 `   * Catherine, épouse dès 1514 de Pierre REBIERE, légataire d’une robe à prendre dans la maison de la Vaisse.`
 
--   -   V a -- Laurent VERDELHAN (+\>1578)\*\*
+ **V a -- Laurent VERDELHAN (+\>1578)\*\*
 
 ` * Laboureur à Gourdouze.`\
 ` * De sa première femme Simone LEGAL, il a eu :`\
@@ -270,7 +270,7 @@ les généalogistes.
 ` * En secondes noces, il convole avec Françoise REBOUL (dès 1572), d’où :`\
 `   * Marie, épouse en 1598 d’Antoine DEVEZE, muletier au Gravas, natif de Sainte-Cécile-d’Andorge((C.M. le 17-11-1598, M`^`e`^` DURANT)).`
 
--   -   V b -- Jehan VERDELHAN (+\<1560)\*\*
+ **V b -- Jehan VERDELHAN (+\<1560)\*\*
 
 ` * Donataire des biens, il vend une pièce de terre en 1537.`\
 ` * En 1542, il arrente des fruits à son frère Laurent,`\
@@ -282,7 +282,7 @@ les généalogistes.
 `   * Isabelle, épouse en 1560 de Jehan VIGNES de Polimies((C.M. le 27-11-1560, M`^`e`^` LAURENT))`\
 `   * Cécile, mariée en 1561 à Jehan TOURNIER de Felgerolles près de Frutgères, qui apportera 40 livres à investir sur les biens de Cécile((C.M. le 22-6-1561, M`^`e`^` BOSCHET)) qui apparaît ainsi comme héritière.`
 
--   -   V c -- Pierre VERDELHAN\*\*
+ **V c -- Pierre VERDELHAN\*\*
 
 ` * Marié dès 1537 avec Marguerite DELAFONT, fille donataire d’Antoine de Gourdouze sur les biens duquel il promet d’apporter 80 livres ; en 1544, il s’acquitte de 30 florins et une paire de boeufs.`\
 ` * On lui connaît sept enfants :`\
@@ -293,7 +293,7 @@ les généalogistes.
 `   * Clément, souche du hameau de Chabaniels,`\
 `   * Marguerite, épouse dès 1557 de Jean VEROLH, tisserand à l’Apostoly près de Chamborigaud.`
 
--   -   VI c -- Gilles VERDELHAN (+1561/66)\*\*
+ **VI c -- Gilles VERDELHAN (+1561/66)\*\*
 
 ` * Rentier de la métairie du prieur de Gourdoze (1559).`\
 ` * Époux de Françoise MALACHANE, soeur de Marguerite vue ci-dessus, d’où :`\
@@ -306,7 +306,7 @@ les généalogistes.
 //Hameau sur les hauteurs de la rive gauche du Gardon, en aval du bourg
 du Collet-de-Dèze.//
 
--   -   VI -- Clément VERDELHAN (+\>1617)\*\*
+ **VI -- Clément VERDELHAN (+\>1617)\*\*
 
 ` * Fils de Pierre vu au niveau V c de Gourdouze.`\
 ` * Tisserand.`\
@@ -316,7 +316,7 @@ du Collet-de-Dèze.//
 `   * Antoine qui suit,`\
 `   * Jeanne, veuve dès 1617 de Pons ARTIGUES avec qui elle vivait à Nîmes.`
 
--   -   VII -- Antoine VERDELHAN\*\*
+ **VII -- Antoine VERDELHAN\*\*
 
 ` * Maçon à Pénens (1617), puis à Chabaniels et enfin à la Rodilharie.`\
 ` * En 1627, il reconnaît à la marquise de Portes des biens de sa femme.`\
@@ -332,7 +332,7 @@ du Collet-de-Dèze.//
 
 //Hameau sur les hauteurs de Saint-Michel-de-Dèze.//
 
--   -   IV -- Jehan VERDELHAN junior\*\*
+ **IV -- Jehan VERDELHAN junior\*\*
 
 ` * Un des cadets de Laurent vu au niveau III de Gourdouze.`\
 ` * Dès 1523, il est fixé au Mas Soubeyran en y épousant Marguerite PELOS, fille donataire de Firmin et petite-fille de Benoit.`\
@@ -347,7 +347,7 @@ du Collet-de-Dèze.//
 `   * Raymonde, épouse de Jehan BALDIT du Vilaret de Saint-Michel-de-Dèze ; sa fille, Bourguine lègue ses droits en 1588 à son cousin Jehan.`\
 `   * Madeleine.`
 
--   -   V -- Raymond VERDELHAN\*\*
+ **V -- Raymond VERDELHAN\*\*
 
 ` * Héritier, il reste au Mas Soubeyran.`\
 ` * En 1548, il paye les droits de son cousin Antoine PELOS.`\
@@ -363,7 +363,7 @@ du Collet-de-Dèze.//
 ` * Il est aussi le père de :`\
 `   * Anne, née postérieurement au testament de 1570, mariée en 1606 avec Antoine PAGES, fils de Jehan et Marie SERRE de la Rochette, sur les hauteurs du Collet.`
 
--   -   VI -- Jehan VERDELHAN (+\>1608)\*\*
+ **VI -- Jehan VERDELHAN (+\>1608)\*\*
 
 ` * Donataire de la moitié des biens en faveur de son mariage, il recueille par la suite l’héritage de sa cousine Bourguine BALDIT.`\
 ` * Marié dès 1584 avec Suzanne CHAPON, fille de Jehan qui habitait aussi au Mas Soubeyran, dotée pour le moins, de 200 livres, deux robes, trois brebis garnies de leurs agneaux, deux linceuls...`\

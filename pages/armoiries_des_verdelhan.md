@@ -10,7 +10,7 @@ généalogiques, et d'une histoire familiale transmise oralement.
 
 ##### Blasonnement
 
--   -   //Écartelé : au 1, de sable à une étoile d\'argent ; au 2
+ **//Écartelé : au 1, de sable à une étoile d\'argent ; au 2
         d\'azur à trois coquilles d\'or, 2 et 1 ; au 3 d\'azur au lion
         d\'or ; au 4, de gueules à six besants d\'argent, 3, 2 et
         1.//\*\*

@@ -22,7 +22,7 @@ de Morénas}}
 
 ##### Retranscription
 
--   -   DE VERDELHAN DES MOLLES et DES FOURNIELS\*\*
+ **DE VERDELHAN DES MOLLES et DES FOURNIELS\*\*
 
 34.416. -- (Languedoc, Gévaudan, Gascogne) -- //[Ecart. Au I, de sa. à
 l\'étoile d\'arg. ; au II, d\'az. à 3 coqu. d\'or ; au III, d\'az. à un

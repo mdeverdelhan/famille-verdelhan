@@ -17,7 +17,7 @@ Verdelhan des Fourniels dans celui de 1911.
 
 ##### Volume 61 (63ième année) - 1905
 
--   -   VERDELHAN DES MOLLES\*\*
+ **VERDELHAN DES MOLLES\*\*
 
 Cette famille, originaire du diocèse de Mende, établit sa filiation
 régulière, depuis un Pierre Verdelhan, habitant au commencement du
@@ -28,12 +28,12 @@ famille plus ancienne, qui possédait au XIV^e^ siècle la seigneurie de
 Merveillac, paroisse de Saint-Jean de Chambon de Dese, et qui s\'est
 éteinte après 1672.
 
--   -   I.\*\* Pierre Verdelhan, habitant à Chénas, est connu par le
+ **I.\*\* Pierre Verdelhan, habitant à Chénas, est connu par le
         contrat de mariage de son fils, Daniel, qui suit.
 
 <!-- -->
 
--   -   II.\*\* Daniel Verdelhan, de la religion reformée, épousa le 30
+ **II.\*\* Daniel Verdelhan, de la religion reformée, épousa le 30
         avril 1608, Jeanne Planque, et mourut à Toulouse le 1^er^
         septembre 1636, ayant testé en faveur de ses sept enfants
         légitimes, et de trois filles bâtardes, qu\'il nomme dans ses
@@ -41,14 +41,14 @@ Merveillac, paroisse de Saint-Jean de Chambon de Dese, et qui s\'est
 
 <!-- -->
 
--   -   III.\*\* Pierre Verdelhan, sieur des Molles, fils aîné de
+ **III.\*\* Pierre Verdelhan, sieur des Molles, fils aîné de
         Daniel, qui précède, épousa Anne Dumas, dont : 1° Daniel, qui
         suit ; 2° Jacques, sieur de Valmale, et 3° Jeanne, mariée au sgr
         de la Rouvière.
 
 <!-- -->
 
--   -   IV.\*\* Daniel Verdelhan, sgr des Molles, etc., docteur en
+ **IV.\*\* Daniel Verdelhan, sgr des Molles, etc., docteur en
         droit, avocat du parlement de Toulouse, né\..., † le 16 août
         1742; épousa, par contrat du 17 novembre 1707, Diane Teule des
         Camboux, le 13 février 1730, fille d\'Henry, maire de
@@ -61,7 +61,7 @@ Merveillac, paroisse de Saint-Jean de Chambon de Dese, et qui s\'est
 ` * 5° Julie-Madeleine, née le 23 mai 1718 ; mariée le 14 février 1743, à Philippe Dessalin, sgr de Sailhan, Lelze ;`\
 ` * 6° Anne, née le 17 mars 1722.`
 
--   -   V.\*\* Pierre-Jacques Verdelhan des Molles, sgr des Molles, la
+ **V.\*\* Pierre-Jacques Verdelhan des Molles, sgr des Molles, la
         Garde, etc., la Combe de Thonas, etc., avocat au parlement de
         Toulouse, né le 11 décembre 1708, † à Toulouse en 1752 épousa,
         contrat du 10 novembre 1733, fille de Jean et de Jeanne Vellay,
@@ -76,13 +76,13 @@ Merveillac, paroisse de Saint-Jean de Chambon de Dese, et qui s\'est
 Cette famille s\'est perpétuée par Simon-Marcel, qui suit, et descend
 d\'un des frères ci-dessus.
 
--   -   VII.\*\* Simon-Marcel Verdelhan des Molles, né vers 1770. épousa
+ **VII.\*\* Simon-Marcel Verdelhan des Molles, né vers 1770. épousa
         Joséphine-Elisabeth Cadolle, dont au moins :
 
 ` * 1° Charles-Léon, qui suit ;`\
 ` * 2° Calixte, maire d'Alais, qui a laissé postérité représentée de nos jours.`
 
--   -   VIII.\*\* [Charles-Léon Verdelhan des
+ **VIII.\*\* [Charles-Léon Verdelhan des
         Molles](Charles-Léon_Verdelhan_des_Molles_(1805-1868)),
         avocat à Alais, député de la Lozère, à l\'Assemblée
         constituante (1848) et au Corps législatif (1852-57), né a
@@ -91,14 +91,14 @@ d\'un des frères ci-dessus.
 
 <!-- -->
 
--   -   IX.\*\* Albert de Verdelhan des Molles, épousa vers 1864 Marie
+ **IX.\*\* Albert de Verdelhan des Molles, épousa vers 1864 Marie
         Jourda de Vaux, fille de Marie-Francois-Marcelin et de
         Marie-Jeanne-Catherine Gravier de Vergennes, dont au moins un
         fils, qui suit.
 
 <!-- -->
 
--   -   X.\*\* René Verdelhan des Molles, conseiller général de la
+ **X.\*\* René Verdelhan des Molles, conseiller général de la
         Lozère, a épousé M^lle^ de Colombet de Landos, dont il a deux
         fils : Jean et Bernard.
 
@@ -123,7 +123,7 @@ Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k366329.image.r=verdelhan.f277.lan
 
 ##### Volume 67 (69ième année) - 1911
 
--   -   VERDELHAN DES FOURNIELS\*\*
+ **VERDELHAN DES FOURNIELS\*\*
 
 Cette famille, que l\'on trouve fixée a Saint-Germain de Calberte, à la
 fin du XVI^e^ siècle, parait avoir une origine commune avec la famille
@@ -133,18 +133,18 @@ Molles](Annuaire_de_la_Noblesse_de_France_(Révérend)#Volume_61_(63ième_année
 était située au même lieu, bien que le point d\'attache n\'ait pas été
 établi historiquement.
 
--   -   I.\*\* Reymond Verdelhan, du Mas de Frepestel, testa le 30
+ **I.\*\* Reymond Verdelhan, du Mas de Frepestel, testa le 30
         janvier 1611, et laissa de Jeanne Reymond, entre autres enfants,
         un fils, qui a continué la filiation.
 
 <!-- -->
 
--   -   II.\*\* Jean Verdelhan, sr des Fourniels, testa le 8 avril 1621,
+ **II.\*\* Jean Verdelhan, sr des Fourniels, testa le 8 avril 1621,
         laisant un fils, qui suit.
 
 <!-- -->
 
--   -   III.\*\* Pierre Verdelhan, sr des Fourniels, épousa, par contrat
+ **III.\*\* Pierre Verdelhan, sr des Fourniels, épousa, par contrat
         du 27 mars 1652, Lucrèce Valmatète, dont 1° Jacques, qui suit ;
         2° Annibal, auteur d\'un rameau cadet ci-après ; 3° Pierre,
         lieutenant de juge de Saint-Etienne de Valfrancisque, qui testa
@@ -152,7 +152,7 @@ Molles](Annuaire_de_la_Noblesse_de_France_(Révérend)#Volume_61_(63ième_année
 
 <!-- -->
 
--   -   IV.\*\* Jacques Verdelhan, sr des Fourniels, lieutenant au
+ **IV.\*\* Jacques Verdelhan, sr des Fourniels, lieutenant au
         régiment de Crillon-cavalerie (12 mars 1688, puis capitaine, né
         le 21 juillet 1649, épousa, par contrat du 25 octobre 1698,
         Elisabeth Beauquesne, dont : 1° Bernard, qui suit ; 2°
@@ -161,14 +161,14 @@ Molles](Annuaire_de_la_Noblesse_de_France_(Révérend)#Volume_61_(63ième_année
 
 <!-- -->
 
--   -   V.\*\* Bernard Verdelhan, des Fourniels, lieutenant de
+ **V.\*\* Bernard Verdelhan, des Fourniels, lieutenant de
         grenadiers au régiment de Beauvaisis, né le 14 mars 1714,
         épousa, le 11 novembre 1754, Françoise Artaud, fille d\'Antoine
         et de Claudine Arnoux, dont un fils, qui suit, et deux filles.
 
 <!-- -->
 
--   -   VI.\*\* Jacques-Antoine Verdelhan, sr des Fourniels, négociant
+ **VI.\*\* Jacques-Antoine Verdelhan, sr des Fourniels, négociant
         et président de la chambre de commerce de Bordeaux, conseiller
         général de la Gironde, ☼, fut maintenu dans sa noblesse, avec
         anoblissement en tant que besoin, par lettres patentes du 4
@@ -182,24 +182,24 @@ Molles](Annuaire_de_la_Noblesse_de_France_(Révérend)#Volume_61_(63ième_année
 
 <!-- -->
 
--   -   VII.\*\* Jacques-Isidore Verdelhan des Fourniels, capitaine de
+ **VII.\*\* Jacques-Isidore Verdelhan des Fourniels, capitaine de
         chasseurs à cheval, ☼, chevalier de Saint-Louis; né à Bordeaux
         le 11 novembre 1795, † à Bordeaux en septembre 1884; épousa
         Marie-Madeleine Guidon, dont un fils, qui suit.
 
 <!-- -->
 
--   -   VIII.\*\* Jacques-Victor Verdelhan des Fourniels, receveur
+ **VIII.\*\* Jacques-Victor Verdelhan des Fourniels, receveur
         particulier des finances, ☼, né à Lyon le 10 août 1819, † le 6
         mai 1882.
 
 <!-- -->
 
--   -   RAMEAU CADET\*\*
+ **RAMEAU CADET\*\*
 
 <!-- -->
 
--   -   IV //bis//.\*\* Annibal Verdelhan, marchand à Saint-Etienne, né
+ **IV //bis//.\*\* Annibal Verdelhan, marchand à Saint-Etienne, né
         le 5 mai 1652, épousa à Nîmes, le 3 janvier 1696, Françoise Le
         Vieux, fille de Daniel Le Vieux, et de Françoise Clessé, dont 1°
         Jacques, qui suit; 2° Marie, née le 26 février 1704, mariée, le
@@ -208,7 +208,7 @@ Molles](Annuaire_de_la_Noblesse_de_France_(Révérend)#Volume_61_(63ième_année
 
 <!-- -->
 
--   -   V.\*\* Jacques Verdelhan, sr des Fourniels, chargé des affaires
+ **V.\*\* Jacques Verdelhan, sr des Fourniels, chargé des affaires
         du roi de Pologne en France, conseiller secrétaire du roi,
         maison et couronne de France en la grande chancellerie
         (1748-1763), fermier général (1754-1763), maitre d\'hôtel de la

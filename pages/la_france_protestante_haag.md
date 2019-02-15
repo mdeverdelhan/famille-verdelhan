@@ -17,7 +17,7 @@ le tome IX de //La France protestante//, [pages 461 et
 
 ##### Retranscription
 
--   -   VERDELHAN\*\*, //Verdelian// ou //Verdilhan//, nom d\'une
+ **VERDELHAN\*\*, //Verdelian// ou //Verdilhan//, nom d\'une
         famille ancienne et nombreuse, établie dans le Languedoc, la
         Gascogne et le Bourbonnais. Des différentes branches dont elle
         se composait, deux au moins, celles de Merveillac et Des

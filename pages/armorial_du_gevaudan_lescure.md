@@ -37,12 +37,12 @@ La branche de Merveillac s\'éteignit à la fin du XVII^e^ siècle. La
 branche des seigneurs des Molles, encore existante, commence sa
 filiation avec :
 
--   -   I. Pierre Verdelhan\*\*, habitant à Thonas, près de
+ **I. Pierre Verdelhan\*\*, habitant à Thonas, près de
         Saint-Germain de Calberte, père de :
 
 <!-- -->
 
--   -   II\. Daniel Verdelhan\*\*, sieur de Thonas, marié, le 30 avril 1608, à
+ **II\. Daniel Verdelhan\*\*, sieur de Thonas, marié, le 30 avril 1608, à
         Jeanne Planque, dont il eut :
 
 ` * 1° Pierre, qui suit ;`\
@@ -53,14 +53,14 @@ filiation avec :
 ` * 6° Valence ;`\
 ` * 7° Suzanne.`
 
--   -   III\. Pierre Verdelhan\*\*, seigneur des Molles, fit hommage, en 1668, à
+ **III\. Pierre Verdelhan\*\*, seigneur des Molles, fit hommage, en 1668, à
         l\'évêque de Mende. Il épousa Anne du Mas, dont il eut :
 
 ` * 1° Daniel, qui suit ;`\
 ` * 2° Jacques, sieur de Valmale ;`\
 ` * 3° Jeanne, mariée au sieur de la Rouvière.`
 
--   -   IV\. Daniel Verdelhan\*\*, seigneur des Molles, coseigneur de
+ **IV\. Daniel Verdelhan\*\*, seigneur des Molles, coseigneur de
         Saint-Germain de Calberte, avocat au Parlement de Toulouse, épousa, le
         17 novembre 1707, Diane de Teule de Camboux, fille de Henry Teule, maire
         de Saint-Etienne Vallée-Française, et de Lucrèce de Cabiron. Il acquit,
@@ -74,7 +74,7 @@ filiation avec :
 ` * 5° Julie-Madeleine, mariée, le 14 février 1743, à Philippe de Salin, seigneur de Saillan ;`\
 ` * 6° Anne.`
 
--   -   V. Pierre-Jacques Verdelhan\*\*, seigneur des Molles, coseigneur
+ **V. Pierre-Jacques Verdelhan\*\*, seigneur des Molles, coseigneur
         de Saint-Germain de Calberte, avocat au Parlement de Toulouse,
         épousa, le 10 novembre 1733, Marguerite Canonge, fille de Jean
         Canonge et de Jeanne Vellay.
@@ -90,7 +90,7 @@ en 1705 \>\>. Il laissa de son mariage :
 ` * 4° Pierre-Marie, sous-lieutenant au régiment de Bourbon-infanterie ;`\
 ` * 5° Jeanne, mariée, le 11 juin 1752, à Olivier de Tessier, seigneur de Saint-Frézal, la Vernède.`
 
--   -   VI\. [Jean-Daniel de
+ **VI\. [Jean-Daniel de
         Verdelhan](Jean-Daniel_Verdelhan_des_Molles_(1737-1822))\*\*,
         seigneur des Molles, Saint-Germain de Calberte, prit part, en 1789, à
         l\'Assemblée de la Noblesse du Gévaudan. Il épousa, le 22 février 1764,
@@ -101,7 +101,7 @@ en 1705 \>\>. Il laissa de son mariage :
 ` * 3° Marie-Sophie ;`\
 ` * 4° Xavier.`
 
--   -   VII\. Simon-Marcel de Verdelhan des Molles\*\* épousa, le 2 brumaire an
+ **VII\. Simon-Marcel de Verdelhan des Molles\*\* épousa, le 2 brumaire an
         XII, Elisabeth-Joséphine de Cadolle, dont il eut :
 
 ` * 1° Léon-Charles, qui suit ;`\
@@ -110,7 +110,7 @@ en 1705 \>\>. Il laissa de son mariage :
 ` * 4° Clodomir ;`\
 ` * 5° Marie.`
 
--   -   VIII\. [Léon-Charles de Verdelhan des
+ **VIII\. [Léon-Charles de Verdelhan des
         Molles](Charles-Léon_Verdelhan_des_Molles_(1805-1868))\*\*,
         élu, en 1848, représentant du peuple, puis membre du Corps législatif,
         épousa, le 6 février 1836, à Langogne, Noémi-Marie-Louise Quinsart
@@ -118,7 +118,7 @@ en 1705 \>\>. Il laissa de son mariage :
 
 <!-- -->
 
--   -   IX\. Paulin-Albert de Verdelhan des Molles\*\*, conseiller général de la
+ **IX\. Paulin-Albert de Verdelhan des Molles\*\*, conseiller général de la
         Lozère, maire de Langogne, agronome distingué, marié, le 21 février
         1865, à Jeanne-Marie Jourda de Vaux de Foletier, dont il eut :
 
@@ -133,7 +133,7 @@ en 1705 \>\>. Il laissa de son mariage :
 `   * E. Marie-Thérèse.`\
 ` * 5° Madeleine, mariée, en 1918, au baron Jacques de Lavigerie.`
 
--   -   IX\. René-Charles de Verdelhan des Molles\*\*, conseiller général, maire
+ **IX\. René-Charles de Verdelhan des Molles\*\*, conseiller général, maire
         de Langogne, épousa, le 22 juin 1893, à Cécile de Colombet de Landos,
         fille d\'Anatole de Colombet de Landos, sénateur de la Lozère, décédée
         au château de Barre, à Langogne, le 31 janvier 1926. De ce mariage sont
@@ -153,13 +153,13 @@ L\'auteur de cette branche, dite \<\< des seigneurs des Fourniels \>\>,
 est Raymond Verdelhan, dont le degré de parenté avec l\'auteur des
 Verdelhan des Molles n\'a pu être établi avec certitude.
 
--   -   I. Raymond Verdelhan\*\*, du mas de Trepestel (commune de
+ **I. Raymond Verdelhan\*\*, du mas de Trepestel (commune de
         Saint-Germain de Calberte), épousa Jeanne Raymond, sœur de noble
         Jean Raymond, seigneur du Mazelet. Il fut père de :
 
 <!-- -->
 
--   -   II\. Jean Verdelhan\*\*, sieur des Fourniels, marié, le 30 septembre
+ **II\. Jean Verdelhan\*\*, sieur des Fourniels, marié, le 30 septembre
         1612, à Françoise Sabatier, fille de François Sabatier, sieur de
         Soleirols, et de Françoise Valette. Ses enfants furent :
 
@@ -167,7 +167,7 @@ Verdelhan des Molles n\'a pu être établi avec certitude.
 ` * 2° Pierre, qui suit ;`\
 ` * 3° Jeanne, mariée à Jean du Puy.`
 
--   -   III\. Pierre Verdelhan\*\*, sieur des Fourniels, épousa, le 27 mars 1652,
+ **III\. Pierre Verdelhan\*\*, sieur des Fourniels, épousa, le 27 mars 1652,
         Lucrèce de Valmalette, fille de Luc de Valmalette et de Françoise de
         Castel. Ses enfants furent :
 
@@ -176,7 +176,7 @@ Verdelhan des Molles n\'a pu être établi avec certitude.
 ` * 3° Pierre, lieutenant du juge de Saint-Etienne Vallée-Française ;`\
 ` * 4° Jeanne, mariée au sieur Privat.`
 
--   -   IV\. Jacques Verdelhan\*\*, écuyer, sieur des Fourniels, capitaine au
+ **IV\. Jacques Verdelhan\*\*, écuyer, sieur des Fourniels, capitaine au
         régiment de Noailles-cavalerie, épousa, le 25 octobre 1698, Elisabeth de
         Beauquesne, dont il eut :
 
@@ -186,7 +186,7 @@ Verdelhan des Molles n\'a pu être établi avec certitude.
 ` * 4° Antoinette, mariée à Pierre de Bonal, de Saint-Etienne Vallée-Française ;`\
 ` * 5° Jeanne, mariée, le 4 octobre 1733, à Pierre de Béringuier.`
 
--   -   V. Bernard Verdelhan\*\*, écuyer, sieur des Fourniels, épousa,
+ **V. Bernard Verdelhan\*\*, écuyer, sieur des Fourniels, épousa,
         le 11 novembre 1754, à Chantelle en Bourbonnais, Françoise
         Artaud, dont il eut :
 
@@ -196,13 +196,13 @@ Verdelhan des Molles n\'a pu être établi avec certitude.
 
 #### Branche C.
 
--   -   IV\. Annibal Verdelhan des Fourniels\*\* épousa, le 3 décembre 1696,
+ **IV\. Annibal Verdelhan des Fourniels\*\* épousa, le 3 décembre 1696,
         Françoise le Vieux, dont il eut :
 
 ` * 1° Jacques, qui suit ;`\
 ` * 2° Marie, marié, le 25 mai 1727, à Claude de Moreton, comte de Chabrillan, seigneur du mandement d'Alègre, Saint-Jean le Centenier, etc.`
 
--   -   V. Jacques Verdelhan\*\*, seigneur des Fourniels, Saint-Nazaire,
+ **V. Jacques Verdelhan\*\*, seigneur des Fourniels, Saint-Nazaire,
         conseiller-secrétaire du roi, maison et couronne de France,
         fermier général de Sa Majesté, conseiller, maître d\'hôtel de la
         reine, épousa Marie-Madeleine Morin, dont il eut :

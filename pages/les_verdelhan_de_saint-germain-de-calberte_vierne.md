@@ -30,21 +30,21 @@ puissante descendance jusques aux temps modernes.
 //Hameau sur la rive droite du Gardon, en amont du bourg, en face du
 château de Calberte.//
 
--   -   I -- Jehan VERDELHAN (+1328/1343)\*\*
+ **I -- Jehan VERDELHAN (+1328/1343)\*\*
 
 ` * L’absence de documents plus anciens et la marche du temps incitent à penser qu’il est un cadet d’une lignée de St-Privat-de-Vallongue, fixé par son mariage à Calbertette où sa femme possédait des biens.`\
 ` * En 1329, il apparaît comme témoin dans un acte du notaire JEHAN.`\
 ` * Il est le père de :`\
 `   * Jehan qui suit et probablement Pierre qui reconnaît, en 1346, au seigneur de Portes, une terre sise à Cadoine.`
 
--   -   II -- Jehan VERDELHAN\*\*
+ **II -- Jehan VERDELHAN\*\*
 
 ` * Il habite à Calbertette.`\
 ` * En 1343, il reconnaît à Guillaume de LA GARDE une terre sise à las Portas, dans la paroisse.`\
 ` * En 1357, il échange une terre,`\
 ` * En 1363, il achète une pièce de terre.`
 
--   -   III -- Jehan VERDELHAN (+\>1412)\*\*
+ **III -- Jehan VERDELHAN (+\>1412)\*\*
 
 ` * Il habite à Calbertette, indubitablement fils héritier du précédent.`\
 ` * Qualifié de senior, en 1392, dans un acte du notaire JEHAN,`\
@@ -52,13 +52,13 @@ château de Calberte.//
 ` * Il est le père de :`\
 `   * Jehan qui suit.`
 
--   -   IV -- Jehan VERDELHAN (+\>1421)\*\*
+ **IV -- Jehan VERDELHAN (+\>1421)\*\*
 
 ` * Qualifié de junior en 1412, quand il est cité avec son père.`\
 ` * On lui connaît un fils :`\
 `   * Pierre qui suit.`
 
--   -   V -- Pierre VERDELHAN (+\>1429)\*\*
+ **V -- Pierre VERDELHAN (+\>1429)\*\*
 
 ` * Il habite à Calbertette, cité comme témoin avec son père en 1421.`\
 ` * Il semble être le père de :`\
@@ -66,7 +66,7 @@ château de Calberte.//
 `   * André (+<1450), habitant aussi à Calbertette ; son fils héritier Étienne est établi à Sainte-Croix-Vallée-française, dès 1450 ; d’où André époux de Marguerite CHAUZAL à la Valette, puis Étienne, marié en 1525 à Catherine BILLANGE, au mas de Cabrit, d’où Antoine (1554) et Jehanne épouse de Pierre BORRIT.`\
 `   * Raymond ; en 1453, habitant encore à Calbertette, il est cité avec son frère André pour avoir travaillé aux poutres et à la couverture d’une maison. Il apparaît comme la souche de Frépestel.`
 
--   -   VI -- Béringuier VERDELHAN (+\<1489)\*\*
+ **VI -- Béringuier VERDELHAN (+\<1489)\*\*
 
 ` * Il habite à Calbertette.`\
 ` * Cité dans de nombreux actes de 1442 à 1469 et encore en 1485, en prêtant de l’argent.`\
@@ -74,7 +74,7 @@ château de Calberte.//
 `   * Claude qui suit,`\
 `   * Jehan, clerc en 1483, religieux quand son père lui donne une maison sise à Calbertette, en 1485`
 
--   -   VII -- Claude VERDELHAN (+\>1512)\*\*
+ **VII -- Claude VERDELHAN (+\>1512)\*\*
 
 ` * Héritier universel, il habite à Calbertette.`\
 ` * Cité avec son père dès 1460,`\
@@ -84,7 +84,7 @@ château de Calberte.//
 `   * Jacques prêtre à Saint-Germain-de-Calberte en 1541,`\
 `   * Phélicie, épouse en 1489 de Bernard BANCILHON de Nozières((C.M. le 3-8-1489, M`^`e`^` JULIEN))`
 
--   -   VIII -- Germain VERDELHAN (+\<1532)\*\*
+ **VIII -- Germain VERDELHAN (+\<1532)\*\*
 
 ` * Il habite à Calbertette en héritant du patrimoine.`\
 ` * Donataire, dès 1489, quand il dote sa soeur Phélicie.`\
@@ -97,21 +97,21 @@ château de Calberte.//
 `   * Catherine dont le mari Antoine LAPIERRE de Nogaret de Saint-Martin-de-Lansuscle, donne quittance de la dot, en 1532, à son beaufrère Jacques.`\
 `   * Cécile, épouse d’Antoine FRANCEZON de Saint-Michel-de-Dèze, avec une descendance dans la Vallée longue. En 1374, Antoine réclame un dixième plus un quarantième des biens de Germain à Jehan VARELHES, tenancier des biens et arrière petit-fils du dit Germain.`
 
--   -   IX -- N. VERDELHAN\*\*
+ **IX -- N. VERDELHAN\*\*
 
 ` * On ignore son prénom.`\
 ` * On ne sait dans quelles conditions elle a hérité de Calbertette, vraisemblablement comme fille aînée ; son mari VARELHES (plusieurs familles de ce nom vivaient alors dans la paroisse) a probablement apporté une somme importante à investir sur les biens de sa fiancée, suivant l’usage de l’époque.`\
 ` * Elle est la mère de :`\
 `   * Elzias VARELHES qui suit.`
 
--   -   X -- Elzias (Alrias) VARELHES (+\<1561)\*\*
+ **X -- Elzias (Alrias) VARELHES (+\<1561)\*\*
 
 ` * Il habite à Calbertette.`\
 ` * Il épouse en 1550, Marguerite GOUT, du Crémat près du Pompidou.`\
 ` * Il est le père de :`\
 `   * Jehan qui suit.`
 
--   -   XI -- Jehan VARELHES (+\>1615)\*\*
+ **XI -- Jehan VARELHES (+\>1615)\*\*
 
 ` * Notaire à Calbertette.`\
 ` * On lui connaît trois enfants :`\
@@ -119,7 +119,7 @@ château de Calberte.//
 `   * Jehan, apothicaire à Anduze (1615),`\
 `   * Jacquette, donataire des biens, son mari le notaire Christophe PRIVAT, promettant en 1594 d’apporter 1500 livres (il a fallu 40 pages de minutier au notaire DELORT pour immortaliser l’affaire). C’est ainsi que les tenanciers de Calbertette ont à nouveau changé de nom.`
 
--   -   XII -- Pierre VARELHES\*\*
+ **XII -- Pierre VARELHES\*\*
 
 ` * Praticien chez le duc d’Uzès (1609), << suivant les finances >> à Nîmes, en 1615, quand il épouse Suzanne PONTIER d’Anduze, dotée de 1800 livres, 4 robes...`\
 ` * Son fils Abel, bourgeois, le premier à être qualifié de sieur de Calbertette, vit en alternance à Nîmes et à Calbertette ; il épouse Louise QUENOT, fille d’un chirurgien nîmois.`
@@ -131,7 +131,7 @@ château de Calberte.//
 C'est dans cette lignée que l'on trouve les seigneurs des Moles et des
 Fourniels.
 
--   -   VI -- Raymond VERDELHAN\*\*
+ **VI -- Raymond VERDELHAN\*\*
 
 ` * Marié dès 1457 à Catherine MICHEL, fille héritière de Jehan, à Frépestel. Il a apporté sur les biens de Catherine, tant en payant de nombreuses et diverses dettes sur l’héritage de Frépestel, envers de nombreuses et diverses personnes. Il a apporté à Frépestel certaines quantités de blé, de vin et autres éléments, qu’il a réparé et amélioré l’habitation, dépensant 40 livres tournois. D’autre part feu Jehan MICHEL lui devait 12 livres`\
 ` * Il est cité, par la suite, dans de nombreux actes de notaires et apparaît indubitablement comme le fils de Pierre vu au niveau V de Calbertette.`\
@@ -140,7 +140,7 @@ Fourniels.
 `   * Bernard (1524),`\
 `   * Cécile épouse dès 1524 de Mathieu METGE du Mazel rosade.`
 
--   -   VII -- Raymond VERDELHAN (\<1533)\*\*
+ **VII -- Raymond VERDELHAN (\<1533)\*\*
 
 ` * Héritier à Frépestel.`\
 ` * En 1508, il reconnaît la moitié d’un moulin sur le Gardon à Jehan de CADOENE.`\
@@ -151,7 +151,7 @@ Fourniels.
 `   * Cécile et`\
 `   * Antoinette qui auront 35 livres plus 10 livres pour les habits nuptiaux.`
 
--   -   VIII -- Pierre VERDELHAN\*\*
+ **VIII -- Pierre VERDELHAN\*\*
 
 ` * Héritier universel, il habite à Frépestel.`\
 ` * En 1531, il achète un moulin à blé sur le Gardon.`\
@@ -162,7 +162,7 @@ Fourniels.
 `   * Pierre qui suivra en IX b,`\
 `   * Louis (1521).`
 
--   -   IX a -- Raymond VERDELHAN (+\<1612)\*\*
+ **IX a -- Raymond VERDELHAN (+\<1612)\*\*
 
 ` * Il habite à Frépestel.`\
 ` * Marié dès 1560 à Jehanne RAYMOND, soeur de Jehan, seigneur du Mazelet. Il adhère aux idées de CALVIN.`\
@@ -174,7 +174,7 @@ Fourniels.
 `   * Jacques époux d’Anne FARELLE, sans postérité connue`\
 `   * Jeanne, mariée en 1619 à Jean MAZOYER de Bluech de Saint-Privat-de-Vallongue((C.M. le 11-11-1619, M`^`e`^` DELORT)).`
 
--   -   X a -- Jean VERDELHAN (+\<1639)\*\*
+ **X a -- Jean VERDELHAN (+\<1639)\*\*
 
 ` * Greffier pour le seigneur de Saint-Étienne-Vallée-française.`\
 ` * En 1612, il épouse Françoise SABATIER((C.M. le 30-9-1612, M`^`e`^` CASTANET)), fille de François, seigneur de Soleyrol et Françoise VALETTE, de Cabrespy près de Saint-Étienne. Son oncle, Jean RAYMOND, seigneur du Mazelet, lui donne alors la censive, les droits de directe seigneurie, juridiction haute, moyenne et basse, mère, mixte et impère qu’il a sur le mas des Fourniels. Le seigneur du Mazelet en avait hérité de son père, Jacques, seigneur du Vilar qui avait acquis cette seigneurie de Charles de ROCHEBARON, seigneur de la Garde((Voir les Coseigneurs de Calberte, Familles cévenoles 3)).`\
@@ -184,7 +184,7 @@ Fourniels.
 `   * Jean (+<1639),`\
 `   * Jeanne épouse en 1643 de Jean DUPUY de Saint-Étienne-Vallée-française((C.M. le 28-5-1643, M`^`e`^` TEISSIER)).`
 
--   -   XI a -- Pierre VERDELHAN (° ca 1614, +1682)\*\*
+ **XI a -- Pierre VERDELHAN (° ca 1614, +1682)\*\*
 
 ` * Écuyer, seigneur de Fourniels, il habite à Saint-Étienne.`\
 ` * En 1649, il épouse devant Dieu, Lucrèce VALMALETTE, fille de Luc et Françoise de BELCASTEL et passe contrat devant le notaire en 1652((le 27-3-1652, M`^`e`^` DELAPIERRE)).`\
@@ -195,7 +195,7 @@ Fourniels.
 `   * Adam (1684),`\
 `   * Jeanne, mariée en 1706 au notaire Christophe PRIVAT((C.M. le 22-11-1706, M`^`e`^` PELET le 16-11-1706 à l’église)).`
 
--   -   XII a -- Jacques VERDELHAN (°1649)\*\*
+ **XII a -- Jacques VERDELHAN (°1649)\*\*
 
 ` * Écuyer, seigneur de Fourniels.`\
 ` * Après la révocation de l’édit de Nantes et les abjurations forcées, il est jugé bon catholique et fait carrière dans l’armée.`\
@@ -207,12 +207,12 @@ Fourniels.
 `   * Antoinette, mariée à Pierre BONNAL de Saint-Étienne-Vallée-française`\
 `   * Jeanne, épouse en 1733 de Pierre BERINGUIER.`
 
--   -   XIII a -- Bernard VERDELHAN (°1714)\*\*
+ **XIII a -- Bernard VERDELHAN (°1714)\*\*
 
 ` * Seigneur de Fourniels.`\
 ` * Il se fixe à Chantelle-le-château dans le diocèse de Bourges en épousant Françoise ARTAUD, fille du seigneur de Champforest, conseiller du roi.`
 
--   -   IX b -- Pierre VERDELHAN (+\<1608)\*\*
+ **IX b -- Pierre VERDELHAN (+\<1608)\*\*
 
 ` * `[`D’après`` ``les`` ``frères`` ``HAAG`](La_France_protestante_(Haag))`, il serait un fils d’Antoine, seigneur de Marvelhac, sur manifestement une information fournie par un de ses descendants qui recherchait un lien avec la célèbre lignée de Saint-Privat-de-Vallongue.`\
 ` * Il habite à Frépestel où sa qualité de cadet ne le fait pas apparaître souvent dans les actes de notaires.`\
@@ -221,7 +221,7 @@ Fourniels.
 `   * Daniel qui suit,`\
 `   * Antoine, l’aîné, sans postérité.`
 
--   -   X b -- Daniel VERDELHAN\*\*
+ **X b -- Daniel VERDELHAN\*\*
 
 ` * Écuyer, seigneur de Thonas et de la Bessède, praticien à Thonas, dans la paroisse.`\
 ` * En 1608, il épouse Jeanne PLANQUE, fille d’Étienne et Jeanne SOULIER, de Thonas((C.M. le 30-4-1608, M`^`e`^` COSTE)).`\
@@ -238,7 +238,7 @@ Fourniels.
 `   * Marguerite et`\
 `   * Gabrielle à qui il lègue 120 livres en 1621`
 
--   -   XI b -- Pierre VERDELHAN\*\*
+ **XI b -- Pierre VERDELHAN\*\*
 
 ` * Seigneur des Moles, de Thonas et de la Bessède, il habite à la Combe de Thonas.`\
 ` * Il semble avoir acquis la seigneurie des Moles vers 1650, d’Antoine NOGUIER, écuyer, qualifié seigneur des Moles encore en 1648.`\
@@ -251,7 +251,7 @@ Fourniels.
 `   * Madeleine,`\
 `   * Suzanne.`
 
--   -   XII b -- Daniel VERDELHAN (+\<1743)\*\*
+ **XII b -- Daniel VERDELHAN (+\<1743)\*\*
 
 ` * Seigneur des Moles, de Thonas et de la Bessède.`\
 ` * Docteur en droit et avocat au parlement de Toulouse.`\
@@ -267,7 +267,7 @@ Fourniels.
 `   * Anne (°1722),`\
 `   * Louise, tous cités dans son testament de 1741((le 14-8-1741, M`^`e`^` PELLET)).`
 
--   -   XIII b -- Pierre Jacques VERDELHAN\*\*
+ **XIII b -- Pierre Jacques VERDELHAN\*\*
 
 ` * Seigneur des Moles, de Thonas, du Poujol et de la Bessède.`\
 ` * Il acquiert la seigneurie de la Garde,`\

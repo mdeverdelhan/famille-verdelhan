@@ -15,7 +15,7 @@ des //Notes pour servir à un nobiliaire de Montpellier//.
 
 ##### Retranscription
 
--   -   DE VERDELHAN DES MOLLES\*\*
+ **DE VERDELHAN DES MOLLES\*\*
 
 //[Armes](Armoiries_des_Verdelhan) :// Écartelé : au 1^er^ de
 sable, à une étoile d\'argent ; au 2^e^ d\'azur, à trois coquilles
@@ -25,7 +25,7 @@ gueules, à six besants d\'argent posés 3, 2 et 1.
 \\\\ La filiation de cette famille, [établie par
 d\'Hozier](Armorial_général_de_France_(d'Hozier)), remonte à
 
--   -   Pierre Verdelhan\*\* (//Petrus Verdelhani//), seigneur de
+ **Pierre Verdelhan\*\* (//Petrus Verdelhani//), seigneur de
         Merveillac, qui rendit hommage le 21 juin 1376.
 
 Pierre Verdelhan était seigneur des Molles, de Thonas et de la Bessède,
