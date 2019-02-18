@@ -1,11 +1,6 @@
 ###### L\'Armorial du Gévaudan (Lescure)
 
-\<\< Décrit les familles nobles en suivant l\'organisation féodale du
-Gévaudan : comtes et vicomtes, baronnies, familles ayant possédé les
-douze gentilhommières du Gévaudan, autres familles nobles de la
-province. Comprend des tableaux synoptiques énumérant les chevaliers des
-ordres hospitaliers, les officiers généraux, les dignitaires de
-l\'Eglise, l\'assemblée de la noblesse en 1789, etc. \>\>
+\<\< Décrit les familles nobles en suivant l\'organisation féodale du Gévaudan : comtes et vicomtes, baronnies, familles ayant possédé les douze gentilhommières du Gévaudan, autres familles nobles de la province. Comprend des tableaux synoptiques énumérant les chevaliers des ordres hospitaliers, les officiers généraux, les dignitaires de l\'Eglise, l\'assemblée de la noblesse en 1789, etc. \>\>
 
 Auteur : Marie-Henri-François-Charles Lescure (vicomte de)
 
@@ -13,59 +8,40 @@ Edition originale : 1929.
 
 ##### Les Verdelhan dans cet ouvrage
 
-La description de la famille de Verdelhan est située aux pages 794 à 799
-de l\'ouvrage.
+La description de la famille de Verdelhan est située aux pages 794 à 799 de l\'ouvrage.
 
 ##### Retranscription
 
 #### DE VERDELHAN
 
-//[Ecartelé : au 1, de sable à une étoile d\'argent ; au 2, d\'azur à
-trois coquilles d\'or, 2 et 1 ; au 3, d\'azur au lion d\'or ; au 4, de
-gueules à six besants d\'argent, 3, 2 et
-1.](Armoiries_des_Verdelhan)//
+//[Ecartelé : au 1, de sable à une étoile d\'argent ; au 2, d\'azur à trois coquilles d\'or, 2 et 1 ; au 3, d\'azur au lion d\'or ; au 4, de gueules à six besants d\'argent, 3, 2 et 1.](Armoiries_des_Verdelhan)//
 
-Ancienne famille cévenole, connue dès le XIV^e^ siècle. Jacques
-Verdelhan, du mas de Calberte, vivait en 1334. On trouve d\'autres
-membres de cette famille à Merveillac, Coudoules, Mende, Saint-Frézal de
-Ventalon, Saint-Privat de Vallongue.
+Ancienne famille cévenole, connue dès le XIV^e^ siècle. Jacques Verdelhan, du mas de Calberte, vivait en 1334. On trouve d\'autres membres de cette famille à Merveillac, Coudoules, Mende, Saint-Frézal de Ventalon, Saint-Privat de Vallongue.
 
-Jacques Verdelhan, du lieu de Merveillac, fut taxé pour la rançon des
-fils de François I^er^ prisonniers en Espagne en 1529.
+Jacques Verdelhan, du lieu de Merveillac, fut taxé pour la rançon des fils de François I^er^ prisonniers en Espagne en 1529.
 
-La branche de Merveillac s\'éteignit à la fin du XVII^e^ siècle. La
-branche des seigneurs des Molles, encore existante, commence sa
-filiation avec :
+La branche de Merveillac s\'éteignit à la fin du XVII^e^ siècle. La branche des seigneurs des Molles, encore existante, commence sa filiation avec :
 
- **I. Pierre Verdelhan\*\*, habitant à Thonas, près de
-        Saint-Germain de Calberte, père de :
+ **I. Pierre Verdelhan\*\*, habitant à Thonas, près de Saint-Germain de Calberte, père de :
 
-<!-- -->
 
- **II\. Daniel Verdelhan\*\*, sieur de Thonas, marié, le 30 avril 1608, à
-        Jeanne Planque, dont il eut :
+ **II\. Daniel Verdelhan\*\*, sieur de Thonas, marié, le 30 avril 1608, à Jeanne Planque, dont il eut :
 
- * 1° Pierre, qui suit ;\
- * 2° Daniel ;\
- * 3° Jacques ;\
- * 4° Jean-Jacques ;\
- * 5° Jacquette ;\
- * 6° Valence ;\
+ * 1° Pierre, qui suit ;
+ * 2° Daniel ;
+ * 3° Jacques ;
+ * 4° Jean-Jacques ;
+ * 5° Jacquette ;
+ * 6° Valence ;
  * 7° Suzanne.
 
- **III\. Pierre Verdelhan\*\*, seigneur des Molles, fit hommage, en 1668, à
-        l\'évêque de Mende. Il épousa Anne du Mas, dont il eut :
+ **III\. Pierre Verdelhan\*\*, seigneur des Molles, fit hommage, en 1668, à l\'évêque de Mende. Il épousa Anne du Mas, dont il eut :
 
- * 1° Daniel, qui suit ;\
- * 2° Jacques, sieur de Valmale ;\
+ * 1° Daniel, qui suit ;
+ * 2° Jacques, sieur de Valmale ;
  * 3° Jeanne, mariée au sieur de la Rouvière.
 
- **IV\. Daniel Verdelhan\*\*, seigneur des Molles, coseigneur de
-        Saint-Germain de Calberte, avocat au Parlement de Toulouse, épousa, le
-        17 novembre 1707, Diane de Teule de Camboux, fille de Henry Teule, maire
-        de Saint-Etienne Vallée-Française, et de Lucrèce de Cabiron. Il acquit,
-        en 1728, un droit de sépulture dans l\'église de Saint-Germain. Ses
-        enfants furent :
+ **IV\. Daniel Verdelhan\*\*, seigneur des Molles, coseigneur de Saint-Germain de Calberte, avocat au Parlement de Toulouse, épousa, le 17 novembre 1707, Diane de Teule de Camboux, fille de Henry Teule, maire de Saint-Etienne Vallée-Française, et de Lucrèce de Cabiron. Il acquit, en 1728, un droit de sépulture dans l\'église de Saint-Germain. Ses enfants furent :
 
  * 1° Pierre-Jacques, qui suit ;\
  * 2° Jacques, conseiller et premier médecin de S.A.R. Monseigneur le prince de Condé, docteur régent de la Faculté de Paris en 1744 ;\
