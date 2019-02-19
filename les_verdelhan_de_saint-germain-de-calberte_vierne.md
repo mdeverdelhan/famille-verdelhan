@@ -112,7 +112,7 @@ Calbertette](#à_Calbertette) où il se maintient jusqu'au
 
  **XII -- Pierre VARELHES**
 
- * Praticien chez le duc d’Uzès (1609), << suivant les finances >> à Nîmes, en 1615, quand il épouse Suzanne PONTIER d’Anduze, dotée de 1800 livres, 4 robes...
+ * Praticien chez le duc d’Uzès (1609), « suivant les finances » à Nîmes, en 1615, quand il épouse Suzanne PONTIER d’Anduze, dotée de 1800 livres, 4 robes...
  * Son fils Abel, bourgeois, le premier à être qualifié de sieur de Calbertette, vit en alternance à Nîmes et à Calbertette ; il épouse Louise QUENOT, fille d’un chirurgien nîmois.
 
 #### 2 - A Frepestel

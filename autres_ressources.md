@@ -141,16 +141,16 @@ Livres, revues, ressources bibliographiques restant à explorer :
  * [Alphonse Brémond : Nobiliaire toulousain](http://books.google.fr/books?id=jFkoAAAAYAAJ&ots=yQ9-KFAibe&dq=Alphonse%20Br%C3%A9mond%20%3A%20Nobiliaire%20toulousain&pg=PA494#v=onepage&q=verdeilhan&f=false)
  * Vicomte Albert Révérend : Rest. (pour *Restauration* ?)
  * Henry de Wœlmont de Brumagne (baron) - La noblesse française subsistante, recherches en vue d’un nobiliaire moderne, 1928
- * //Éphémérides// d'Emmanuel de Las Cases (ancien sénateur de la Lozère (1854-1934), presses du languedoc, 1992, p44)
- * //Le Gévaudan et la Lozère 200 ans d'histoire// (p130), Jean-Paul Mazot, Presses du Languedoc
- * //Si m'était conté Saint-Étienne en Cévennes//, p110, p124, p129, Lucien Goillon, 1989
- * //Encyclopédie de la fausse noblesse et de la noblesse d'apparence*, vol 1-2, p651, Dioudonnat Pierre-Marie, 1976
+ * *Éphémérides* d'Emmanuel de Las Cases (ancien sénateur de la Lozère (1854-1934), presses du languedoc, 1992, p44)
+ * *Le Gévaudan et la Lozère 200 ans d'histoire* (p130), Jean-Paul Mazot, Presses du Languedoc
+ * *Si m'était conté Saint-Étienne en Cévennes*, p110, p124, p129, Lucien Goillon, 1989
+ * *Encyclopédie de la fausse noblesse et de la noblesse d'apparence*, vol 1-2, p651, Dioudonnat Pierre-Marie, 1976
  * *Langogne* (Viallet), académie de Nîmes
  * [Louvreleuil](http://books.google.fr/books?id=ivoQAAAAIAAJ&dq=le+fanatisme+renouvel%C3%A9&printsec=frontcover&source=bl&ots=IezVXsCDNl&sig=hFbVkN8w4Blid9AvP8aKm9iXBnE&hl=fr&ei=nZDgSpu-K9WH4QbqkIEP&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAgQ6AEwAA#v=snippet&q=moles&f=false)
    * Tome 1, p363
    * Tome 2, p209
    * Tome 3, p277
- * Yves Pourcher, //Les maîtres de granit. Les notables de Lozère du XVIII<sup>e</sup> siècle à nos jours*, Paris, Olivier Orban, 1987
+ * Yves Pourcher, *Les maîtres de granit. Les notables de Lozère du XVIII<sup>e</sup> siècle à nos jours*, Paris, Olivier Orban, 1987
  * La guerre des cévennes, Henri Bosc
  * [Journal des avoués...](http://books.google.fr/books?id=8VkYAAAAYAAJ&lpg=PA162&ots=sdskWTrsYg&dq=%22sieur%20desmolles%22&pg=PA162#v=onepage&q=%22sieur%20desmolles%22&f=false)
  * Autres ouvrages

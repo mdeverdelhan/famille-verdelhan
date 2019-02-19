@@ -175,7 +175,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](Armoiries_des_Verdelh
    * Marguerite, mariée dès 1625 à Jean FABRE du Chambon Gazaldès,
    * Jeanne,
    * Madeleine.
- * Le 3-7-1623 il donne la moitié de ses biens à son fils aîné Antoine afin qu'il puisse << mieux treuver son party honneste en mariage >>. Les éléments manquent encore pour établir les liens de Daniel avec le Daniel qui suivra en XI d.
+ * Le 3-7-1623 il donne la moitié de ses biens à son fils aîné Antoine afin qu'il puisse « mieux treuver son party honneste en mariage ». Les éléments manquent encore pour établir les liens de Daniel avec le Daniel qui suivra en XI d.
 
  **XI a -- Antoine VERDELHAN**
 
@@ -228,7 +228,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  **XI b -- Pierre VERDELHAN (+\<1661)**
 
  * Sieur du Crespy, notaire (1643-1652).
- * Le 10-1-1643 sa cousine Antoinette NOUVEL, fille de feu Jean, de Castanet dans la paroisse, donne tous ses biens à Pierre << qu'elle désirerait relever même pour plus facilement lui faire espérer un mariage avantageux qu'il est près de contracter avec Anne NOUVEL sa nièce >>; et le dit mariage eut lieu le 13 du dit mois devant le notaire Ponge.
+ * Le 10-1-1643 sa cousine Antoinette NOUVEL, fille de feu Jean, de Castanet dans la paroisse, donne tous ses biens à Pierre « qu'elle désirerait relever même pour plus facilement lui faire espérer un mariage avantageux qu'il est près de contracter avec Anne NOUVEL sa nièce »; et le dit mariage eut lieu le 13 du dit mois devant le notaire Ponge.
  * De ses amours probablement illégitimes avec Jeanne PELET (ou PETIT ?) est né :
    * Jacques (+ <1722), notaire dès 1666 (il n'avait pas vingt ans) à Saint-Privat puis à Castres où il épouse Esther VERDELHAN (°ca 1644) de cette ville, probablement une cousine, fille de Daniel (!) bourgeois de Vabres, demeurant à Castres et veuve de Thobie BONIFAS, apothicaire de Vabres. Esther lui donne deux jumelles Marie (+ 1678) et Esther, baptisées le 6-2-1677 puis deux jumeaux Jean et Grace qui n'ont vécu que quelques jours en 1679, puis Abraham baptisé le 7-2-1681; avocat au parlement de Castres (1677), docteur (1680), conseiller du roi et lieutenant particulier au siège de Castelnau de Brassac (1708) puis lieutenant et juge en la cour de cette ville où il réside depuis 1689; veuf, il épouse Marie MALLABIOU dont il a Pierre (°1708,+ 1722) et Marie (°1711) femme en 1730 de Jean JULIEN((x le 23-4-1730 à Bez)); de ses amours illégitimes avec Olympe BARDOU, Jacques a eu une fille Louise décédée à 7 ans le 16-1-1715((D’après les relevés de Mme Arlette ARDOUIN)). Dans l’étude de 1991, il a été indûment attribué à Anne NOUVEL.
  * Sa deuxième épouse, Lucrèce MICHEL, fille d'Antoine et de Suzanne BAUZON de St-Privat-de-Vallongue, lui a donné au moins :
@@ -550,7 +550,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  **IX aa -- Jacob VERDELHAN (+\<1628)**
 
  * Sieur de Marvelhac
- * Émancipé en 1598, ayant passé l’age de 25 ans ; << versé aux bonnes lettres, à l’étude desquelles il s’est appliqué en sa jeunesse, ayant demeuré de 13 à 14 ans passés aux royaumes d’Angleterre, Ecosse, Irlande, province aux Pays-bas des Flandres et villes et cités du présent royaulme où il auroit durant le dit temps continué pour quelque temps ses ètudes, et après poté des armes tant aux royaumes étrangers que aussi aux dites provinces du dit Pays bas et présent royaulme, sans revenir au présent lieu jusques il y a environ deux mois >>.
+ * Émancipé en 1598, ayant passé l’age de 25 ans ; « versé aux bonnes lettres, à l’étude desquelles il s’est appliqué en sa jeunesse, ayant demeuré de 13 à 14 ans passés aux royaumes d’Angleterre, Ecosse, Irlande, province aux Pays-bas des Flandres et villes et cités du présent royaulme où il auroit durant le dit temps continué pour quelque temps ses ètudes, et après poté des armes tant aux royaumes étrangers que aussi aux dites provinces du dit Pays bas et présent royaulme, sans revenir au présent lieu jusques il y a environ deux mois ».
  * Docteur en droit, écuyer (1599), avocat à la cour des aides de Montpellier.
  * Juge ordinaire de St-Étienne-Vallée-Française en 1603.
  * Il fait compiler le 18-8-1603 les reconnaissances féodales faites à son père.
@@ -711,7 +711,7 @@ Les témoins qui déposent le lundi 24 avril se partagent en deux groupes distin
 
 Ceux qui ont vu :
 
- * Claude Dussaut, sieur de Lavit, 50 ans habitant à Saint-Privat-de-Vallongue, déclare que revenant de Vialas dans la nuit de samedi à dimanche et passant près de la jasse de Fournier de Soubrelargues il entendit qu'on y chantait les psaumes de Marot -- ce qui l'obligea d'y rentrer -- et y trouva une assemblée de 40 à 50 personnes parmi lesquelles il reconnut Antoinette Fage, femme du Sieur du Masmin et six autres personnes qui << tremblèrent, tombèrent et firent tous les mouvements et postures des phanatiques >>.
+ * Claude Dussaut, sieur de Lavit, 50 ans habitant à Saint-Privat-de-Vallongue, déclare que revenant de Vialas dans la nuit de samedi à dimanche et passant près de la jasse de Fournier de Soubrelargues il entendit qu'on y chantait les psaumes de Marot -- ce qui l'obligea d'y rentrer -- et y trouva une assemblée de 40 à 50 personnes parmi lesquelles il reconnut Antoinette Fage, femme du Sieur du Masmin et six autres personnes qui « tremblèrent, tombèrent et firent tous les mouvements et postures des phanatiques ».
  * Jean Gévaudan, curé depuis sept ans de Saint-Privat-de-Vallongue, revenant de visiter des malades, alors qu'il passait à Sarreméjane, après minuit, entendit chanter les psaumes qu'il écouta pendant un quart d'heure. Il entendit aussi une fille qui parlait à la manière des phanatiques; il déclare aussi qu'il n'a jamais vu à l'église Jean André Verdelhan.
 
 Les autres témoins convoqués par Pierre Chabrol sergent de Vimbouches.
@@ -719,7 +719,7 @@ Les autres témoins convoqués par Pierre Chabrol sergent de Vimbouches.
  * Isaac Vilaret, cordonnier de Saint-Privat-de-Vallongue déclare avoir été appelé dans la nuit par le sieur Gévaudan, curé, accompagné du sieur Reversat, vicaire, et de quelques autres parce qu'il y avait une assemblée dans la maison du sieur du Masmin, au mas de Sarreméjane où il avait entendu chanter les psaumes et prêcher une fanatique. Arrivé au mas il a été mis en faction derrière une grange dans laquelle on a trouvé Pierre Bausedat de Saint-André-de-Lancize et Pierre Pic de Saint-Privat-de-Vallongue. Ensuite ces deux hommes ont été conduits avec Antoine Roux du Masmin et le sieur de Villeneuve fils du sieur du Masmin dans la maison du curé où on les garda le reste de la nuit puis on les conduisit prisonniers à Saint-Germain-de-Calberte.
  * Pierre Nogaret, tailleur d'habits de Saint-Privat-de-Vallongue complète le témoignage précédent en ajoutant que Jean André Verdelhan, frère du sieur du Masmin avait été tué alors qu'il essayait de s'évader et déclare en outre qu'Antoinette fille aînée du sieur du Masmin était une fanatique.
  * Joseph Reversat, vicaire apporte des informations complémentaires; il déclare que lorsqu'il fit ouvrir la porte de la maison tout le monde était couché sauf la femme du sieur du Masmin; qu'il n'avait jamais vu le feu Jean André Verdelhan à l'église; qu'il avait vu par deux fois Antoinette et Jeanne Verdelhan filles du sieur du Masmin, dans leur maison, faisant des soupirs, des sanglots et des contorsions de leurs corps qui lui ont fait juger qu'elles étaient fanatiques et que depuis plus de six mois elles ne sont point entrées dans l'église.
- * Les chirurgiens: de leur expertise, il ressort que Jean André Verdelhan a été tué de deux balles qui ont pénétré dans la poitrine << au défaut de l'omoplate du côté gauche >>.
+ * Les chirurgiens: de leur expertise, il ressort que Jean André Verdelhan a été tué de deux balles qui ont pénétré dans la poitrine « au défaut de l'omoplate du côté gauche ».
  * Jean Teissier, sieur de la Salzède, juge de la comté de Grizac, habitant Saint-Privat-de-Vallongue, entraîné par le curé indique que tout le monde était au lit lorsqu'ils sont arrivés à Sarreméjane à l'exception de Jean André Verdelhan dont le lit était encore chaud.
 
 Le mercredi 26 avril, Pierre Leblanc subdélégué de l'intendant en Languedoc, Basville, interroge dans la maison de Jacques Verdelhan, la femme et les enfants du sieur du Masmin.

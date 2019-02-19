@@ -25,8 +25,8 @@ Le lion
 
 Contrairement à ce que beaucoup pensent, le lion des Verdelhan n'est pas un lion *issant* (ni même *hissant*). Deux généalogistes du XIX<sup>ième</sup> siècle nous renseignent sur la signification de ce terme en héraldique :
 
- * << **ISSANT, TE**, gérond. et adject., se dit d'un lion, d'une aigle ou d'un autre animal, qui paraît à l'un des bords de l'écu sur un chef, une fasce, etc., et ne montre que la tête et une petite partie de son corps. >>((Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816))
- * << **ISSANT**. Se dit de tout animal, lion, aigle ou autre, dont on ne voit figuré que la tête et une petite partie du corps. L'animal Issant semble sortir d'une pièce ou d'une partition de l'écu, il doit toujours être représenté seul, il peut être couronné, armé, etc., aucun émail ne lui est particulier, mais il faut se garder de le confondre avec l'animal naissant dont il est parlé à ce mot. >>((L.-A. Duhoux d'Argicourt, *Alphabet et figures de tous les termes du blason*, Paris, 1899))
+ * « **ISSANT, TE**, gérond. et adject., se dit d'un lion, d'une aigle ou d'un autre animal, qui paraît à l'un des bords de l'écu sur un chef, une fasce, etc., et ne montre que la tête et une petite partie de son corps. »((Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816))
+ * « **ISSANT**. Se dit de tout animal, lion, aigle ou autre, dont on ne voit figuré que la tête et une petite partie du corps. L'animal Issant semble sortir d'une pièce ou d'une partition de l'écu, il doit toujours être représenté seul, il peut être couronné, armé, etc., aucun émail ne lui est particulier, mais il faut se garder de le confondre avec l'animal naissant dont il est parlé à ce mot. »((L.-A. Duhoux d'Argicourt, *Alphabet et figures de tous les termes du blason*, Paris, 1899))
 
 Le dictionnaire *Le Robert* nous indique lui aussi que « \[ce qualificatif\] se dit d'animaux qui ne présentent que la moitié supérieure du corps et paraissent sortir de la pièce ou du champ de l'écu ».
 

@@ -302,7 +302,7 @@ On n'a pu établir une filiation continue qu'à partir de Laurent dont la descen
 
  * Maçon à Pénens (1617), puis à Chabaniels et enfin à la Rodilharie.
  * En 1627, il reconnaît à la marquise de Portes des biens de sa femme.
- * En 1629, suite à la << Paix >> d’Alès, il est désigné avec Jean LAURENT de Florac, pour démolir 40 cannes de murailles de cette ville et combler le fossé correspondant ; pour ce travail, ils percevront 240 livres payées par la communauté du Collet.
+ * En 1629, suite à la « Paix » d’Alès, il est désigné avec Jean LAURENT de Florac, pour démolir 40 cannes de murailles de cette ville et combler le fossé correspondant ; pour ce travail, ils percevront 240 livres payées par la communauté du Collet.
  * Consul clavaire du Collet en 1631.
  * En 1627, il épouse Suzanne FERRIER, fille d’Antoine et Marie NOGARET de la Rodilharie((C.M. le 1-10-1627, M<sup>e</sup> PRIVAT)), d’où :
    * Antoine, maçon à Chabaniels, époux en 1648 de Marie LAURENT, fille de Jean, maçon et Catherine SOLEYRET du Collet((C.M. le 21-2-1648, M<sup>e</sup> GIBERT))
@@ -355,5 +355,4 @@ On n'a pu établir une filiation continue qu'à partir de Laurent dont la descen
 
 #### 7 - Au Rochadel
 
-Une autre lignée intéressante s'est développée au 16<sup>ème</sup> siècle dans la paroisse de Saint-Michel-de-Dèze, au Rochadel à partir de Pierre VERDELHAN qui y épouse Jacquette LANTEYRES. [Cette lignée se rattache à
-celle de Sarreméjane](Les_Verdelhan_de_Saint-Privat-de-Vallongue_(1275-1775)_(Vierne)#Au_Rochadel).
+Une autre lignée intéressante s'est développée au 16<sup>ème</sup> siècle dans la paroisse de Saint-Michel-de-Dèze, au Rochadel à partir de Pierre VERDELHAN qui y épouse Jacquette LANTEYRES. [Cette lignée se rattache à celle de Sarreméjane](Les_Verdelhan_de_Saint-Privat-de-Vallongue_(1275-1775)_(Vierne)#Au_Rochadel).
