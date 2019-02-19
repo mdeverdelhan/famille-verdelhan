@@ -1,6 +1,6 @@
 ###### Autres ressources
 
-Cette page recense les différentes sources d\'informations restant à
+Cette page recense les différentes sources d'informations restant à
 explorer ou à classer.
 
 ##### Verdelhan des Fourniels

@@ -2,9 +2,7 @@
 
 ##### Où chercher
 
-Jusqu\'au début du XX^ème^ siècle, l\'histoire des Verdelhan se confond
-avec celles du Gard et de la Lozère. On comprendra donc qu\'il faille
-chercher de ce côté là.
+Jusqu'au début du XX^ème^ siècle, l'histoire des Verdelhan se confond avec celles du Gard et de la Lozère. On comprendra donc qu'il faille chercher de ce côté là.
 
  * [Archives municipales d'Alès](http://www.alescevennes.fr/portal/portal/pac/informer/archivesmunicipales/presentation)\
  * Archives municipales de Langogne\
@@ -16,8 +14,7 @@ chercher de ce côté là.
 
 ##### Voir aussi
 
-Sociétés et associations de généalogistes((Merci à [Nicolas
-Lawriw](http://nlawriw.free.fr) pour la majorité de ces liens
+Sociétés et associations de généalogistes((Merci à [Nicolas Lawriw](http://nlawriw.free.fr) pour la majorité de ces liens
 (http://www.brozer.fr).)) :
 
  * [Site de l'Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)\
@@ -33,14 +30,13 @@ Catalogues de bibliothèques :
  * Bibliothèque numérique de Google : [Google Books](http://books.google.fr/)\
  * Bibliothèque numérique de la BNF : [Gallica](http://gallica.bnf.fr/)
 
-Fiches d\'aide des Archives Nationales :
+Fiches d'aide des Archives Nationales :
 <http://www.archivesnationales.culture.gouv.fr/chan/chan/archives-fiches-recherche.html>
 
 ##### Graphies alternatives
 
-La recherche généalogique est malheureusement soumise aux aléas de
-l\'orthographe. Les différences de graphies ont plusieurs origines,
-ainsi il peut s\'agir :
+La recherche généalogique est malheureusement soumise aux aléas de l'orthographe. Les différences de graphies ont plusieurs origines,
+ainsi il peut s'agir :
 
  * D'une évolution orthographique du nom de famille ;\
  * D'un ajout/retrait d'une particule ;\
@@ -48,8 +44,7 @@ ainsi il peut s\'agir :
  * D'une erreur dans l'analyse OCR (//[Optical Character Recognition](http://fr.wikipedia.org/wiki/Reconnaissance_optique_de_caract%C3%A8res)//) du document ;\
  * Etc.
 
-Aussi il est important d\'essayer différentes graphies lors de l\'étude
-d\'un document. En ce qui concerne les Verdelhan (des Molles ou non),
+Aussi il est important d'essayer différentes graphies lors de l'étude d'un document. En ce qui concerne les Verdelhan (des Molles ou non),
 voici les orthographes déjà rencontrées :
 
  * Vardelhan, Verdallian, Verdeilhan, Verdeillan, Verdelhain, Verdelhan, Verdelhian, Verdelian, Verdelihan, Verdellan, Verdilhan, Verdcilhan\
