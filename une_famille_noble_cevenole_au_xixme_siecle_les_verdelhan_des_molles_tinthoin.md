@@ -14,22 +14,19 @@ Les familles nobles des Hautes Cévennes sont issues d'une petite aristocratie t
 
 \* \* \*
 
-Au XVIII<sup>me</sup> siècle, la famille noble des *Verdelhan des Molles* a encore certains collatéraux paysans. Son représentant, le seigneur des Molles, coseigneur de St-Germain-de-Calberte, sieur de Masbernard sur la paroisse de Saint-Etienne-Vallée-Française, est docteur-ès-droit et avocat au Parlement de Toulouse. Sa mère((Anne du Mas (vivant en 1722).
-Pour cette famille, nous avons consulté, en particulier, Vicomte de
-*Lescure* « Armorial du Gévaudan », Lyon, 1929. pp. 794-797.))
-est roturière et sa femme((Diane de Teule de Camboux.
+Au XVIII<sup>me</sup> siècle, la famille noble des *Verdelhan des Molles* a encore certains collatéraux paysans. Son représentant, le seigneur des Molles, coseigneur de St-Germain-de-Calberte, sieur de Masbernard sur la paroisse de Saint-Etienne-Vallée-Française, est docteur-ès-droit et avocat au Parlement de Toulouse. Sa mère((Anne du Mas (vivant en 1722). Pour cette famille, nous avons consulté, en particulier, Vicomte de *Lescure* « Armorial du Gévaudan », Lyon, 1929. pp. 794-797.)) est roturière et sa femme((Diane de Teule de Camboux.
 
-//[Jean-Daniel Verdelhan des Molles](Jean-Daniel_Verdelhan_des_Molles_(1737-1822))// a quatre enfants :\\\\ I --- //Simon-Marcel// qui épouse, en 1803,
+*[Jean-Daniel Verdelhan des Molles](Jean-Daniel_Verdelhan_des_Molles_(1737-1822))* a quatre enfants :\\\\ I --- *Simon-Marcel* qui épouse, en 1803,
 Elisabeth de Cadolle, d'Alès, décédé le 20 mars 1821, à Alès. Ils ont cinq enfants :
 
- * 1) [Charles-Léon](Charles-Léon_Verdelhan_des_Molles_(1805-1868)), propriétaire à Langogne, en 1850.
- * 2) Joseph-Daniel-Gustave.
- * 3) Marie-Xavier-Calixte, avocat à Montpellier, en 1854.
- * 4) Marcel-Calixte-Clodomir, à St-Etienne-Vallée-Française, en 1850.
- * 5) Marie-Joséphine-Virginie.
+ 1) [Charles-Léon](Charles-Léon_Verdelhan_des_Molles_(1805-1868)), propriétaire à Langogne, en 1850.
+ 2) Joseph-Daniel-Gustave.
+ 3) Marie-Xavier-Calixte, avocat à Montpellier, en 1854.
+ 4) Marcel-Calixte-Clodomir, à St-Etienne-Vallée-Française, en 1850.
+ 5) Marie-Joséphine-Virginie.
 
-II --- //Julie-Elisabeth//.\\\\ III --- //Marie-Sophie-Agnès//, épouse de Joseph-Nicolas Subiderroux de la Bastide. Ils habitent à
-St-Etienne-Vallée-Française, en 1850.\\\\ IV --- //Anne-Germain-Xavier//
+II --- *Julie-Elisabeth*.\\\\ III --- *Marie-Sophie-Agnès*, épouse de Joseph-Nicolas Subiderroux de la Bastide. Ils habitent à
+St-Etienne-Vallée-Française, en 1850.\\\\ IV --- *Anne-Germain-Xavier*
 demeure au château de La Garde (commune de St-Germain) en 1859, épouse Anne Sabathier, en premières noces. Sa fille aînée :
 Marie-Joséphine-Léocardie épouse Jean-Louis de Salvat ; de ses 2 fils,
 Edmond et Henri, le deuxième est docteur-en-médecine et demeure à
@@ -38,8 +35,7 @@ St-Etienne-Vallée-Française.)), fille d'un bourgeois, conseiller du roi et mai
 Sur six enfants, il a quatre garçons : deux sont avocats au Parlement de Toulouse, le troisième médecin : ce qui confirme l'appartenance de cette famille à la noblesse de robe. Elle évolue vers la noblesse d'épée avec le fils aîné Pierre-Jacques, coseigneur de Masbernard et ses quatre garçons : [l'un prêtre](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794))((A.
 D. Lozère, Série H, n° 13. [L'abbé Verdelhan des Molles](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794)) est codirecteur de l'hôpital de St-Germain, en 1776. Né en 1739, prêtre réfractaire déporté à la Guyane, mort en 1794.)), deux autres officiers du roi.
 
-L'aîné,
-//[Jean-Daniel](Jean-Daniel_Verdelhan_des_Molles_(1737-1822))//,
+L'aîné, *[Jean-Daniel](Jean-Daniel_Verdelhan_des_Molles_(1737-1822))*,
 succède à son père comme seigneur des Molles, En 1764, il épouse une demoiselle de Solier --- fille d'un avocat et juge
 ---((Catherine-Elizabeth de Solier, fille de Pierre de Solier.)) et, en
 1796, marie une de ses filles((Marie-Sophie-Agnès de Verdelhan des Molles.)) à un propriétaire foncier de St-Etienne-Vallée-Française((Joseph-Nicolas Subiderroux de la Bastide.))
@@ -47,7 +43,7 @@ et affirme ainsi sa parenté avec la bourgeoisie aisée. Né après 1734, il meu
 En 1789, il prend part à l'Assemblée de la Noblesse du Gévaudan. Son fils aîné, Simon-Marcel épouse, en 1803, une jeune fille noble d'Alès((Elisabeth-Joséphine de Cadolle, apparentée au Comte Bernard-Jacques-Paulin de Cadolle, chevalier de dévotion de l'ordre de St Jean de Jérusalem.)). Son frère, Anne-Germain-Xavier, trésorier du bureau de bienfaisance, lui succèdera comme maire de St-Germain, en
 1823.
 
-La //[maison familiale](Liste_des_propriétés_notables#Maison_de_l'abbé_du_Chayla)//
+La *[maison familiale](Liste_des_propriétés_notables#Maison_de_l'abbé_du_Chayla)*
 des Verdelhan des Molles, à l'angle de deux rues((Rue Basse et rue Droite.)), donne sur la place, face à la halle au blé, dans un îlot d'immeubles, en arrière desquels s'étendent des jardins, puis, à la périphérie, des terres de cultures. Cette grande demeure à deux étages est bâtie sur trois caves, caveau et arrière-cave((Elle compte 21
 fenêtres et portes. Etat de section du Cadastre 1836.)). On accède à
 l'entresol par un escalier, puis au premier étage, composé de cuisine,
@@ -124,7 +120,7 @@ paires de bas de fil ou de coton de différentes couleurs, 3 paires de bas de so
 l'une et l'autre, 10 et 25 francs.)), un fichu de madras bleu((Etoffe légère dont la chaîne est en soie et la trame en coton.)), un morceau de vieille toile peinte en bleu.
 
 Dans l' « appartement » attenant à la grande salle, une armoire en cerisier et noyer à deux portes et 3 tablettes contient une
-//bibliothèque// de près de 200 volumes. Des ouvrages de piété et de polémique catholiques (une centaine), assez abstraits, sont représentés par des livres de théologie, œuvres des Pères de l'Eglise (Saint Justin, Saint Jérôme, Saint Augustin), sermons et oraisons funèbres de Bossuet, Bourdaloue, Massillon et Fléchier, conférences((Comptes rendus des conférences ecclésiastiques de Paris, Langres, Luçon, Angers.
+*bibliothèque* de près de 200 volumes. Des ouvrages de piété et de polémique catholiques (une centaine), assez abstraits, sont représentés par des livres de théologie, œuvres des Pères de l'Eglise (Saint Justin, Saint Jérôme, Saint Augustin), sermons et oraisons funèbres de Bossuet, Bourdaloue, Massillon et Fléchier, conférences((Comptes rendus des conférences ecclésiastiques de Paris, Langres, Luçon, Angers.
 Statuts synodaux de Mende.)), méditations, catéchismes, œuvres de Saint François de Sales, Bible en 8 volumes, traduite en français, traduction de la Genèse, commentaire sur l'Ecriture Sainte, deux « Histoire Sainte » en 2 et 3 volumes, 2 tomes de la « Bibliothèque janséniste », mais également des ouvrages de jésuites et d'oratoriens, un livre contre le schisme des « prétendus réformés
 \>\> et un traité pour convertir les hérétiques. Si quelques œuvres
 évoquent les principaux problèmes religieux de l'époque --- jansénisme,
@@ -135,16 +131,16 @@ notaire de St-Privat-de-Vallongue, nouveau converti, a été assassiné, en
 1703, par les Camisards, [un Verdelhan des Molles](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794))
 sera prêtre réfractaire pendant la Révolution.)).
 
-La //littérature gréco-latine// est représentée par près d'une vingtaine d'ouvrages, notamment d'Aristote, Isocrate, Virgile
+La *littérature gréco-latine* est représentée par près d'une vingtaine d'ouvrages, notamment d'Aristote, Isocrate, Virgile
 (traduction Deffontaines), Juvénal, Plutarque (traduction d'Amyot),
 Terence, philosophie latine.
 
-La //littérature française// compte 36 volumes du XVII<sup>me</sup> : Guez de Balzac, Boileau, Racine, La Bruyère, Fénelon (le Télémaque), Pascal (les Pensées), le comédien Regnard, des critiques littéraires : le Père Bouhours, le poète Benserade ; du XVIII<sup>me</sup> ; les poètes Bernis, l'abbé
+La *littérature française* compte 36 volumes du XVII<sup>me</sup> : Guez de Balzac, Boileau, Racine, La Bruyère, Fénelon (le Télémaque), Pascal (les Pensées), le comédien Regnard, des critiques littéraires : le Père Bouhours, le poète Benserade ; du XVIII<sup>me</sup> ; les poètes Bernis, l'abbé
 de la Porte, La Harpe, Jean-Baptiste Rousseau, les critiques littéraires
 : Rollin et Thomas, des savants des XVII<sup>me</sup> et XVIII<sup>me</sup> siècles : les naturalistes Pluche et Buffon, le mathématicien Bezout, les physiciens Rohault et Nollet, des historiens profanes et religieux : le jésuite français Velly, l'abbé de Vertot, Dom Calunet, Berruyer et Boulainvilliers ; l'Esprit de Lois en 3 volumes, Grandeur et décadence des Romains de Montesquieu, la Henriade de Voltaire. En somme, peu d'ouvrages des Philosophes du XVIII<sup>me</sup> et les moins « subversifs
 \>\>.
 
-Pour la //littérature étrangère//, il faut citer : un Don Quichotte de Cervantès en 5 volumes, un ouvrage du Jésuite espagnol Rodriguez, un discours contre Machiavel et une grammaire anglaise.
+Pour la *littérature étrangère*, il faut citer : un Don Quichotte de Cervantès en 5 volumes, un ouvrage du Jésuite espagnol Rodriguez, un discours contre Machiavel et une grammaire anglaise.
 
 En résumé, [Jean-Daniel Verdelhan des Molles](Jean-Daniel_Verdelhan_des_Molles_(1737-1822))
 s'intéresse au *droit*, comme avocat, (une trentaine de volumes) :
@@ -223,7 +219,7 @@ L'*élevage des vers à soie* --- introduit fin du XVI<sup>me</sup> siècle --- 
 
 La *récolte* de 1822 dans les 6 métairies affermées à mi-fruit, les biens de St-Germain et une pension servie en nature((Par Liquière des Portes.)) ont rapporté près de 400 hectolitres de châtaignes blanches de toutes espèces : grosses, bazanettes et brises. Les châtaignes sont consommées par les membres de la famille, les trois domestiques de la maison de St-Germain (2 femmes et 1 homme) et également pour nourrir le cheval et la mule et engraisser les cochons ; le reste est vendu.
 
-Au XIX<sup>me</sup> siècle, cette famille joue un certain //rôle// dans la vie politique locale. [Léon-Charles Verdelhan des Molles](Charles-Léon_Verdelhan_des_Molles_(1805-1868)), aîné des enfants du fils aîné de Jean-Daniel, est élu en 1848 représentant du peuple et membre du Corps législatif. Il a été député légitimiste sous la Seconde République et le Second Empire((Cf. //M. Masseguin// : Les Parlementaires royalistes lozériens de 1815 à 1893. Diplôme d'Etudes supérieures de la Faculté des Lettres de Montpellier, 1957, 119 pages dactylographiées, notamment pp. 66-74.)). Vers 1850, Paulin-Albert Verdelhan des Molles, conseiller général de la Lozère, maire de Langogne, épouse la fille de Colombet de Landos, sénateur de la Lozère((Décédé en 1926 au château de Barre, à Langogne.)).
+Au XIX<sup>me</sup> siècle, cette famille joue un certain *rôle* dans la vie politique locale. [Léon-Charles Verdelhan des Molles](Charles-Léon_Verdelhan_des_Molles_(1805-1868)), aîné des enfants du fils aîné de Jean-Daniel, est élu en 1848 représentant du peuple et membre du Corps législatif. Il a été député légitimiste sous la Seconde République et le Second Empire((Cf. *M. Masseguin* : Les Parlementaires royalistes lozériens de 1815 à 1893. Diplôme d'Etudes supérieures de la Faculté des Lettres de Montpellier, 1957, 119 pages dactylographiées, notamment pp. 66-74.)). Vers 1850, Paulin-Albert Verdelhan des Molles, conseiller général de la Lozère, maire de Langogne, épouse la fille de Colombet de Landos, sénateur de la Lozère((Décédé en 1926 au château de Barre, à Langogne.)).
 
 \* \* \*
 

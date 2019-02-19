@@ -44,7 +44,7 @@ Les besants représentent des pièces de monnaie. Chez les Verdelhan ils sont en
 
 La couronne de [marquis](wp>fr:Marquis) ornant les armes des Verdelhan est elle aussi soumise à controverse. En effet, le seul marquisat connu de la famille fût celui de Montanègues, acheté en 1761 par Jacques Verdelhan des Fourniels. La branche des Fourniels s'étant éteinte au XIX<sup>ème</sup> siècle et les premières références à la couronne apparaissant à cette époque-là, il est possible que cela ait paru un bel ornement à rajouter aux armes *officielles*. Il se peut également que cela provienne d'une alliance quelconque.
 
-Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur écu « //timbré d'un casque, taré de profil, orné de ses lambrequins// » mais son existence n'est pas attestée.
+Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur écu « //timbré d'un casque, taré de profil, orné de ses lambrequins* » mais son existence n'est pas attestée.
 
 ### Évolution des armoiries
 

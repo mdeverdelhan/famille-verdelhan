@@ -46,6 +46,6 @@ arrière petit-fils de Pierre Verdelhan, possédait encore la métairie des Mole
 Il est probable qu'elle ait été vendue lors de la succession.
 
 La loi du 6 fructidor an II((23 août 1794)) fixant les noms de famille,
-//Jean-Daniel Verdelhan, sieur des Molles* est devenu *Jean-Daniel Verdelhan des Molles//.
+//Jean-Daniel Verdelhan, sieur des Molles* est devenu *Jean-Daniel Verdelhan des Molles*.
 
 [\[Voir les photos du bâtiment](https://picasaweb.google.com/111524259305843655428/FermeDesMolles102009?authkey=Gv1sRgCJP1gYHPgo0B)\]

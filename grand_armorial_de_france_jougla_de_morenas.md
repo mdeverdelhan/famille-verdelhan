@@ -21,7 +21,7 @@ Société du Grand Armorial de France, 1949) du *Grand Armorial de France*.\\\\ 
 
 34.416. -- (Languedoc, Gévaudan, Gascogne) -- //[Ecart. Au I, de sa. à
 l'étoile d'arg. ; au II, d'az. à 3 coqu. d'or ; au III, d'az. à un lion d'or ; au IV, de gue. à 6 besans d'arg., 3, 2 et
-1](Armoiries_des_Verdelhan)//.\\\\ Ces 2 familles, qui portent les mêmes armes et ont vraisemblablement une origine commune,
+1](Armoiries_des_Verdelhan)*.\\\\ Ces 2 familles, qui portent les mêmes armes et ont vraisemblablement une origine commune,
 pensent être issues de la Maison des Verdelhan qui établissait sa fil.
 depuis 1377 et s'éteignit à la fin du XVII<sup>e</sup> siècle. Cette origine,
 considérée comme probable par

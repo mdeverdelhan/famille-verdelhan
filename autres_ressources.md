@@ -84,7 +84,7 @@ Verdelhan des Molles (de) Louis, Bernard
 #### Divers
 
  * Mme des Molles abat ses tours à la révolution : [http://www.castagnet.info/ete2007/7.html](http://www.castagnet.info/ete2007/7.html)
- * Journal officiel de la république française : [http://www.legifrance.gouv.fr/jopdf//jopdf/1966/050/JO196605038.PDF](http://www.legifrance.gouv.fr/jopdf//jopdf/1966/050/JO196605038.PDF)
+ * Journal officiel de la république française : [http://www.legifrance.gouv.fr/jopdf*jopdf/1966/050/JO196605038.PDF](http://www.legifrance.gouv.fr/jopdf*jopdf/1966/050/JO196605038.PDF)
  * Euraldic : [http://www.euraldic.com/noms_v_e.html](http://www.euraldic.com/noms_v_e.html)
  * Un lieutenant-colonel en 14-18 : [http://www.genemilassoc.fr/charge.php?f=MTIyNA==](http://www.genemilassoc.fr/charge.php?f=MTIyNA==)
  * Descendance capétienne : [http://www.capet.org/geneal7/G_DerniersBlasons.php?base=capet](http://www.capet.org/geneal7/G_DerniersBlasons.php?base=capet) ?
@@ -144,13 +144,13 @@ Livres, revues, ressources bibliographiques restant à explorer :
  * //Éphémérides// d'Emmanuel de Las Cases (ancien sénateur de la Lozère (1854-1934), presses du languedoc, 1992, p44)
  * //Le Gévaudan et la Lozère 200 ans d'histoire// (p130), Jean-Paul Mazot, Presses du Languedoc
  * //Si m'était conté Saint-Étienne en Cévennes//, p110, p124, p129, Lucien Goillon, 1989
- * //Encyclopédie de la fausse noblesse et de la noblesse d'apparence//, vol 1-2, p651, Dioudonnat Pierre-Marie, 1976
+ * //Encyclopédie de la fausse noblesse et de la noblesse d'apparence*, vol 1-2, p651, Dioudonnat Pierre-Marie, 1976
  * *Langogne* (Viallet), académie de Nîmes
  * [Louvreleuil](http://books.google.fr/books?id=ivoQAAAAIAAJ&dq=le+fanatisme+renouvel%C3%A9&printsec=frontcover&source=bl&ots=IezVXsCDNl&sig=hFbVkN8w4Blid9AvP8aKm9iXBnE&hl=fr&ei=nZDgSpu-K9WH4QbqkIEP&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAgQ6AEwAA#v=snippet&q=moles&f=false)
    * Tome 1, p363
    * Tome 2, p209
    * Tome 3, p277
- * Yves Pourcher, //Les maîtres de granit. Les notables de Lozère du XVIII<sup>e</sup> siècle à nos jours//, Paris, Olivier Orban, 1987
+ * Yves Pourcher, //Les maîtres de granit. Les notables de Lozère du XVIII<sup>e</sup> siècle à nos jours*, Paris, Olivier Orban, 1987
  * La guerre des cévennes, Henri Bosc
  * [Journal des avoués...](http://books.google.fr/books?id=8VkYAAAAYAAJ&lpg=PA162&ots=sdskWTrsYg&dq=%22sieur%20desmolles%22&pg=PA162#v=onepage&q=%22sieur%20desmolles%22&f=false)
  * Autres ouvrages

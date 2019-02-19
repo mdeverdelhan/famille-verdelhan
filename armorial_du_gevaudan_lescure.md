@@ -14,7 +14,7 @@ La description de la famille de Verdelhan est située aux pages 794 à 799 de l'
 
 #### DE VERDELHAN
 
-//[Ecartelé : au 1, de sable à une étoile d'argent ; au 2, d'azur à trois coquilles d'or, 2 et 1 ; au 3, d'azur au lion d'or ; au 4, de gueules à six besants d'argent, 3, 2 et 1.](Armoiries_des_Verdelhan)//
+*[Ecartelé : au 1, de sable à une étoile d'argent ; au 2, d'azur à trois coquilles d'or, 2 et 1 ; au 3, d'azur au lion d'or ; au 4, de gueules à six besants d'argent, 3, 2 et 1.](Armoiries_des_Verdelhan)*
 
 Ancienne famille cévenole, connue dès le XIV<sup>e</sup> siècle. Jacques Verdelhan, du mas de Calberte, vivait en 1334. On trouve d'autres membres de cette famille à Merveillac, Coudoules, Mende, Saint-Frézal de Ventalon, Saint-Privat de Vallongue.
 
@@ -99,7 +99,7 @@ Il fit constater par le juge de Saint-Etienne Vallée-Française que « tous le
  **IX. René-Charles de Verdelhan des Molles**, conseiller général, maire de Langogne, épousa, le 22 juin 1893, à Cécile de Colombet de Landos, fille d'Anatole de Colombet de Landos, sénateur de la Lozère, décédée au château de Barre, à Langogne, le 31 janvier 1926. De ce mariage sont nés :
 
  * 1° Jean ;
- * 2° Bernard, enseigne de vaisseau, observateur d'hydravion, //mort au champ d'honneur le 14 mai 1918//, chevalier de la Légion d'honneur, Croix de guerre avec palme ;
+ * 2° Bernard, enseigne de vaisseau, observateur d'hydravion, *mort au champ d'honneur le 14 mai 1918*, chevalier de la Légion d'honneur, Croix de guerre avec palme ;
  * 3° Marie ;
  * 4° Henri ;
  * 5° Alix ;
@@ -155,7 +155,5 @@ Bathilde-Madeleine-Félicité, mariée, le 28 février 1752, à Jacques de Moret
 
 \\\
 
-//Communicat.// de M. R. de Verdelhan \-- //Biens nobles du Gévaud.//
-(dans //Bull... de la Loz.//), 173. \-- Abbé Foulquier, //Notes hist.
-sur les paroisses des Cévennes// (dans //Courr. de la Loz.//), II, 79.
-\-- //Arch. Loz.//, C. 219, 200, 253, 2015 ; G. 843 ; H. 13.
+*Communicat.* de M. R. de Verdelhan \-- *Biens nobles du Gévaud.* (dans *Bull... de la Loz.*), 173. \-- Abbé Foulquier, *Notes hist. sur les paroisses des Cévennes* (dans *Courr. de la Loz.*), II, 79.
+\-- *Arch. Loz.*, C. 219, 200, 253, 2015 ; G. 843 ; H. 13.

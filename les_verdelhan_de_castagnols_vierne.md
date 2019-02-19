@@ -194,7 +194,7 @@ Saint-Michel-de-Dèze et à la Melouse.
 
 #### 4 - A Gourdouze
 
-//Hameau à mètres d'altitude, au dessus de Vialas.//
+//Hameau à mètres d'altitude, au dessus de Vialas.*
 
 Dès le 14<sup>ème</sup> siècle des VERDELHAN sont installés sur les hautes terres de Castagnols, à Gourdouze et aux Tourières.
 
@@ -286,7 +286,7 @@ On n'a pu établir une filiation continue qu'à partir de Laurent dont la descen
 
 #### 5 - A Chabaniels
 
-//Hameau sur les hauteurs de la rive gauche du Gardon, en aval du bourg du Collet-de-Dèze.//
+//Hameau sur les hauteurs de la rive gauche du Gardon, en aval du bourg du Collet-de-Dèze.*
 
  **VI -- Clément VERDELHAN (+\>1617)**
 
@@ -312,7 +312,7 @@ On n'a pu établir une filiation continue qu'à partir de Laurent dont la descen
 
 #### 6 - Au Mas Soubeyran
 
-//Hameau sur les hauteurs de Saint-Michel-de-Dèze.//
+//Hameau sur les hauteurs de Saint-Michel-de-Dèze.*
 
  **IV -- Jehan VERDELHAN junior**
 

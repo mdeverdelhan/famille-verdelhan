@@ -48,6 +48,6 @@ Le portrait de Léon des Molles est disponible sur le site des [archives départ
 l'adresse suivante :
 <http://archives.lozere.fr/archives/visu/121744/1/dao/0>
 
- * Titre : //Portrait de Léon Des Molles. Né à St Germain de Calberte, le 30 janvier 1805. Assemblée Nationale : galerie des représentants du peuple, 1848, Lozère.//
+ * Titre : *Portrait de Léon Des Molles. Né à St Germain de Calberte, le 30 janvier 1805. Assemblée Nationale : galerie des représentants du peuple, 1848, Lozère.*
  * Cotes : *1 Fi Homme politique 4*
- * Description : //Lithographie N/B d'après nature par Lemoine jeune, imp. Lemercier, Paris, direxit : E. Desmaisons. 36x27 cm.//
+ * Description : *Lithographie N/B d'après nature par Lemoine jeune, imp. Lemercier, Paris, direxit : E. Desmaisons. 36x27 cm.*

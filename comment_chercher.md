@@ -41,7 +41,7 @@ ainsi il peut s'agir :
  * D'une évolution orthographique du nom de famille ;
  * D'un ajout/retrait d'une particule ;
  * D'une erreur dans l'écriture du nom de famille ;
- * D'une erreur dans l'analyse OCR (//[Optical Character Recognition](http://fr.wikipedia.org/wiki/Reconnaissance_optique_de_caract%C3%A8res)//) du document ;
+ * D'une erreur dans l'analyse OCR (*[Optical Character Recognition](http://fr.wikipedia.org/wiki/Reconnaissance_optique_de_caract%C3%A8res)*) du document ;
  * Etc.
 
 Aussi il est important d'essayer différentes graphies lors de l'étude d'un document. En ce qui concerne les Verdelhan (des Molles ou non),

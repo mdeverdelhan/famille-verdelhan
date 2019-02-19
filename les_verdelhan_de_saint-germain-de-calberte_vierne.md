@@ -19,7 +19,7 @@ Calbertette](#à_Calbertette) où il se maintient jusqu'au
 
 #### 1 - A Calbertette
 
-//Hameau sur la rive droite du Gardon, en amont du bourg, en face du château de Calberte.//
+//Hameau sur la rive droite du Gardon, en amont du bourg, en face du château de Calberte.*
 
  **I -- Jehan VERDELHAN (+1328/1343)**
 
@@ -117,7 +117,7 @@ Calbertette](#à_Calbertette) où il se maintient jusqu'au
 
 #### 2 - A Frepestel
 
-//Hameau, sur la rive droite du Gardon, sous le bourg.//
+//Hameau, sur la rive droite du Gardon, sous le bourg.*
 
 C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniels.
 

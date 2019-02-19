@@ -74,8 +74,8 @@ qui a été maintenue dans sa noblesse, par lettres patentes de mai 1816,
 et qui compte des représentants.
 
 Ces différentes familles portent pour
-[armoiries](Armoiries_des_Verdelhan) : //Écartelé : aux 1<sup>er</sup>
-de sable à l'étoile d'argent ; au 2<sup>e</sup> d'azur à trois coquilles d'or, 2. 1, au 5<sup>e</sup> d'azur au lion d'or ; au 4<sup>e</sup> de gueules à six besans d'argent, 3, 2. 1.//
+[armoiries](Armoiries_des_Verdelhan) : *Écartelé : aux 1<sup>er</sup>
+de sable à l'étoile d'argent ; au 2<sup>e</sup> d'azur à trois coquilles d'or, 2. 1, au 5<sup>e</sup> d'azur au lion d'or ; au 4<sup>e</sup> de gueules à six besans d'argent, 3, 2. 1.*
 
 [Retrouver cette notice sur Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k366329.image.r=verdelhan.f277.langFR)
 
@@ -113,7 +113,7 @@ Cette famille, que l'on trouve fixée a Saint-Germain de Calberte, à la fin du 
 
 
 
- **VI.** Jacques-Antoine Verdelhan, sr des Fourniels, négociant et président de la chambre de commerce de Bordeaux, conseiller général de la Gironde, ☼, fut maintenu dans sa noblesse, avec anoblissement en tant que besoin, par lettres patentes du 4 mai 1816. (Cf. //Titres, Anoblissements et Pairies// de la Restauration, VI, p. 418-19); né à Chantelle-le-Château (Allier)
+ **VI.** Jacques-Antoine Verdelhan, sr des Fourniels, négociant et président de la chambre de commerce de Bordeaux, conseiller général de la Gironde, ☼, fut maintenu dans sa noblesse, avec anoblissement en tant que besoin, par lettres patentes du 4 mai 1816. (Cf. //Titres, Anoblissements et Pairies* de la Restauration, VI, p. 418-19); né à Chantelle-le-Château (Allier)
         le 9 mai 1756, †.... épousa, le 9 septembre 1785, Jeanne-Marie-Adelaïde Daudier, fille de Daniel, procureur au bureau des finances de Tours, et de Jeanne-Renée-Françoise Jousse, dont au moins 1° Jacques-Aimé, né à Tonneins le 15 juin 1793; 2° Jacques-Isidore qui suit,
 
 
@@ -141,7 +141,7 @@ Cette famille, que l'on trouve fixée a Saint-Germain de Calberte, à la fin du 
         † le 6 mars 1765; mariée, par contrat du 28 février 1752, à
         Jacques de Moreton, dit le comte de Chabrillan, sgr de Boisson, d'Aligre, etc.
 
-[ARMES](Armoiries_des_Verdelhan) : //Ecartelé : au 1<sup>er</sup> de sable à l'étoile d'argent ; au 2<sup>e</sup> d'azur à trois coquilles d'or,
-2, 1, au 3<sup>e</sup> d'azur au lion d'or ; au 4<sup>e</sup> de gueules à six besants d'argent, 3, 2, 1.//
+[ARMES](Armoiries_des_Verdelhan) : *Ecartelé : au 1<sup>er</sup> de sable à l'étoile d'argent ; au 2<sup>e</sup> d'azur à trois coquilles d'or,
+2, 1, au 3<sup>e</sup> d'azur au lion d'or ; au 4<sup>e</sup> de gueules à six besants d'argent, 3, 2, 1.*
 
 [Retrouver cette notice sur Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k36638c.image.r=verdelhan.f242.langFR)

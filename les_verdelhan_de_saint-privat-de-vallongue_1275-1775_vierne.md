@@ -356,7 +356,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
 
 #### 2 - Au Rochadel
 
-//Hameau de St-Michel-de-Dèze, près du Gardon, sur la rive gauche. Ce rameau s'est développé dans la Vallée longue et dans la vallée du Dourdon.//
+//Hameau de St-Michel-de-Dèze, près du Gardon, sur la rive gauche. Ce rameau s'est développé dans la Vallée longue et dans la vallée du Dourdon.*
 
  **X -- Pierre VERDELHAN (+\<1586)**
 
