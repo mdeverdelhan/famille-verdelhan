@@ -13,17 +13,13 @@ Les frères Haag font allusion aux branches Merveillac et Fourniels dans le tome
 
 ### Retranscription
 
- **VERDELHAN**, *Verdelian* ou *Verdilhan*, nom d'une
-        famille ancienne et nombreuse, établie dans le Languedoc, la
-        Gascogne et le Bourbonnais. Des différentes branches dont elle
-        se composait, deux au moins, celles de Merveillac et Des
-        Fourniels, embrassèrent les opinions nouvelles.
+ **VERDELHAN**, *Verdelian* ou *Verdilhan*, nom d'une famille ancienne et nombreuse, établie dans le Languedoc, la Gascogne et le Bourbonnais. Des différentes branches dont elle se composait, deux au moins, celles de Merveillac et Des Fourniels, embrassèrent les opinions nouvelles.
 
-I. La branche de Merveillac avait pour chef, au milieu du XVI^e^ siècle,
+I. La branche de Merveillac avait pour chef, au milieu du XVI<sup>e</sup> siècle,
 *Antoine* Verdelhan, licencié en droit, qui épousa, en secondes noces,
 en 1565, *Marguerite Paradez* et mourut vers 1600, laissant trois fils. André, né du premier lit, continua la branche de Merveillac, qui s'éteignit dans la ligne masculine dès la seconde génération, son petit-fils Jean, n'ayant eu qu'une fille, Marguerite, de son mariage avec *Jeanne de Laurens*. Le frère puiné d'André, nommé Jacob, sieur de Merveillac, docteur en droit et lieutenant du juge d'Aigues-Mortes,
 prit pour femme //Susanne d'Isarn// et mourut avant 1658. Le troisième frère, Pierre, devint la souche de la branche Des Moles. Il laissa 1°
-Antoine, dont la destinée est inconnue ; --- 2° Daniel, sieur de Thouas et de La Bessède, qui épousa *Jeanne Planque*, et mourut, le 1^er^
+Antoine, dont la destinée est inconnue ; --- 2° Daniel, sieur de Thouas et de La Bessède, qui épousa *Jeanne Planque*, et mourut, le 1<sup>er</sup>
 sept. 1656, à Toulouse, où il avait été appelé par un procès. Ses enfants furent: 1° Pierre, sieur des Moles, qui se convertit à la révocation avec sa femme *Anne Du Mas*, et ses enfants, Daniel, sieur des Moles, Jacques, sieur de Valmale, et Jeanne. Leur apostasie attira,
 dit-on, sur eux la vengeance des Camisards, qui brûlèrent leur maison de Thouas, en 1705; mais nous ferons remarquer qu'*Antoine Court* ne mentionne pas ce lieu parmi ceux qui furent saccagés par les insurgés.
 --- 2° Daniel ; --- 3° Jacques, sieur du Poujol, qui épousa *Madeleine Du Cros* ; --- 4° Jean-Jacques, sieur des Cambons ; --- 5° Jacquette ;

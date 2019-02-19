@@ -6,17 +6,15 @@ Cet article a été écrit par [Robert Tinthoin](Robert_Tinthoin) et a été pub
 
 ### Retranscription
 
-Une famille noble Cévenole au XIX^me^ siècle :
+Une famille noble Cévenole au XIX<sup>me</sup> siècle :
 
 \_\_**LES VERDELHAN DES MOLLES**\_\_
 
-Les familles nobles des Hautes Cévennes sont issues d'une petite aristocratie terrienne ou d'une petite bourgeoisie, anoblie au XVIII^me^ par les charges de robe et d'épée qu'elles briguent. Les commerçants n'ont été longtemps que de « petits revendeurs ou des colporteurs »((Cf. Robert *Tinthoin* « Commerçants des Hautes Cévennes au XIX^me^ siècle », in C. R. Congrès Stés historiques du Languedoc, Rodez, 1958.)). Pour la levée de l'impôt, le curé, note, en
-1735, que « personne ne mérite la qualification de « bon »...
-ni les gentihommes quand ils sont chargés de famille, ni les avocats, ni les notaires ».
+Les familles nobles des Hautes Cévennes sont issues d'une petite aristocratie terrienne ou d'une petite bourgeoisie, anoblie au XVIII<sup>me</sup> par les charges de robe et d'épée qu'elles briguent. Les commerçants n'ont été longtemps que de « petits revendeurs ou des colporteurs »((Cf. Robert *Tinthoin* « Commerçants des Hautes Cévennes au XIX<sup>me</sup> siècle », in C. R. Congrès Stés historiques du Languedoc, Rodez, 1958.)). Pour la levée de l'impôt, le curé, note, en 1735, que « personne ne mérite la qualification de « bon »... ni les gentihommes quand ils sont chargés de famille, ni les avocats, ni les notaires ».
 
--   \* \*
+\* \* \*
 
-Au XVIII^me^ siècle, la famille noble des *Verdelhan des Molles* a encore certains collatéraux paysans. Son représentant, le seigneur des Molles, coseigneur de St-Germain-de-Calberte, sieur de Masbernard sur la paroisse de Saint-Etienne-Vallée-Française, est docteur-ès-droit et avocat au Parlement de Toulouse. Sa mère((Anne du Mas (vivant en 1722).
+Au XVIII<sup>me</sup> siècle, la famille noble des *Verdelhan des Molles* a encore certains collatéraux paysans. Son représentant, le seigneur des Molles, coseigneur de St-Germain-de-Calberte, sieur de Masbernard sur la paroisse de Saint-Etienne-Vallée-Française, est docteur-ès-droit et avocat au Parlement de Toulouse. Sa mère((Anne du Mas (vivant en 1722).
 Pour cette famille, nous avons consulté, en particulier, Vicomte de
 *Lescure* « Armorial du Gévaudan », Lyon, 1929. pp. 794-797.))
 est roturière et sa femme((Diane de Teule de Camboux.
@@ -70,7 +68,7 @@ et un buffet à quatre portes contenant vaisselle de faïence, carafe de cristal
 
 La *grande salle*, siège de la vie commune et familiale, confortable et intime, est tendue de « satinade »((Etoffe de soie mince,
 imitant le satin.)) à grandes raies jaunes et vertes et à petites raies rouge très foncé, doublée de toile à canevas. C'est la pièce la plus luxueuse. Le mobilier tient du salon, avec ses 8 fauteuils garnis de
-« bourrette »((Etoffe de soie, très solide à la chaîne, faite avec des déchets de cocons.)) jaune, son canapé, sa commode((Apparut dans l'ébénisterie au début du XVIII^me^.)) de noyer à trois tiroirs, sa table en châtaignier à pieds à tenaille, sa glace dorée fixée au mur ---
+« bourrette »((Etoffe de soie, très solide à la chaîne, faite avec des déchets de cocons.)) jaune, son canapé, sa commode((Apparut dans l'ébénisterie au début du XVIII<sup>me</sup>.)) de noyer à trois tiroirs, sa table en châtaignier à pieds à tenaille, sa glace dorée fixée au mur ---
 entre les deux fenêtres garnies elles-mêmes de rideaux de mousseline((Etoffe fine de coton et de couleur claire.)) et donnant sur la rue Basse ---, surtout avec ses deux chandeliers d'or moulu façonné((Evaluée 12 francs. Plaqué or.)). La vaisselle ou « poterie
 \>\> en terre commune((Probablement poterie de St-Quentin, près d'Uzès,
 très usitée aux environs d'Alès.)) voisine avec 3 services de table :
@@ -89,7 +87,7 @@ quatre portes, deux tiroirs et trois tablettes en noyer, cerisier et châtaignie
 en fil, cocons percés cuits au bassin, petit trébuchet((Petite balance pour peser les monnaies d'or et d'argent.)), l'autre service à café
 et couverts de table.
 
-Dans *les chambres*, au 2^me^ étage, les lits à baldaquin((A ciel de lit d'où pendent les rideaux.)) sont garnis de cretonne avec rideaux et ciels garnis de bourrette jaune, ou à quenouilles((Quenouilles : piliers qui supportent, à chaque coin, le ciel de lit.)) avec rideaux en cretonne, ou à la duchesse((Lit dont l'impériale n'est maintenue que par l'arrière et par quelques appuis, pris au mur ou au plafond,
+Dans *les chambres*, au 2<sup>me</sup> étage, les lits à baldaquin((A ciel de lit d'où pendent les rideaux.)) sont garnis de cretonne avec rideaux et ciels garnis de bourrette jaune, ou à quenouilles((Quenouilles : piliers qui supportent, à chaque coin, le ciel de lit.)) avec rideaux en cretonne, ou à la duchesse((Lit dont l'impériale n'est maintenue que par l'arrière et par quelques appuis, pris au mur ou au plafond,
 l'avant du lit se trouvant, entièrement dégagé. Apparaît, dès 1700,
 dans les installations à la mode.)) avec rideaux en bourrette jaune et vert à carreaux et ciel de même étoffe ou en indienne bleue à ramages.
 Le mobilier complet compte 6 armoires à deux portes fermant à clef, en noyer cerisier et châtaigner, 5 petites armoires, 9 lits et 13 matelas.
@@ -116,7 +114,7 @@ et de deux fleurs en relief ---, étui, dé, anneau de tire-bouchons, des bagues
 
 Le *vestiaire* du défunt est peu varié : 6 chemises, 2 gilets,
 pantalon de serge, redingote et habit sans doublure. Du décès de sa femme, il reste : 4 robes de satin couleur ponceau (rouge vif), satin broché((Etoffe de soie présentant des ornements sur le fond uni du tissu, la trame n'apparaît pas à l'endroit ; tissu lustré au cylindre.)) à fond blanc, satin noir, soie gourgouran((Sorte d'étoffe de soie, originaire de l'Inde.)) à fond blanc, jupe de damas((Etoffe tissée de façon que les mêmes dessins, qu'elle présente à l'endroit en satin, sur fond de taffetas, apparaissent à l'envers en taffetas sur fond de satin.)) jaune. Le luxe vestimentaire féminin de cette famille noble cévenole est précisé par l'inventaire dressé après le décès d'une de ses belles-filles((Marie-Joséphine-Elisabeth de Cadolle,
-épouse de Simon-Marcel Verdelhan des Molles. A. D. Lozère. Etude de M^e^
+épouse de Simon-Marcel Verdelhan des Molles. A. D. Lozère. Etude de M<sup>e</sup>
 Cord, 3 E, n° 9931. Inventaire du 2 janvier 1822. L'intéressée est décédée, à Alès, en 1821.)). Celle-ci laisse une garde-robe importante,
 composée de 13 robes :((Evaluées, chacune, de 4 à 5 francs.)) : de percale((Calicot fin non duveté.)) blanche à raies, blanche brochée,
 percale avec garniture, indienne((Etoffe de coton peinte (de Rouen, en particulier).)) à raies bleu et paille ou jaune clair, mousseline rayée rouge et blanc, indienne à fond amaranthe((Rouge pourpre.)), indienne à
@@ -141,9 +139,9 @@ La //littérature gréco-latine// est représentée par près d'une vingtaine d'
 (traduction Deffontaines), Juvénal, Plutarque (traduction d'Amyot),
 Terence, philosophie latine.
 
-La //littérature française// compte 36 volumes du XVII^me^ : Guez de Balzac, Boileau, Racine, La Bruyère, Fénelon (le Télémaque), Pascal (les Pensées), le comédien Regnard, des critiques littéraires : le Père Bouhours, le poète Benserade ; du XVIII^me^ ; les poètes Bernis, l'abbé
+La //littérature française// compte 36 volumes du XVII<sup>me</sup> : Guez de Balzac, Boileau, Racine, La Bruyère, Fénelon (le Télémaque), Pascal (les Pensées), le comédien Regnard, des critiques littéraires : le Père Bouhours, le poète Benserade ; du XVIII<sup>me</sup> ; les poètes Bernis, l'abbé
 de la Porte, La Harpe, Jean-Baptiste Rousseau, les critiques littéraires
-: Rollin et Thomas, des savants des XVII^me^ et XVIII^me^ siècles : les naturalistes Pluche et Buffon, le mathématicien Bezout, les physiciens Rohault et Nollet, des historiens profanes et religieux : le jésuite français Velly, l'abbé de Vertot, Dom Calunet, Berruyer et Boulainvilliers ; l'Esprit de Lois en 3 volumes, Grandeur et décadence des Romains de Montesquieu, la Henriade de Voltaire. En somme, peu d'ouvrages des Philosophes du XVIII^me^ et les moins « subversifs
+: Rollin et Thomas, des savants des XVII<sup>me</sup> et XVIII<sup>me</sup> siècles : les naturalistes Pluche et Buffon, le mathématicien Bezout, les physiciens Rohault et Nollet, des historiens profanes et religieux : le jésuite français Velly, l'abbé de Vertot, Dom Calunet, Berruyer et Boulainvilliers ; l'Esprit de Lois en 3 volumes, Grandeur et décadence des Romains de Montesquieu, la Henriade de Voltaire. En somme, peu d'ouvrages des Philosophes du XVIII<sup>me</sup> et les moins « subversifs
 \>\>.
 
 Pour la //littérature étrangère//, il faut citer : un Don Quichotte de Cervantès en 5 volumes, un ouvrage du Jésuite espagnol Rodriguez, un discours contre Machiavel et une grammaire anglaise.
@@ -156,12 +154,12 @@ mathématiques, mécanique, table de logarithmes ; à la *philologie grecque et 
 *géographie* comparée de Montbelle et de l'abbé Vosgien, aux
 *ouvrages encyclopédiques* : grand dictionnaire historique universel de Moreri en 5 volumes, dictionnaire de la langue française de Trévoux en 3 volumes, un traité de « Culture des terres » du physiocrate Duhamel du Monceau en 4 volumes.
 
-L'éclectisme de cette bibliothèque nous renseigne exactement sur l'intellectualité et la spiritualité de cette famille. Fidèles à la religion catholique, les Verdelhan des Molles ont recherché, au XVIII^me^ siècle, dans de nombreux ouvrages de piété, à confirmer la foi de leurs ancêtres. Le Jansénisme et Saint-Augustin les ont intéressés mais [l'un des leurs](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794)) sera prêtre réfractaire. Nourris de culture gréco-latine par leur formation scolaire, assez perméables à la littérature et à la poésie françaises du XVII^me^ siècle, intellectuels, les Verdelhan des Molles restent assez réfractaires aux idées philosophiques du XVIII^me^, limitées pour eux à
+L'éclectisme de cette bibliothèque nous renseigne exactement sur l'intellectualité et la spiritualité de cette famille. Fidèles à la religion catholique, les Verdelhan des Molles ont recherché, au XVIII<sup>me</sup> siècle, dans de nombreux ouvrages de piété, à confirmer la foi de leurs ancêtres. Le Jansénisme et Saint-Augustin les ont intéressés mais [l'un des leurs](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794)) sera prêtre réfractaire. Nourris de culture gréco-latine par leur formation scolaire, assez perméables à la littérature et à la poésie françaises du XVII<sup>me</sup> siècle, intellectuels, les Verdelhan des Molles restent assez réfractaires aux idées philosophiques du XVIII<sup>me</sup>, limitées pour eux à
 l'épopée de la Henriade et aux œuvres plus juridiques que systématiques de Montesquieu. Famille d'avocats, ils sont particulièrement cultivés et intéressés par le droit, puis par l'histoire et les sciences.
 
 Dans [leur maison de St-Germain-de-Calberte](Liste_des_propriétés_notables#Maison_de_l'abbé_du_Chayla),
 l'inventaire révèle l'existence de *denrées diverses*, les unes locales : farine de seigle --- on consommait encore plus de pain de seigle que de froment --- haricots blancs, panis grue((Mil blanc, millet des oiseaux.)), basses dites garoutes((Garoute vient probablement du provençal garoussa : gesse.)), prunes sèches ; les autres exotiques :
-sucre de canne en pains((Le sucre est râpé avec une râpe ou cylindre de fer blanc.)) (37 kg), café de la Martinique((En usage à Paris dans la deuxième moitié du XVII^me^ siècle.)) (10 kg), riz du Levant (33 kg),
+sucre de canne en pains((Le sucre est râpé avec une râpe ou cylindre de fer blanc.)) (37 kg), café de la Martinique((En usage à Paris dans la deuxième moitié du XVII<sup>me</sup> siècle.)) (10 kg), riz du Levant (33 kg),
 poivre (400 gr)((Le poivre coûte 2,50 fr. le kg. Le café coûte 3 fr. le kg.)). On note aussi : savon en barres coupées en morceaux (22 kg),
 écheveaux de chanvre, fil blanc et chevilier((Chevillière : sorte de tresse plate en fil écru ou en coton.)), laine en suint ou « surge
 \>\> (153 kg).
@@ -203,7 +201,7 @@ habitant St-Etienne-Vallée-Française : 42 ha. Xavier Verdelhan des Molles, de 
 de la superficie totale --- sur la seule commune de St-Germain-de-Calberte : 65 % en châtaigneraies, 16 % en pâtures, 9 % en terres labourables, 4 % en prés, 2,8 % en bois, 1,2 % en vignes, 0,6 %
 jardins. Notons l'importance des châtaignes, à un moment où ces fruits ont encore une valeur marchande. Le jour où celle-ci se vendirent moins facilement, la situation s'aggrava.
 
-En 1833((A. D. Lozère, 3 E n° 10 031. Etude de M^e^ P. Larguier,
+En 1833((A. D. Lozère, 3 E n° 10 031. Etude de M<sup>e</sup> P. Larguier,
 1833.)), Anne-Marie-Xavier Verdelhan des Molles --- quatrième enfant de Jean-Daniel et major de la cohorte de la Garde nationale en 1816 ---
 habite le château de La Garde, dans la commune de St-Germain, où il possède le domaine de La Garde --- acheté 45 000 francs en 1828
 ---((Acheté à Larguier, propriétaire foncier et ancien procureur, fixé à
@@ -215,38 +213,22 @@ La vie agricole continue à dominer les préoccupations de cette famille.
 au village de St-Germain conserve, elle-même, un caractère rural : elle comporte « magnagnière », écurie à chevaux, écurie à cochons, 3
 caves, un pailler, contenant en tout : 8 paires de greniers((Coffre en bois à compartiments dans lequel on conserve des grains.)) en châtaignier, à trois loges chacun, 5 coffres en bois pour conserver respectivement fromage, sel (pour l'élevage) et autres denrées.
 
-Maison bourgeoise, métairies et domaines renferment divers produits qui nous renseignent exactement sur les *productions du sol cévenol*. En tête, comme faire se doit, viennent *châtaignes blanches*((Avec on fait la « bajana » ou « cousina », potage, mets très communs dans les Cévennes, principale nourriture des habitants pendant l'hiver.)), séchées à la fumée et à la chaleur dans un « suoir »
-à châtaignes ou « clédo »((Séchoir à châtaignes, bâtiment bas et isolé où l'on dépose les châtaignes sur des clayons au-dessus d'un feu lent et continu. La fumée filtre à travers les interstices et fait « suer » les châtaignes qui perdent leur humidité.)) et dépouillées ensuite de leurs coques et pellicules (190 hl), « bazanettes » (20
-hl) ou débris de châtaignes blanches et sèches, explechures ou briges((Brisos, châtaignes sèches qui ont été brisées en les battant pour les dépouiller. Elles ont un peu moins de valeur sur les marchés parce qu'elles se mettent en marmelade en cuisant mais elles sont préférables si on les moud en farine pour les porcs.)) (14 hl). Puis,
-viennent les *céréales* : blé tozelle((Tousèle, tuzèle, variété de froment sans barbe précoce, très employé dans la panification chez les populations rurales du Midi. On dit « tuzelle » en Algérie,
-aujourd'hui.)) (3,7 hl), seigle (5,7 hl), orge (45 l).
+Maison bourgeoise, métairies et domaines renferment divers produits qui nous renseignent exactement sur les *productions du sol cévenol*. En tête, comme faire se doit, viennent *châtaignes blanches*((Avec on fait la « bajana » ou « cousina », potage, mets très communs dans les Cévennes, principale nourriture des habitants pendant l'hiver.)), séchées à la fumée et à la chaleur dans un « suoir » à châtaignes ou « clédo »((Séchoir à châtaignes, bâtiment bas et isolé où l'on dépose les châtaignes sur des clayons au-dessus d'un feu lent et continu. La fumée filtre à travers les interstices et fait « suer » les châtaignes qui perdent leur humidité.)) et dépouillées ensuite de leurs coques et pellicules (190 hl), « bazanettes » (20 hl) ou débris de châtaignes blanches et sèches, explechures ou briges((Brisos, châtaignes sèches qui ont été brisées en les battant pour les dépouiller. Elles ont un peu moins de valeur sur les marchés parce qu'elles se mettent en marmelade en cuisant mais elles sont préférables si on les moud en farine pour les porcs.)) (14 hl). Puis, viennent les *céréales* : blé tozelle((Tousèle, tuzèle, variété de froment sans barbe précoce, très employé dans la panification chez les populations rurales du Midi. On dit « tuzelle » en Algérie, aujourd'hui.)) (3,7 hl), seigle (5,7 hl), orge (45 l).
 
-La cave de la maison du village contient 15 hectolitres de *vin* rouge du pays et quelques litres de vin blanc, provenant des vignes locales.
-Le matériel comporte : cuve vinaire en bois cerclée de bois, cuve ou fouloir, cuve pouvant contenir 16 hectolitres de vin avec son cercle de bois ou « encastre », alambic en cuivre avec son réfrigérant pour la distillation de l'alcool.
+La cave de la maison du village contient 15 hectolitres de *vin* rouge du pays et quelques litres de vin blanc, provenant des vignes locales. Le matériel comporte : cuve vinaire en bois cerclée de bois, cuve ou fouloir, cuve pouvant contenir 16 hectolitres de vin avec son cercle de bois ou « encastre », alambic en cuivre avec son réfrigérant pour la distillation de l'alcool.
 
 Pour l'*alimentation du cheptel*, il y a près de 5 tonnes de produits divers ; foin (3 tonnes), regain (1 tonne), paille (440 kg), fourrage (160 kg). Le *cheptel* total comprend 21 porcs « à poil blanc et noir » par moitié mâles et femelles (en 1822 il a été vendu en outre 22 cochons gras), 183 ovins dont 81 moutons, 61 bassives((ou « basibios » : brebis qui n'ont pas porté.)) et 41 brebis, 12 chèvres, une mule, un mulet, un cheval ; le tout d'une valeur de plus de 2000 francs-1822. Le cheptel ovin domine et permet d'entreposer 153 kg de laine en suint ou surge((La laine surge coûte 1,25 fr. le kg. Un cochon hivernaire (pourceau d'1 an ou 2 qu'on engraisse pour égorger l'hiver suivant) coûte 22 fr., un cochon gras 75 fr., un bassif ou bête à laine : 76 fr., une chèvre : 14 francs.)).
 
-L'*élevage des vers à soie* --- introduit fin du XVI^me^ siècle ---
-est assuré, dans des « magnagnières », notamment à la métairie du Mas de Serre, servant de « coconière », contenant à elle seule 64
-mètres de planches de châtaignier, 10 m de planches de cerisier, 22
-pieds droits((Montants.)) avec leurs traversiers --- traverses --- et 12
-canis((Canisso : clayon fait de petits roseaux de marais qui sert de plancher aux tables de vers à soie.)). Le défunt conservait 1,700 kg de bave de cocon((Premiers fils secrétés par le ver à soie qui servent d'enveloppe à la soie du cocon.)) dans un sac, 300 grammes de graines de vers à soie dans une nappe de coutil et des cocons percés, cuits au bassin((Bassis : bassine en cuivre pour filer les cocons.)). Enfin, dans
-[la maison de St-Germain](Liste_des_propriétés_notables#Maison_de_l'abbé_du_Chayla)
-existent 4 tentures((Montants de métier.)) pour la filature de la toile,
-un dévidoir avec pied de fer, 4 rouets à filer avec leurs bancs et agrès, une bassine en cuivre pour la filature de la soie.
+L'*élevage des vers à soie* --- introduit fin du XVI<sup>me</sup> siècle --- est assuré, dans des « magnagnières », notamment à la métairie du Mas de Serre, servant de « coconière », contenant à elle seule 64 mètres de planches de châtaignier, 10 m de planches de cerisier, 22 pieds droits((Montants.)) avec leurs traversiers --- traverses --- et 12 canis((Canisso : clayon fait de petits roseaux de marais qui sert de plancher aux tables de vers à soie.)). Le défunt conservait 1,700 kg de bave de cocon((Premiers fils secrétés par le ver à soie qui servent d'enveloppe à la soie du cocon.)) dans un sac, 300 grammes de graines de vers à soie dans une nappe de coutil et des cocons percés, cuits au bassin((Bassis : bassine en cuivre pour filer les cocons.)). Enfin, dans [la maison de St-Germain](Liste_des_propriétés_notables#Maison_de_l'abbé_du_Chayla) existent 4 tentures((Montants de métier.)) pour la filature de la toile, un dévidoir avec pied de fer, 4 rouets à filer avec leurs bancs et agrès, une bassine en cuivre pour la filature de la soie.
 
 La *récolte* de 1822 dans les 6 métairies affermées à mi-fruit, les biens de St-Germain et une pension servie en nature((Par Liquière des Portes.)) ont rapporté près de 400 hectolitres de châtaignes blanches de toutes espèces : grosses, bazanettes et brises. Les châtaignes sont consommées par les membres de la famille, les trois domestiques de la maison de St-Germain (2 femmes et 1 homme) et également pour nourrir le cheval et la mule et engraisser les cochons ; le reste est vendu.
 
-Au XIX^me^ siècle, cette famille joue un certain //rôle// dans la vie politique locale. [Léon-Charles Verdelhan des Molles](Charles-Léon_Verdelhan_des_Molles_(1805-1868)), aîné
-des enfants du fils aîné de Jean-Daniel, est élu en 1848 représentant du peuple et membre du Corps législatif. Il a été député légitimiste sous la Seconde République et le Second Empire((Cf. //M. Masseguin// : Les Parlementaires royalistes lozériens de 1815 à 1893. Diplôme d'Etudes supérieures de la Faculté des Lettres de Montpellier, 1957, 119 pages dactylographiées, notamment pp. 66-74.)). Vers 1850, Paulin-Albert Verdelhan des Molles, conseiller général de la Lozère, maire de Langogne, épouse la fille de Colombet de Landos, sénateur de la Lozère((Décédé en 1926 au château de Barre, à Langogne.)).
+Au XIX<sup>me</sup> siècle, cette famille joue un certain //rôle// dans la vie politique locale. [Léon-Charles Verdelhan des Molles](Charles-Léon_Verdelhan_des_Molles_(1805-1868)), aîné des enfants du fils aîné de Jean-Daniel, est élu en 1848 représentant du peuple et membre du Corps législatif. Il a été député légitimiste sous la Seconde République et le Second Empire((Cf. //M. Masseguin// : Les Parlementaires royalistes lozériens de 1815 à 1893. Diplôme d'Etudes supérieures de la Faculté des Lettres de Montpellier, 1957, 119 pages dactylographiées, notamment pp. 66-74.)). Vers 1850, Paulin-Albert Verdelhan des Molles, conseiller général de la Lozère, maire de Langogne, épouse la fille de Colombet de Landos, sénateur de la Lozère((Décédé en 1926 au château de Barre, à Langogne.)).
 
--   \* \*
+\* \* \*
 
-En résumé, ces nobles de robe des Hautes Cévennes sont des gentilshommes ruraux vivant des produits de la terre : châtaignes, poires, prunes,
-raisin, légumes, céréales, élevage des ovins, des vers à soie et des abeilles. Ils attachent un certain prix à la propriété rurale et achètent métairies et domaines qu'ils font travailler à mi-fruit par des métayers plutôt que par des fermiers.
+En résumé, ces nobles de robe des Hautes Cévennes sont des gentilshommes ruraux vivant des produits de la terre : châtaignes, poires, prunes, raisin, légumes, céréales, élevage des ovins, des vers à soie et des abeilles. Ils attachent un certain prix à la propriété rurale et achètent métairies et domaines qu'ils font travailler à mi-fruit par des métayers plutôt que par des fermiers.
 
-Malgré cette existence champêtre, ils apprécient la culture intellectuelle --- la poésie aussi bien que le droit et les sciences ---
-la belle argenterie armoriée plutôt que les bijoux, les beaux meubles,
-le confort domestique, les réceptions, la vie de famille. Enfin la coquetterie féminine ne perd pas ses droits. Ce goût du luxe et du savoir, ils les ont acquis pendant leurs séjours à Toulouse, capitale du Languedoc ou à Alès, ville principale des Cévennes où les appellent leurs fonctions d'avocats mais ils viennent finir leurs jours dans le village natal où revivent leurs anciennes habitudes paysannes.
+Malgré cette existence champêtre, ils apprécient la culture intellectuelle --- la poésie aussi bien que le droit et les sciences --- la belle argenterie armoriée plutôt que les bijoux, les beaux meubles, le confort domestique, les réceptions, la vie de famille. Enfin la coquetterie féminine ne perd pas ses droits. Ce goût du luxe et du savoir, ils les ont acquis pendant leurs séjours à Toulouse, capitale du Languedoc ou à Alès, ville principale des Cévennes où les appellent leurs fonctions d'avocats mais ils viennent finir leurs jours dans le village natal où revivent leurs anciennes habitudes paysannes.
 
 --- Robert TINTHOIN.

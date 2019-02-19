@@ -27,9 +27,9 @@ l'histoire des Verdelhan.
 
  * ***[Armorial du Gévaudan](Armorial_du_Gévaudan_(Lescure))//**, Vicomte de Lescure, 1929
 
- * ***[Annuaire de la pairie et de la noblesse de France et des maisons souveraines de l'Europe](Annuaire_de_la_Noblesse_de_France_(Révérend))//**, 1911 (69^ième^ année, volume 67), VERDELHAN DES FOURNIELS, Albert Révérend, 1911
+ * ***[Annuaire de la pairie et de la noblesse de France et des maisons souveraines de l'Europe](Annuaire_de_la_Noblesse_de_France_(Révérend))//**, 1911 (69<sup>ième</sup> année, volume 67), VERDELHAN DES FOURNIELS, Albert Révérend, 1911
 
- * ***[Annuaire de la pairie et de la noblesse de France et des maisons souveraines de l'Europe](Annuaire_de_la_Noblesse_de_France_(Révérend))//**, 1905 (63^ième^ année, volume 61), VERDELHAN DES MOLLES, Albert Révérend, 1905
+ * ***[Annuaire de la pairie et de la noblesse de France et des maisons souveraines de l'Europe](Annuaire_de_la_Noblesse_de_France_(Révérend))//**, 1905 (63<sup>ième</sup> année, volume 61), VERDELHAN DES MOLLES, Albert Révérend, 1905
 
  * ***Nobiliaire toulousain : inventaire général des titres probants de noblesse et de dignités nobiliaires//**, volume 2, Alphonse Brémond, 1863
    * [Page 494](http://books.google.fr/books?id=jFkoAAAAYAAJ&ots=yQ9-KFAibe&dq=Alphonse%20Br%C3%A9mond%20%3A%20Nobiliaire%20toulousain&pg=PA494#v=onepage&q=verdeilhan&f=false) : << **Verdeilhan** (N..... DE), seigneur de Molles, assista à l'assemblée générale de la noblesse, tenue à Toulouse en 1789. >>

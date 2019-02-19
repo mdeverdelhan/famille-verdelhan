@@ -6,9 +6,7 @@ Les armoiries d'une famille sont toujours discutables (et discutées). Celles-ci
 
 ### Blasonnement
 
- ***Écartelé : au 1, de sable à une étoile d'argent ; au 2 d'azur à trois coquilles d'or, 2 et 1 ; au 3 d'azur au lion
-        d'or ; au 4, de gueules à six besants d'argent, 3, 2 et
-        1.***
+ ***Écartelé : au 1, de sable à une étoile d'argent ; au 2 d'azur à trois coquilles d'or, 2 et 1 ; au 3 d'azur au lion d'or ; au 4, de gueules à six besants d'argent, 3, 2 et 1.***
 
 #### Les meubles
 
@@ -25,26 +23,26 @@ On dit souvent que le nombre de coquilles représente le nombre de pèlerinages 
 Le lion
 -------
 
-Contrairement à ce que beaucoup pensent, le lion des Verdelhan n'est pas un lion *issant* (ni même *hissant*). Deux généalogistes du XIX^ième^ siècle nous renseignent sur la signification de ce terme en héraldique :
+Contrairement à ce que beaucoup pensent, le lion des Verdelhan n'est pas un lion *issant* (ni même *hissant*). Deux généalogistes du XIX<sup>ième</sup> siècle nous renseignent sur la signification de ce terme en héraldique :
 
  * << **ISSANT, TE**, gérond. et adject., se dit d'un lion, d'une aigle ou d'un autre animal, qui paraît à l'un des bords de l'écu sur un chef, une fasce, etc., et ne montre que la tête et une petite partie de son corps. >>((Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816))
  * << **ISSANT**. Se dit de tout animal, lion, aigle ou autre, dont on ne voit figuré que la tête et une petite partie du corps. L'animal Issant semble sortir d'une pièce ou d'une partition de l'écu, il doit toujours être représenté seul, il peut être couronné, armé, etc., aucun émail ne lui est particulier, mais il faut se garder de le confondre avec l'animal naissant dont il est parlé à ce mot. >>((L.-A. Duhoux d'Argicourt, *Alphabet et figures de tous les termes du blason*, Paris, 1899))
 
 Le dictionnaire *Le Robert* nous indique lui aussi que « \[ce qualificatif\] se dit d'animaux qui ne présentent que la moitié supérieure du corps et paraissent sortir de la pièce ou du champ de l'écu ».
 
-Le lion des Verdelhan est donc un lion par défaut, un lion *rampant* ([Plus d'explications sur Wikipedia](http://fr.wikipedia.org/wiki/Lion_(h%C3%A9raldique)#Lion_et_Lion_l.C3.A9opard.C3.A9)). L'histoire familiale lui fait signifier « un haut fait d'arme ». Cela pourrait alors correspondre à la [bataille de Pavie](wp>fr:Bataille_de_Pavie) si l'on explique [les besants](Armoiries_des_Verdelhan#Les_besants) par la reconnaissance de la rançon des fils de François 1^ier^. Néanmoins de nombreuses familles arborent un lion sur leurs armoiries ; et un célèbre proverbe héraldique nous dit que « qui n'a pas de blason porte un lion ». Aussi sachons rester prudents.
+Le lion des Verdelhan est donc un lion par défaut, un lion *rampant* ([Plus d'explications sur Wikipedia](http://fr.wikipedia.org/wiki/Lion_(h%C3%A9raldique)#Lion_et_Lion_l.C3.A9opard.C3.A9)). L'histoire familiale lui fait signifier « un haut fait d'arme ». Cela pourrait alors correspondre à la [bataille de Pavie](wp>fr:Bataille_de_Pavie) si l'on explique [les besants](Armoiries_des_Verdelhan#Les_besants) par la reconnaissance de la rançon des fils de François 1<sup>ier</sup>. Néanmoins de nombreuses familles arborent un lion sur leurs armoiries ; et un célèbre proverbe héraldique nous dit que « qui n'a pas de blason porte un lion ». Aussi sachons rester prudents.
 
 Les besants
 -----------
 
 Les besants représentent des pièces de monnaie. Chez les Verdelhan ils sont en argent, au nombre de six. Deux hypothèses les entourent :
 
- * Pour certains il s’agirait d'une reconnaissance de la contribution financière des Verdelhan pour la libération des fils de François 1^ier^. Cette explication aurait l’avantage de s’accorder avec la participation -- qui, rappelons-le, est purement hypothétique -- d'un Verdelhan à la bataille de Pavie.
+ * Pour certains il s’agirait d'une reconnaissance de la contribution financière des Verdelhan pour la libération des fils de François 1<sup>ier</sup>. Cette explication aurait l’avantage de s’accorder avec la participation -- qui, rappelons-le, est purement hypothétique -- d'un Verdelhan à la bataille de Pavie.
  * Pour d’autres la tradition daterait des croisades et serait l’héritage d’une pratique consistant, pour les hobereaux de l’époque, à indiquer le prix à payer pour leur courage. Cette version s’accorderait avec un document (à retrouver) traitant d’un Verdelhan cherchant à s’acheter un cheval pour partir en croisade.
 
 #### La couronne de marquis
 
-La couronne de [marquis](wp>fr:Marquis) ornant les armes des Verdelhan est elle aussi soumise à controverse. En effet, le seul marquisat connu de la famille fût celui de Montanègues, acheté en 1761 par Jacques Verdelhan des Fourniels. La branche des Fourniels s'étant éteinte au XIX^ème^ siècle et les premières références à la couronne apparaissant à cette époque-là, il est possible que cela ait paru un bel ornement à rajouter aux armes *officielles*. Il se peut également que cela provienne d'une alliance quelconque.
+La couronne de [marquis](wp>fr:Marquis) ornant les armes des Verdelhan est elle aussi soumise à controverse. En effet, le seul marquisat connu de la famille fût celui de Montanègues, acheté en 1761 par Jacques Verdelhan des Fourniels. La branche des Fourniels s'étant éteinte au XIX<sup>ème</sup> siècle et les premières références à la couronne apparaissant à cette époque-là, il est possible que cela ait paru un bel ornement à rajouter aux armes *officielles*. Il se peut également que cela provienne d'une alliance quelconque.
 
 Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur écu « //timbré d'un casque, taré de profil, orné de ses lambrequins// » mais son existence n'est pas attestée.
 

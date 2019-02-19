@@ -2,7 +2,7 @@
 
 ### Où chercher
 
-Jusqu'au début du XX^ème^ siècle, l'histoire des Verdelhan se confond avec celles du Gard et de la Lozère. On comprendra donc qu'il faille chercher de ce côté là.
+Jusqu'au début du XX<sup>ème</sup> siècle, l'histoire des Verdelhan se confond avec celles du Gard et de la Lozère. On comprendra donc qu'il faille chercher de ce côté là.
 
  * [Archives municipales d'Alès](http://www.alescevennes.fr/portal/portal/pac/informer/archivesmunicipales/presentation)
  * Archives municipales de Langogne

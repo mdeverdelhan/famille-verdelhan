@@ -150,7 +150,7 @@ Livres, revues, ressources bibliographiques restant à explorer :
    * Tome 1, p363
    * Tome 2, p209
    * Tome 3, p277
- * Yves Pourcher, //Les maîtres de granit. Les notables de Lozère du XVIII^e^ siècle à nos jours//, Paris, Olivier Orban, 1987
+ * Yves Pourcher, //Les maîtres de granit. Les notables de Lozère du XVIII<sup>e</sup> siècle à nos jours//, Paris, Olivier Orban, 1987
  * La guerre des cévennes, Henri Bosc
  * [Journal des avoués...](http://books.google.fr/books?id=8VkYAAAAYAAJ&lpg=PA162&ots=sdskWTrsYg&dq=%22sieur%20desmolles%22&pg=PA162#v=onepage&q=%22sieur%20desmolles%22&f=false)
  * Autres ouvrages

@@ -4,7 +4,7 @@ Cette page liste les propriétés de la famille des Verdelhan au fil des siècle
 
 ### Château de Fressac
 
-Le [château de Fressac](wp>fr:Château_de_Fressac) a été acheté au XIX^ème^ siècle par Simon de Verdelhan. Il s'agit d'un château fort de type médiéval. L'édifice est en ruines et l'était déjà à la parution de [cet ouvrage](http://gallica.bnf.fr/ark:/12148/bpt6k393388.image.hl.r=fressac.f55.langFR) (1892).
+Le [château de Fressac](wp>fr:Château_de_Fressac) a été acheté au XIX<sup>ème</sup> siècle par Simon de Verdelhan. Il s'agit d'un château fort de type médiéval. L'édifice est en ruines et l'était déjà à la parution de [cet ouvrage](http://gallica.bnf.fr/ark:/12148/bpt6k393388.image.hl.r=fressac.f55.langFR) (1892).
 
  * [http://fressac.un.chate.perso.libertysurf.fr/page2.html](http://fressac.un.chate.perso.libertysurf.fr/page2.html)
  * [http://www.cevennes-garrigue-tourisme.com/fressac.php](http://www.cevennes-garrigue-tourisme.com/fressac.php)
@@ -15,7 +15,7 @@ Le [château de Fressac](wp>fr:Château_de_Fressac) a été acheté au XIX^ème^
 
 ### Château de Barres
 
-Le [domaine de Barres](wp>fr:Château_de_Barres) est acquis au XIX^ème^ siècle par la famille. La propriété a été modernisée et fait désormais office d'hôtel-restaurant haut-de-gamme :
+Le [domaine de Barres](wp>fr:Château_de_Barres) est acquis au XIX<sup>ème</sup> siècle par la famille. La propriété a été modernisée et fait désormais office d'hôtel-restaurant haut-de-gamme :
 <http://www.domainedebarres.com/>
 
 En 1883, d'après le Journal de l'agriculture, le *domaine de Barre*
