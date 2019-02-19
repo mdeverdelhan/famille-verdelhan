@@ -1,21 +1,21 @@
-###### Le Grand Armorial de France (Jougla de Morénas)
+## Le Grand Armorial de France (Jougla de Morénas)
 
-\<\< Catalogue général des armoiries des familles nobles de France,
+« Catalogue général des armoiries des familles nobles de France,
 comprenant les blasons des familles ayant possédé des charges dans le royaume et celles ayant fait enregistrer leurs armoiries en 1696, de la noblesse de l'Empire, des anoblissements de la Restauration, donnant les tableaux généalogiques de familles confirmées dans leur noblesse entre
-1660 et 1830 \>\>.
+1660 et 1830 ».
 
 Auteur : Henri Jougla de Morénas
 
 Edition originale : 1934-1952 - 6 volumes + 1 volume de supplément.
 
-##### Les Verdelhan dans cet ouvrage
+### Les Verdelhan dans cet ouvrage
 
 Jougla de Morénas fait allusion aux Verdelhan dans le tome VI (Paris,
-Société du Grand Armorial de France, 1949) du //Grand Armorial de France//.\\\\ Page 430, entre DE VERDALLE et DE VERDELIN.
+Société du Grand Armorial de France, 1949) du *Grand Armorial de France*.\\\\ Page 430, entre DE VERDALLE et DE VERDELIN.
 
 {{ verdelhan\_jougla\_de\_morenas.png?640 \|Les Verdelhan dans le Jougla de Morénas}}
 
-##### Retranscription
+### Retranscription
 
  **DE VERDELHAN DES MOLLES et DES FOURNIELS**
 

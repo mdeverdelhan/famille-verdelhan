@@ -1,19 +1,19 @@
-###### Notes pour servir à un nobiliaire de Montpellier (Tourtoulon)
+## Notes pour servir à un nobiliaire de Montpellier (Tourtoulon)
 
-\<\< **Notes pour servir à un nobiliaire de Montpellier** ; par Ch.
-de Tourtoulon. \>\>
+« **Notes pour servir à un nobiliaire de Montpellier** ; par Ch.
+de Tourtoulon. »
 
 Auteur : Charles-Jean-Marie Tourtoulon (baron de)
 
 Edition originale : 1856.
 
-##### Les Verdelhan dans cet ouvrage
+### Les Verdelhan dans cet ouvrage
 
 On retrouve la famille Verdelhan à la [page
 178](http://books.google.fr/books?id=xGgYAAAAMAAJ&pg=PA178&dq=verdelhan+molles&lr=&ei=AxzTSvflKIP-ywTe77DpDQ&q=verdelhan%20molles&f=false)
-des //Notes pour servir à un nobiliaire de Montpellier//.
+des *Notes pour servir à un nobiliaire de Montpellier*.
 
-##### Retranscription
+### Retranscription
 
  **DE VERDELHAN DES MOLLES**
 
@@ -21,7 +21,7 @@ des //Notes pour servir à un nobiliaire de Montpellier//.
 
 \\\\ La filiation de cette famille, [établie par d'Hozier](Armorial_général_de_France_(d'Hozier)), remonte à
 
- **Pierre Verdelhan** (//Petrus Verdelhani//), seigneur de
+ **Pierre Verdelhan** (*Petrus Verdelhani*), seigneur de
         Merveillac, qui rendit hommage le 21 juin 1376.
 
 Pierre Verdelhan était seigneur des Molles, de Thonas et de la Bessède,

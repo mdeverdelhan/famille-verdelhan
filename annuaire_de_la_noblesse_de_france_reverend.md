@@ -1,17 +1,17 @@
-###### L'Annuaire de la Noblesse de France (Révérend)
+## L'Annuaire de la Noblesse de France (Révérend)
 
 Titre original (1843) : **Annuaire de la pairie et de la noblesse de France et des maisons souveraines de l'Europe**
 
-L'//Annuaire de la noblesse de France// était un périodique fondé en
+L'*Annuaire de la noblesse de France* était un périodique fondé en
 1843 par André Borel d'Hauterive. Par la suite il fut continué sous la direction du vicomte Albert Révérend.
 
 [Liste des volumes du périodique sur Gallica](http://gallica.bnf.fr/ark:/12148/cb326964979/date.r=verdelhan.langfr)
 
-##### Les Verdelhan dans ce périodique
+### Les Verdelhan dans ce périodique
 
 On retrouve les Verdelhan des Molles dans l'ouvrage de 1905, et les Verdelhan des Fourniels dans celui de 1911.
 
-##### Volume 61 (63ième année) - 1905
+### Volume 61 (63ième année) - 1905
 
  **VERDELHAN DES MOLLES**
 
@@ -44,11 +44,11 @@ Cette famille, originaire du diocèse de Mende, établit sa filiation régulièr
         Camboux, le 13 février 1730, fille d'Henry, maire de
         Saint-Etienne de Valfrancisque, et de Lucrèce de Cabiron, dont :
 
- * 1° Pierre-Jacques, qui suit ;\
- * 2° Jacques, conseiller et premier médecin du prince de Condé, né le 20 septembre 1710 ;\
- * 3° Louis, né le 8 novembre 1715 ;\
- * 4° Simon, sgr de Poujol, avocat au parlement de Toulouse, né le 1^er^ avril 1725 ;\
- * 5° Julie-Madeleine, née le 23 mai 1718 ; mariée le 14 février 1743, à Philippe Dessalin, sgr de Sailhan, Lelze ;\
+ * 1° Pierre-Jacques, qui suit ;
+ * 2° Jacques, conseiller et premier médecin du prince de Condé, né le 20 septembre 1710 ;
+ * 3° Louis, né le 8 novembre 1715 ;
+ * 4° Simon, sgr de Poujol, avocat au parlement de Toulouse, né le 1^er^ avril 1725 ;
+ * 5° Julie-Madeleine, née le 23 mai 1718 ; mariée le 14 février 1743, à Philippe Dessalin, sgr de Sailhan, Lelze ;
  * 6° Anne, née le 17 mars 1722.
 
  **V.** Pierre-Jacques Verdelhan des Molles, sgr des Molles, la
@@ -57,10 +57,10 @@ Cette famille, originaire du diocèse de Mende, établit sa filiation régulièr
         contrat du 10 novembre 1733, fille de Jean et de Jeanne Vellay,
         dont :
 
- * 1° [Jean-Daniel](Jean-Daniel_Verdelhan_des_Molles_(1737-1822)), né le 24 juin 1737 ;\
- * 2° [Jacques-Gaspard](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794)), prêtre, né le 13 juin 1739 ;\
- * 3° Léon-Maurice, sous-lieutenant au régiment de Condé-infanterie, né le 14 juin 1744 ;\
- * 4° Pierre-Marie, né le 8 septembre 1747 ;\
+ * 1° [Jean-Daniel](Jean-Daniel_Verdelhan_des_Molles_(1737-1822)), né le 24 juin 1737 ;
+ * 2° [Jacques-Gaspard](Jacques-Gaspard_Verdelhan_des_Molles_(1739-1794)), prêtre, né le 13 juin 1739 ;
+ * 3° Léon-Maurice, sous-lieutenant au régiment de Condé-infanterie, né le 14 juin 1744 ;
+ * 4° Pierre-Marie, né le 8 septembre 1747 ;
  * 5° Jeanne, née le 11 juin 1735, mariée le 1^er^ novembre 1752 à Jean-Olivier de Teissier, sgr de Saint-Frézal de la Vernède.
 
 Cette famille s'est perpétuée par Simon-Marcel, qui suit, et descend d'un des frères ci-dessus.
@@ -68,7 +68,7 @@ Cette famille s'est perpétuée par Simon-Marcel, qui suit, et descend d'un des 
  **VII.** Simon-Marcel Verdelhan des Molles, né vers 1770. épousa
         Joséphine-Elisabeth Cadolle, dont au moins :
 
- * 1° Charles-Léon, qui suit ;\
+ * 1° Charles-Léon, qui suit ;
  * 2° Calixte, maire d'Alais, qui a laissé postérité représentée de nos jours.
 
  **VIII.** [Charles-Léon Verdelhan des
@@ -105,13 +105,13 @@ de sable à l'étoile d'argent ; au 2^e^ d'azur à trois coquilles d'or, 2. 1, a
 
 [Retrouver cette notice sur Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k366329.image.r=verdelhan.f277.langFR)
 
-##### Volume 67 (69ième année) - 1911
+### Volume 67 (69ième année) - 1911
 
  **VERDELHAN DES FOURNIELS**
 
 Cette famille, que l'on trouve fixée a Saint-Germain de Calberte, à la fin du XVI^e^ siècle, parait avoir une origine commune avec la famille
 [Verdelhan des Molles](Annuaire_de_la_Noblesse_de_France_(Révérend)#Volume_61_(63ième_année)_-_1905)
-(//Annuaire de la Noblesse//, 1905, p. 470), dont la sgrie des Molles
+(*Annuaire de la Noblesse*, 1905, p. 470), dont la sgrie des Molles
 était située au même lieu, bien que le point d'attache n'ait pas été
 établi historiquement.
 
@@ -181,7 +181,7 @@ Cette famille, que l'on trouve fixée a Saint-Germain de Calberte, à la fin du 
 
 <!-- -->
 
- **IV //bis//.** Annibal Verdelhan, marchand à Saint-Etienne, né
+ **IV *bis*.** Annibal Verdelhan, marchand à Saint-Etienne, né
         le 5 mai 1652, épousa à Nîmes, le 3 janvier 1696, Françoise Le
         Vieux, fille de Daniel Le Vieux, et de Françoise Clessé, dont 1°
         Jacques, qui suit; 2° Marie, née le 26 février 1704, mariée, le

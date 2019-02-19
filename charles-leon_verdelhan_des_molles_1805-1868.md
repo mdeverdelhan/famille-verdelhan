@@ -1,8 +1,8 @@
-###### Charles-Léon Verdelhan des Molles (1805-1868)
+## Charles-Léon Verdelhan des Molles (1805-1868)
 
 {{ individus:leon\_des\_molles.png?150\|Portrait de Léon des Molles}}
 
-Charles-Léon Verdelhan des Molles, dit //Léon des Molles//, nait le 30
+Charles-Léon Verdelhan des Molles, dit *Léon des Molles*, nait le 30
 janvier 1805 à [Saint-Germain de Calberte](Liste_des_propriétés_notables).
 
 Il est le petit-fils de
@@ -19,14 +19,14 @@ Léon des Molles meurt le 15 décembre 1868.
 
  * [Voir sa fiche sur le site de l'assemblée nationale.](http://www.assemblee-nationale.fr/sycomore/fiche.asp?num_dept=9593)
 
-##### Biographie
+### Biographie
 
 Biographie extraite du dictionnaire des parlementaires français de 1789
 à 1889 (A.Robert et G.Cougny)
 
 #### Retranscription
 
-\<\< représentant en 1848 et député de 1852 à 1857, né à
+« représentant en 1848 et député de 1852 à 1857, né à
 Saint-Germain-des-Calberte (Lozère), le 30 janvier 1805, mort le 15
 décembre 1868, était le petit-fils d'un avocat au parlement de Toulouse. Propriétaire-agronome à Langogne, il fut élu, le 23 avril
 1848, représentant de la Lozère à l'Assemblée constituante, le 2e sur
@@ -40,14 +40,14 @@ comme candidat officiel, 21,028 voix sur 21,268 votants et 40,092
 inscrits. Il siégea dans la majorité monarchique. A la fin de la législature, lors de la demande des douze millions et demi nécessaires à
 l'achèvement du boulevard Sébastopol, M. Desmolles soutint que la France ne devait pas payer les embellissements de Paris, et qu'il y avait danger à attirer dans une seule ville les ouvriers des campagnes.
 Aux élections du 22 juin 1857, il échoua avec 8,314 voix contre 18,562
-données à l'élu, M. de Chambrun, candidat indépendant, et rentra dans la vie privée. \>\>
+données à l'élu, M. de Chambrun, candidat indépendant, et rentra dans la vie privée. »
 
-##### AD48
+### AD48
 
 Le portrait de Léon des Molles est disponible sur le site des [archives départementales de Lozère](http://archives.lozere.fr/) à
 l'adresse suivante :
 <http://archives.lozere.fr/archives/visu/121744/1/dao/0>
 
- * Titre : //Portrait de Léon Des Molles. Né à St Germain de Calberte, le 30 janvier 1805. Assemblée Nationale : galerie des représentants du peuple, 1848, Lozère.//\
- * Cotes : //1 Fi Homme politique 4//\
+ * Titre : //Portrait de Léon Des Molles. Né à St Germain de Calberte, le 30 janvier 1805. Assemblée Nationale : galerie des représentants du peuple, 1848, Lozère.//
+ * Cotes : *1 Fi Homme politique 4*
  * Description : //Lithographie N/B d'après nature par Lemoine jeune, imp. Lemercier, Paris, direxit : E. Desmaisons. 36x27 cm.//
