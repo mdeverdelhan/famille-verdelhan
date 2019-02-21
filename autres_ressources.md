@@ -1,7 +1,6 @@
 ## Autres ressources
 
-Cette page recense les différentes sources d'informations restant à
-explorer ou à classer.
+Cette page recense les différentes sources d'informations restant à explorer ou à classer.
 
 ### Verdelhan des Fourniels
 
@@ -140,7 +139,7 @@ Livres, revues, ressources bibliographiques restant à explorer :
  * [Catalogue des gentilshommes en 1789 et des familles anoblies...](http://books.google.fr/books?id=scUEAAAAIAAJ&dq=Louis+de+La+Roque+et+Edouard+de+Barth%C3%A9l%C3%A9my&printsec=frontcover&source=bl&ots=hn6bs3ITIW&sig=C4vl1tH5eq5C0sVUorgEKk_OcdM&hl=fr&ei=7lTESrGKL4b34AaDneVL&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAoQ6AEwAA#v=onepage&q=Louis%20de%20La%20Roque%20et%20Edouard%20de%20Barth%C3%A9l%C3%A9my&f=false)
  * [Alphonse Brémond : Nobiliaire toulousain](http://books.google.fr/books?id=jFkoAAAAYAAJ&ots=yQ9-KFAibe&dq=Alphonse%20Br%C3%A9mond%20%3A%20Nobiliaire%20toulousain&pg=PA494#v=onepage&q=verdeilhan&f=false)
  * Vicomte Albert Révérend : Rest. (pour *Restauration* ?)
- * Henry de Wœlmont de Brumagne (baron) - La noblesse française subsistante, recherches en vue d’un nobiliaire moderne, 1928
+ * Henry de Wœlmont de Brumagne (baron) - La noblesse française subsistante, recherches en vue d'un nobiliaire moderne, 1928
  * *Éphémérides* d'Emmanuel de Las Cases (ancien sénateur de la Lozère (1854-1934), presses du languedoc, 1992, p44)
  * *Le Gévaudan et la Lozère 200 ans d'histoire* (p130), Jean-Paul Mazot, Presses du Languedoc
  * *Si m'était conté Saint-Étienne en Cévennes*, p110, p124, p129, Lucien Goillon, 1989

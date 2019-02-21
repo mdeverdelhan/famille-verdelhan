@@ -13,7 +13,7 @@ Les armoiries d'une famille sont toujours discutables (et discutées). Celles-ci
 L'étoile
 ---------
 
-L'étoile est considérée comme symbolisant l'ancienneté de l'extraction nobiliaire d'une famille. Ceci confirmerait le caractère « immémorial » ([confirmé par d'Hozier](Armorial_Général_de_France_(d'Hozier))) de la noblesse des Verdelhan.
+L'étoile est considérée comme symbolisant l'ancienneté de l'extraction nobiliaire d'une famille. Ceci confirmerait le caractère « immémorial » ([confirmé par d'Hozier](armorial_general_de_france_d_hozier)) de la noblesse des Verdelhan.
 
 Les coquilles
 -------------
@@ -30,26 +30,26 @@ Contrairement à ce que beaucoup pensent, le lion des Verdelhan n'est pas un lio
 
 Le dictionnaire *Le Robert* nous indique lui aussi que « \[ce qualificatif\] se dit d'animaux qui ne présentent que la moitié supérieure du corps et paraissent sortir de la pièce ou du champ de l'écu ».
 
-Le lion des Verdelhan est donc un lion par défaut, un lion *rampant* ([Plus d'explications sur Wikipedia](http://fr.wikipedia.org/wiki/Lion_(h%C3%A9raldique)#Lion_et_Lion_l.C3.A9opard.C3.A9)). L'histoire familiale lui fait signifier « un haut fait d'arme ». Cela pourrait alors correspondre à la [bataille de Pavie](wp>fr:Bataille_de_Pavie) si l'on explique [les besants](Armoiries_des_Verdelhan#Les_besants) par la reconnaissance de la rançon des fils de François 1<sup>ier</sup>. Néanmoins de nombreuses familles arborent un lion sur leurs armoiries ; et un célèbre proverbe héraldique nous dit que « qui n'a pas de blason porte un lion ». Aussi sachons rester prudents.
+Le lion des Verdelhan est donc un lion par défaut, un lion *rampant* ([Plus d'explications sur Wikipedia](http://fr.wikipedia.org/wiki/Lion_(h%C3%A9raldique)#Lion_et_Lion_l.C3.A9opard.C3.A9)). L'histoire familiale lui fait signifier « un haut fait d'arme ». Cela pourrait alors correspondre à la [bataille de Pavie](wp>fr:Bataille_de_Pavie) si l'on explique [les besants](armoiries_des_verdelhan#Les_besants) par la reconnaissance de la rançon des fils de François 1<sup>ier</sup>. Néanmoins de nombreuses familles arborent un lion sur leurs armoiries ; et un célèbre proverbe héraldique nous dit que « qui n'a pas de blason porte un lion ». Aussi sachons rester prudents.
 
 Les besants
 -----------
 
 Les besants représentent des pièces de monnaie. Chez les Verdelhan ils sont en argent, au nombre de six. Deux hypothèses les entourent :
 
- * Pour certains il s’agirait d'une reconnaissance de la contribution financière des Verdelhan pour la libération des fils de François 1<sup>ier</sup>. Cette explication aurait l’avantage de s’accorder avec la participation -- qui, rappelons-le, est purement hypothétique -- d'un Verdelhan à la bataille de Pavie.
- * Pour d’autres la tradition daterait des croisades et serait l’héritage d’une pratique consistant, pour les hobereaux de l’époque, à indiquer le prix à payer pour leur courage. Cette version s’accorderait avec un document (à retrouver) traitant d’un Verdelhan cherchant à s’acheter un cheval pour partir en croisade.
+ * Pour certains il s'agirait d'une reconnaissance de la contribution financière des Verdelhan pour la libération des fils de François 1<sup>ier</sup>. Cette explication aurait l'avantage de s'accorder avec la participation -- qui, rappelons-le, est purement hypothétique -- d'un Verdelhan à la bataille de Pavie.
+ * Pour d'autres la tradition daterait des croisades et serait l'héritage d'une pratique consistant, pour les hobereaux de l'époque, à indiquer le prix à payer pour leur courage. Cette version s'accorderait avec un document (à retrouver) traitant d'un Verdelhan cherchant à s'acheter un cheval pour partir en croisade.
 
 #### La couronne de marquis
 
 La couronne de [marquis](wp>fr:Marquis) ornant les armes des Verdelhan est elle aussi soumise à controverse. En effet, le seul marquisat connu de la famille fût celui de Montanègues, acheté en 1761 par Jacques Verdelhan des Fourniels. La branche des Fourniels s'étant éteinte au XIX<sup>ème</sup> siècle et les premières références à la couronne apparaissant à cette époque-là, il est possible que cela ait paru un bel ornement à rajouter aux armes *officielles*. Il se peut également que cela provienne d'une alliance quelconque.
 
-Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur écu « //timbré d'un casque, taré de profil, orné de ses lambrequins* » mais son existence n'est pas attestée.
+Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur écu « *timbré d'un casque, taré de profil, orné de ses lambrequins* » mais son existence n'est pas attestée.
 
 ### Évolution des armoiries
 
 {{ armoiries\_verdelhan\_orig.png?100\|Armes originelles probables des Verdelhan, source Marc de Verdelhan}}
 
-Dans son [étude sur les Verdelhan de Saint-Privat-de-Vallongue](Les_Verdelhan_de_Saint-Privat-de-Vallongue_(1275-1775)_(Vierne)), Vierne indique : « Les nobles blasonnaient de sable à une étoile d'argent. ». Bien qu'il n'indiquât pas de source permettant d'étayer cette affirmation on est tenté de le croire sachant le sérieux dont il fait preuve habituellement.
+Dans son [étude sur les Verdelhan de Saint-Privat-de-Vallongue](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne), Vierne indique : « Les nobles blasonnaient de sable à une étoile d'argent. ». Bien qu'il n'indiquât pas de source permettant d'étayer cette affirmation on est tenté de le croire sachant le sérieux dont il fait preuve habituellement.
 
 Les armes originelles de la famille seraient donc simplement composées comme modélisé sur l'image ci-contre ; les autres meubles provenant vraisemblablement des différentes alliances des Verdelhan.

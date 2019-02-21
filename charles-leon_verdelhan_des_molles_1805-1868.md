@@ -2,13 +2,13 @@
 
 {{ individus:leon\_des\_molles.png?150\|Portrait de Léon des Molles}}
 
-Charles-Léon Verdelhan des Molles, dit *Léon des Molles*, nait le 30 janvier 1805 à [Saint-Germain de Calberte](Liste_des_propriétés_notables).
+Charles-Léon Verdelhan des Molles, dit *Léon des Molles*, nait le 30 janvier 1805 à [Saint-Germain de Calberte](liste_des_proprietes_notables).
 
-Il est le petit-fils de [Jean-Daniel](Jean-Daniel_Verdelhan_des_Molles_(1737-1822)).
+Il est le petit-fils de [Jean-Daniel](jean-daniel_verdelhan_des_molles_1737-1822).
 
 Il est avocat à Alès, député de la Lozère, à l'Assemblée constituante (1848) et au Corps législatif (1852-57).
 
-Il est le père de [Paulin-Albert](Paulin-Joseph-Albert_de_Verdelhan_des_Molles_(1837-1914)) qui lui succède dans le développement du [domaine de Barres](Liste_des_propriétés_notables#Château_de_Barres).
+Il est le père de [Paulin-Albert](paulin-joseph-albert_de_verdelhan_des_molles_1837-1914) qui lui succède dans le développement du [domaine de Barres](liste_des_proprietes_notables#Château_de_Barres).
 
 Léon des Molles meurt le 15 décembre 1868.
 
@@ -24,8 +24,7 @@ Biographie extraite du dictionnaire des parlementaires français de 1789 à 1889
 
 ### AD48
 
-Le portrait de Léon des Molles est disponible sur le site des [archives départementales de Lozère](http://archives.lozere.fr/) à l'adresse suivante :
-<http://archives.lozere.fr/archives/visu/121744/1/dao/0>
+Le portrait de Léon des Molles est disponible sur le site des [archives départementales de Lozère](http://archives.lozere.fr/) à l'adresse suivante : http://archives.lozere.fr/archives/visu/121744/1/dao/0
 
  * Titre : *Portrait de Léon Des Molles. Né à St Germain de Calberte, le 30 janvier 1805. Assemblée Nationale : galerie des représentants du peuple, 1848, Lozère.*
  * Cotes : *1 Fi Homme politique 4*

@@ -4,9 +4,9 @@ Les Verdelhan ont fait l'objet d'une première étude par [M. Raymond Vierne](#�
 
 Plusieurs années de recherches supplémentaires ont permis à M. Vierne de rédiger une seconde version, plus complète que la précédente. Cette nouvelle synthèse a été publiée dans le bulletin de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/) (« Généalogie en Cévennes ») en 2008. Elle est divisée en trois parties (retranscrites sur ce site) :
 
- - [Les Verdelhan de Saint-Privat-de-Vallongue (1275-1775)](Les_Verdelhan_de_Saint-Privat-de-Vallongue_(1275-1775)_(Vierne))
- - [Les Verdelhan de Castagnols](Les_Verdelhan_de_Castagnols_(Vierne))
- - [Les Verdelhan de Saint-Germain-de-Calberte](Les_Verdelhan_de_Saint-Germain-de-Calberte_(Vierne))
+ - [Les Verdelhan de Saint-Privat-de-Vallongue (1275-1775)](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne)
+ - [Les Verdelhan de Castagnols](les_verdelhan_de_castagnols_vierne)
+ - [Les Verdelhan de Saint-Germain-de-Calberte](les_verdelhan_de_saint-germain-de-calberte_vierne)
 
 L'étude porte sur les Verdelhan de la Vallée Longue (en Cévennes) et alentours. La Vallée Longue est la plus septentrionale des vallées cévenoles. Elle est connue pour être le berceau de la famille Verdelhan et regroupe notamment les communes de Saint-Privat-de-Vallongue, Saint-André-de-Lancize, Saint-Martin-de-Boubaux, Saint-Germain-de-Calberte, etc. À ce jour ces travaux généalogiques sont les plus aboutis concernant la famille Verdelhan.
 
