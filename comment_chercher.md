@@ -14,15 +14,14 @@ Jusqu'au début du XX<sup>ème</sup> siècle, l'histoire des Verdelhan se confon
 
 ### Voir aussi
 
-Sociétés et associations de généalogistes((Merci à [Nicolas Lawriw](http://nlawriw.free.fr) pour la majorité de ces liens
-(http://www.brozer.fr).)) :
+Sociétés et associations de généalogistes[^lawriw] :
 
  * [Site de l'Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)
  * [Site de l'association Lozère Histoire et Généalogie](http://www.lozere-histoire-genealogie.com/) - [LozereGenWeb](http://lozeregenweb.lozere-histoire-genealogie.com/)
  * [Site de l'association Généaubrac](http://geneaubrac.fr/)
  * [Site de la Société de l'Histoire du Protestantisme Français](http://www.shpf.fr/)
  * [Site du Cercle Généalogique Gard-Lozère](http://www.cggl.fr/)
-
+ 
 Catalogues de bibliothèques :
 
  * Bibliothèque Carré d'Art (Nîmes) : [Consultation du catalogue](http://carreartmusee.centredoc.fr/opac/)
@@ -50,3 +49,6 @@ voici les orthographes déjà rencontrées :
  * Vardelhan, Verdallian, Verdeilhan, Verdeillan, Verdelhain, Verdelhan, Verdelhian, Verdelian, Verdelihan, Verdellan, Verdilhan, Verdcilhan
  * Molles, Moles, Mole, Molle, Milles, Desmolles, Desmol
  * Verdelhan-Desmolles, deverdelhan des Molles, Verdeille des Molles
+
+
+[^lawriw]: Merci à [Nicolas Lawriw](http://nlawriw.free.fr) pour la majorité de ces liens (http://www.brozer.fr).

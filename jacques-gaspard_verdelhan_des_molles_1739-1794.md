@@ -2,9 +2,9 @@
 
 Jacques-Gaspard nait le 13 juin 1739, deux ans après [son frère ainé](jean-daniel_verdelhan_des_molles_1737-1822), à Saint-Germain de Calberte. Il est [ordonné prêtre en 1770 à
 Lombez](http://books.google.fr/books?id=szLaAAAAMAAJ&q=verdeilhan+molles&dq=verdeilhan+molles&lr=&ei=LhvTSs3kBpXGywSk4fjuDQ&client=firefox-a).
-En 1776, il est codirecteur de l'hopital de Saint-Germain.((Archives départementales de la Lozère, Série H, n° 13.))
+En 1776, il est codirecteur de l'hopital de Saint-Germain[^ad48].
 
-En 1793 il est prêtre réfractaire((En Lozère, seuls 4 prêtres accepteront de prêter serment.)). Il est arrêté chez lui le 10 novembre 1793 et meurt en déportation en 1794.
+En 1793 il est prêtre réfractaire[^refractaire]. Il est arrêté chez lui le 10 novembre 1793 et meurt en déportation en 1794.
 
 ### Biographie
 
@@ -17,3 +17,8 @@ Biographie sommaire extraite du [Martyrologue du clergé français pendant la R�
 ### Autres sources
 
  * http://books.google.fr/books?id=dfZEAQAAIAAJ&dq=verdelhan%20jacques%20bordeaux&hl=fr&pg=PA696#v=onepage&q=verdelhan%20jacques%20bordeaux&f=false
+
+
+[^ad48]: Archives départementales de la Lozère, Série H, n° 13.
+
+[^refractaire]: En Lozère, seuls 4 prêtres accepteront de prêter serment.

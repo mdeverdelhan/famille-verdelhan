@@ -268,3 +268,20 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
 FIXME
 
 Note dont il reste à trouver l'emplacement : (2) Voir Familles cévenoles 2, chapitre 6
+
+((C.M. le 3-8-1489, M<sup>e</sup> JULIEN))
+((Le 25-5-1524, M<sup>e</sup> COMTE))
+((C.M. le 11-11-1619, M<sup>e</sup> DELORT))
+((C.M. le 30-9-1612, M<sup>e</sup> CASTANET))
+((Voir les Coseigneurs de Calberte, Familles cévenoles 3))
+((C.M. le 28-5-1643, M<sup>e</sup> TEISSIER))
+((le 27-3-1652, M<sup>e</sup> DELAPIERRE))
+((le 3-12-1696 à l'église))
+((C.M. le 22-11-1706, M<sup>e</sup> PELET le 16-11-1706 à l'église))
+((C.M. le 25-10-1698, M<sup>e</sup> MENET))
+((C.M. le 30-4-1608, M<sup>e</sup> COSTE))
+((le 13-8-1676, M<sup>e</sup> PRIVAT))
+((C.M. le 9-1-1702, M<sup>e</sup> PRIVAT))
+((C.M. le 17-11-1707, M<sup>e</sup> PRIVAT le 8-2-1705 à l'église))
+((le 14-8-1741, M<sup>e</sup> PELLET))
+((C.M. le 10-11-1733, M<sup>e</sup> PIN))

@@ -25,9 +25,9 @@ Le lion
 
 Contrairement à ce que beaucoup pensent, le lion des Verdelhan n'est pas un lion *issant* (ni même *hissant*). Deux généalogistes du XIX<sup>ième</sup> siècle nous renseignent sur la signification de ce terme en héraldique :
 
- * « **ISSANT, TE**, gérond. et adject., se dit d'un lion, d'une aigle ou d'un autre animal, qui paraît à l'un des bords de l'écu sur un chef, une fasce, etc., et ne montre que la tête et une petite partie de son corps. »[^1]
- * « **ISSANT**. Se dit de tout animal, lion, aigle ou autre, dont on ne voit figuré que la tête et une petite partie du corps. L'animal Issant semble sortir d'une pièce ou d'une partition de l'écu, il doit toujours être représenté seul, il peut être couronné, armé, etc., aucun émail ne lui est particulier, mais il faut se garder de le confondre avec l'animal naissant dont il est parlé à ce mot. »((L.-A. Duhoux d'Argicourt, *Alphabet et figures de tous les termes du blason*, Paris, 1899))
-
+ * « **ISSANT, TE**, gérond. et adject., se dit d'un lion, d'une aigle ou d'un autre animal, qui paraît à l'un des bords de l'écu sur un chef, une fasce, etc., et ne montre que la tête et une petite partie de son corps. »[^viton]
+ * « **ISSANT**. Se dit de tout animal, lion, aigle ou autre, dont on ne voit figuré que la tête et une petite partie du corps. L'animal Issant semble sortir d'une pièce ou d'une partition de l'écu, il doit toujours être représenté seul, il peut être couronné, armé, etc., aucun émail ne lui est particulier, mais il faut se garder de le confondre avec l'animal naissant dont il est parlé à ce mot. »[^duhoux]
+ 
 Le dictionnaire *Le Robert* nous indique lui aussi que « \[ce qualificatif\] se dit d'animaux qui ne présentent que la moitié supérieure du corps et paraissent sortir de la pièce ou du champ de l'écu ».
 
 Le lion des Verdelhan est donc un lion par défaut, un lion *rampant* ([Plus d'explications sur Wikipedia](http://fr.wikipedia.org/wiki/Lion_(h%C3%A9raldique)#Lion_et_Lion_l.C3.A9opard.C3.A9)). L'histoire familiale lui fait signifier « un haut fait d'arme ». Cela pourrait alors correspondre à la [bataille de Pavie](wp>fr:Bataille_de_Pavie) si l'on explique [les besants](armoiries_des_verdelhan#Les_besants) par la reconnaissance de la rançon des fils de François 1<sup>ier</sup>. Néanmoins de nombreuses familles arborent un lion sur leurs armoiries ; et un célèbre proverbe héraldique nous dit que « qui n'a pas de blason porte un lion ». Aussi sachons rester prudents.
@@ -55,4 +55,6 @@ Dans son [étude sur les Verdelhan de Saint-Privat-de-Vallongue](les_verdelhan_d
 Les armes originelles de la famille seraient donc simplement composées comme modélisé sur l'image ci-contre ; les autres meubles provenant vraisemblablement des différentes alliances des Verdelhan.
 
 
-[^1]: Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816
+[^viton]: Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816
+
+[^duhoux]: L.-A. Duhoux d'Argicourt, *Alphabet et figures de tous les termes du blason*, Paris, 1899

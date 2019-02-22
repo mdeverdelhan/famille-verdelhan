@@ -8,7 +8,7 @@ Il devient Jean-Daniel *Verdelhan des Molles* par la loi du 6 fructidor an II.
 
 Avocat au Parlement de Toulouse, il habite cette ville jusqu'en 1790, puis Alès où il possède une maison. Plus tard il se retire dans la propriété familiale de St-Germain de Calberte et sera maire de la commune jusqu'à sa mort le 2 octobre 1822. Son frère lui succèdera à cette fonction en 1823.
 
-Il est connu pour avoir comparu((C'est-à-dire : avoir participé à l'assemblée de la noblesse pour l'élection des députés aux [états généraux](https://fr.wikipedia.org/wiki/%C3%89tats_g%C3%A9n%C3%A9raux_(France)))) à Toulouse en mars 1789.
+Il est connu pour avoir comparu[^comparaitre] à Toulouse en mars 1789.
 
 ### Biographie Lou Pais
 
@@ -31,3 +31,6 @@ Quatre enfants qui joueront un certain rôle dans la vie locale recueilleront ce
  --- M. LIQUIERE.
 
 *Bibliographie :* R. Tinthoin. -- [Une famille noble cévenole au 19me siècle : les Verdelhan des Molles](une_famille_noble_cevenole_au_xixme_siecle_les_verdelhan_des_molles_tinthoin).
+
+
+[^comparaitre]: C'est-à-dire : avoir participé à l'assemblée de la noblesse pour l'élection des députés aux [états généraux](https://fr.wikipedia.org/wiki/%C3%89tats_g%C3%A9n%C3%A9raux_(France))

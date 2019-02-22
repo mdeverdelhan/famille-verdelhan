@@ -30,8 +30,7 @@ III --- *Marie-Sophie-Agnès*, épouse de Joseph-Nicolas Subiderroux de la Basti
 
 IV --- *Anne-Germain-Xavier* demeure au château de La Garde (commune de St-Germain) en 1859, épouse Anne Sabathier, en premières noces. Sa fille aînée : Marie-Joséphine-Léocardie épouse Jean-Louis de Salvat ; de ses 2 fils, Edmond et Henri, le deuxième est docteur-en-médecine et demeure à St-Etienne-Vallée-Française.)), fille d'un bourgeois, conseiller du roi et maire perpétuel de St-Etienne-Vallée-Française.
 
-Sur six enfants, il a quatre garçons : deux sont avocats au Parlement de Toulouse, le troisième médecin : ce qui confirme l'appartenance de cette famille à la noblesse de robe. Elle évolue vers la noblesse d'épée avec le fils aîné Pierre-Jacques, coseigneur de Masbernard et ses quatre garçons : [l'un prêtre](jacques-gaspard_verdelhan_des_molles_1739-1794)((A.
-D. Lozère, Série H, n° 13. [L'abbé Verdelhan des Molles](jacques-gaspard_verdelhan_des_molles_1739-1794) est codirecteur de l'hôpital de St-Germain, en 1776. Né en 1739, prêtre réfractaire déporté à la Guyane, mort en 1794.)), deux autres officiers du roi.
+Sur six enfants, il a quatre garçons : deux sont avocats au Parlement de Toulouse, le troisième médecin : ce qui confirme l'appartenance de cette famille à la noblesse de robe. Elle évolue vers la noblesse d'épée avec le fils aîné Pierre-Jacques, coseigneur de Masbernard et ses quatre garçons : [l'un prêtre](jacques-gaspard_verdelhan_des_molles_1739-1794)((A. D. Lozère, Série H, n° 13. [L'abbé Verdelhan des Molles](jacques-gaspard_verdelhan_des_molles_1739-1794) est codirecteur de l'hôpital de St-Germain, en 1776. Né en 1739, prêtre réfractaire déporté à la Guyane, mort en 1794.)), deux autres officiers du roi.
 
 L'aîné, *[Jean-Daniel](jean-daniel_verdelhan_des_molles_1737-1822)*, succède à son père comme seigneur des Molles, En 1764, il épouse une demoiselle de Solier --- fille d'un avocat et juge ---((Catherine-Elizabeth de Solier, fille de Pierre de Solier.)) et, en 1796, marie une de ses filles((Marie-Sophie-Agnès de Verdelhan des Molles.)) à un propriétaire foncier de St-Etienne-Vallée-Française((Joseph-Nicolas Subiderroux de la Bastide.)) et affirme ainsi sa parenté avec la bourgeoisie aisée. Né après 1734, il meurt le 2 octobre 1822 à St-Germain-de-Calberte. Avocat au Parlement de Toulouse, il habite cette ville jusqu'en 1790, puis Alès --- où il possède une maison --- et se retire dans [la maison familiale de St-Germain](liste_des_proprietes_notables#Maison_de_l'abbé_du_Chayla).
 En 1789, il prend part à l'Assemblée de la Noblesse du Gévaudan. Son fils aîné, Simon-Marcel épouse, en 1803, une jeune fille noble d'Alès((Elisabeth-Joséphine de Cadolle, apparentée au Comte Bernard-Jacques-Paulin de Cadolle, chevalier de dévotion de l'ordre de St Jean de Jérusalem.)). Son frère, Anne-Germain-Xavier, trésorier du bureau de bienfaisance, lui succèdera comme maire de St-Germain, en 1823.
@@ -117,3 +116,95 @@ En résumé, ces nobles de robe des Hautes Cévennes sont des gentilshommes rura
 Malgré cette existence champêtre, ils apprécient la culture intellectuelle --- la poésie aussi bien que le droit et les sciences --- la belle argenterie armoriée plutôt que les bijoux, les beaux meubles, le confort domestique, les réceptions, la vie de famille. Enfin la coquetterie féminine ne perd pas ses droits. Ce goût du luxe et du savoir, ils les ont acquis pendant leurs séjours à Toulouse, capitale du Languedoc ou à Alès, ville principale des Cévennes où les appellent leurs fonctions d'avocats mais ils viennent finir leurs jours dans le village natal où revivent leurs anciennes habitudes paysannes.
 
 --- Robert TINTHOIN.
+
+
+
+((Cf. Robert *Tinthoin* « Commerçants des Hautes Cévennes au XIX<sup>me</sup> siècle », in C. R. Congrès Stés historiques du Languedoc, Rodez, 1958.))
+((Anne du Mas (vivant en 1722). Pour cette famille, nous avons consulté, en particulier, Vicomte de *Lescure* « Armorial du Gévaudan », Lyon, 1929. pp. 794-797.))
+((Diane de Teule de Camboux.
+
+*[Jean-Daniel Verdelhan des Molles](jean-daniel_verdelhan_des_molles_1737-1822)* a quatre enfants :
+
+I --- *Simon-Marcel* qui épouse, en 1803, Elisabeth de Cadolle, d'Alès, décédé le 20 mars 1821, à Alès. Ils ont cinq enfants :
+
+ 1) [Charles-Léon](charles-leon_verdelhan_des_molles_1805-1868), propriétaire à Langogne, en 1850.
+ 2) Joseph-Daniel-Gustave.
+ 3) Marie-Xavier-Calixte, avocat à Montpellier, en 1854.
+ 4) Marcel-Calixte-Clodomir, à St-Etienne-Vallée-Française, en 1850.
+ 5) Marie-Joséphine-Virginie.
+
+II --- *Julie-Elisabeth*.
+
+III --- *Marie-Sophie-Agnès*, épouse de Joseph-Nicolas Subiderroux de la Bastide. Ils habitent à St-Etienne-Vallée-Française, en 1850.
+
+IV --- *Anne-Germain-Xavier* demeure au château de La Garde (commune de St-Germain) en 1859, épouse Anne Sabathier, en premières noces. Sa fille aînée : Marie-Joséphine-Léocardie épouse Jean-Louis de Salvat ; de ses 2 fils, Edmond et Henri, le deuxième est docteur-en-médecine et demeure à St-Etienne-Vallée-Française.))
+((A. D. Lozère, Série H, n° 13. [L'abbé Verdelhan des Molles](jacques-gaspard_verdelhan_des_molles_1739-1794) est codirecteur de l'hôpital de St-Germain, en 1776. Né en 1739, prêtre réfractaire déporté à la Guyane, mort en 1794.))
+((Catherine-Elizabeth de Solier, fille de Pierre de Solier.))
+((Marie-Sophie-Agnès de Verdelhan des Molles.))
+((Joseph-Nicolas Subiderroux de la Bastide.))
+((Elisabeth-Joséphine de Cadolle, apparentée au Comte Bernard-Jacques-Paulin de Cadolle, chevalier de dévotion de l'ordre de St Jean de Jérusalem.))
+((Rue Basse et rue Droite.))
+((Elle compte 21 fenêtres et portes. Etat de section du Cadastre 1836.))
+((Tissu d'ameublement fabriqué avec de la bourre de soie mélangée avec du coton.))
+((Evaluée 90 francs.))
+((Etoffe de soie mince, imitant le satin.))
+((Etoffe de soie, très solide à la chaîne, faite avec des déchets de cocons.))
+((Apparut dans l'ébénisterie au début du XVIII<sup>me</sup>.))
+((Etoffe fine de coton et de couleur claire.))
+((Evaluée 12 francs. Plaqué or.))
+((Probablement poterie de St-Quentin, près d'Uzès, très usitée aux environs d'Alès.))
+((Le tout pesant 1,860 kg et évalué 360 francs.))
+((Pesant 1,500 kg et évalués 275 francs.))
+((Fil fait de bourre de soie (« floure » en patois).))
+((Petite balance pour peser les monnaies d'or et d'argent.))
+((A ciel de lit d'où pendent les rideaux.))
+((Quenouilles : piliers qui supportent, à chaque coin, le ciel de lit.))
+((Lit dont l'impériale n'est maintenue que par l'arrière et par quelques appuis, pris au mur ou au plafond, l'avant du lit se trouvant, entièrement dégagé. Apparaît, dès 1700, dans les installations à la mode.))
+((Toile à semis de points ressemblant à des grains d'orge.))
+((Le gramme d'argent d'orfèvrerie ouvré est évalué à 0,375 fr.))
+((L'argenterie détaillée ci-dessus pèse 20 kgs et est évaluée 15 000 fr., les chandeliers pèsent 1,250 kg chacun et valent 150 fr., le service 2 400 fr.))
+((Le gramme d'or d'orfèvrerie est évaluée 3 fr. Les montres on été achetées chez un bijoutier parisien. Ces bijoux en or pèsent plus de 150 grammes et sont évalués 570 francs. On compte, en outre, 13 pièces d'or (une d'Espagne dite quadruple à l'effigie du roi Charles III), pièces de 48 livres et 24 livres d'avant la Révolution, pièces de 20 francs de l'Empire et de la Restauration. Les 60 pièces d'argent comprennent des pièces de 6 livres, 2 francs, 75, 50 et 25 centimes, puis monnaie de cuivre ou billon ; le tout d'une valeur de 850 francs.))
+((Moulé.))
+((Etoffe de soie présentant des ornements sur le fond uni du tissu, la trame n'apparaît pas à l'endroit ; tissu lustré au cylindre.))
+((Sorte d'étoffe de soie, originaire de l'Inde.))
+((Etoffe tissée de façon que les mêmes dessins, qu'elle présente à l'endroit en satin, sur fond de taffetas, apparaissent à l'envers en taffetas sur fond de satin.))
+((Marie-Joséphine-Elisabeth de Cadolle, épouse de Simon-Marcel Verdelhan des Molles. A. D. Lozère. Etude de M<sup>e</sup> Cord, 3 E, n° 9931. Inventaire du 2 janvier 1822. L'intéressée est décédée, à Alès, en 1821.))
+((Evaluées, chacune, de 4 à 5 francs.))
+((Calicot fin non duveté.))
+((Etoffe de coton peinte (de Rouen, en particulier).))
+((Rouge pourpre.))
+((Taffetas très léger.))
+((Evaluées, l'une et l'autre, 10 et 25 francs.))
+((Etoffe légère dont la chaîne est en soie et la trame en coton.))
+((Comptes rendus des conférences ecclésiastiques de Paris, Langres, Luçon, Angers. Statuts synodaux de Mende.))
+((Un sieur Verdelhan, notaire de St-Privat-de-Vallongue, nouveau converti, a été assassiné, en 1703, par les Camisards, [un Verdelhan des Molles](jacques-gaspard_verdelhan_des_molles_1739-1794) sera prêtre réfractaire pendant la Révolution.))
+((Mil blanc, millet des oiseaux.))
+((Garoute vient probablement du provençal garoussa : gesse.))
+((Le sucre est râpé avec une râpe ou cylindre de fer blanc.))
+((En usage à Paris dans la deuxième moitié du XVII<sup>me</sup> siècle.))
+((Le poivre coûte 2,50 fr. le kg. Le café coûte 3 fr. le kg.)).
+((Chevillière : sorte de tresse plate en fil écru ou en coton.))
+((Magnaguiéïro, coconnière, atelier où on élève des vers à soie.))
+((Environ 120 litres (mesure d'Alès).))
+((Parmi les papiers, nous relevons l'existence d'un Compoix-terrier de la commune de St-Germain-de-Calberte de 1647, un terrier relié parchemin, contenant les reconnaissances féodales faites aux anciens prieurs de St-Germain, un terrier relié parchemin et reconnaissances faites en faveur du Sieur des Molles par ses emphithéotes de St-Germain, la Bessède et de la communauté de Ste-Croix (Vallée française).))
+((Corbeille ou panier en sparterie, rond ou ovale, avec deux anses.))
+((D'après l'Etat des sections du cadastre et l'Atlas cadastral.))
+((Le fils de Jean-Daniel : Simon, habitant à Alès : 56 ha, ses petits-fils Xavier, habitant St-Germain et La Garde : 35 ha, Gustave, habitant St-Germaîn : 4 ha, sa petite-fille Marie, de St·Germain : 12 ha, son gendre. Subiderroux de la Bastide, époux de sa fille Marie-Sophie-Agnès, habitant St-Etienne-Vallée-Française : 42 ha. Xavier Verdelhan des Molles, de la Garde a un revenu cadastral de 1 200 francs, mais il vient au 8me rang des propriétaires.))
+((A. D. Lozère, 3 E n° 10 031. Etude de M<sup>e</sup> P. Larguier, 1833.))
+((Acheté à Larguier, propriétaire foncier et ancien procureur, fixé à Lausanne, en Suisse, qui le tenait, à titre de légataire universel, de sa tante Larguier, épouse de Delapierre Dalzan.))
+((Marie-Philippine-Elisabeth Ausset de Chavanon.))
+((Coffre en bois à compartiments dans lequel on conserve des grains.))
+((Avec on fait la « bajana » ou « cousina », potage, mets très communs dans les Cévennes, principale nourriture des habitants pendant l'hiver.))
+((Séchoir à châtaignes, bâtiment bas et isolé où l'on dépose les châtaignes sur des clayons au-dessus d'un feu lent et continu. La fumée filtre à travers les interstices et fait « suer » les châtaignes qui perdent leur humidité.))
+((Brisos, châtaignes sèches qui ont été brisées en les battant pour les dépouiller. Elles ont un peu moins de valeur sur les marchés parce qu'elles se mettent en marmelade en cuisant mais elles sont préférables si on les moud en farine pour les porcs.))
+((Tousèle, tuzèle, variété de froment sans barbe précoce, très employé dans la panification chez les populations rurales du Midi. On dit « tuzelle » en Algérie, aujourd'hui.))
+((ou « basibios » : brebis qui n'ont pas porté.))
+((La laine surge coûte 1,25 fr. le kg. Un cochon hivernaire (pourceau d'1 an ou 2 qu'on engraisse pour égorger l'hiver suivant) coûte 22 fr., un cochon gras 75 fr., un bassif ou bête à laine : 76 fr., une chèvre : 14 francs.))
+((Montants.))
+((Canisso : clayon fait de petits roseaux de marais qui sert de plancher aux tables de vers à soie.))
+((Premiers fils secrétés par le ver à soie qui servent d'enveloppe à la soie du cocon.))
+((Bassis : bassine en cuivre pour filer les cocons.))
+((Montants de métier.))
+((Par Liquière des Portes.))
+((Cf. *M. Masseguin* : Les Parlementaires royalistes lozériens de 1815 à 1893. Diplôme d'Etudes supérieures de la Faculté des Lettres de Montpellier, 1957, 119 pages dactylographiées, notamment pp. 66-74.))
+((Décédé en 1926 au château de Barre, à Langogne.))
