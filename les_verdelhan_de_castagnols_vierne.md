@@ -351,41 +351,79 @@ On n'a pu établir une filiation continue qu'à partir de Laurent dont la descen
 Une autre lignée intéressante s'est développée au 16<sup>ème</sup> siècle dans la paroisse de Saint-Michel-de-Dèze, au Rochadel à partir de Pierre VERDELHAN qui y épouse Jacquette LANTEYRES. [Cette lignée se rattache à celle de Sarreméjane](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne#Au_Rochadel).
 
 
-((C.M. le 7-2-1408 n.s., M<sup>e</sup> DOLADILHE))
-((Le 25-2-1571, M<sup>e</sup> BOSCHET))
-((Le 6-10-1585, M<sup>e</sup> BOSCHET))
-((C.M. le 17-4-1566, M<sup>e</sup> BOSCHET))
-((C.M. le 14-12-1578, M<sup>e</sup> BOSCHET))
-((C.M. le 8-5-1580, M<sup>e</sup> BOSCHET))
-((C.M. le 5-12-1585, M<sup>e</sup> BOSCHET))
-((C.M. le 25-5-1594, M<sup>e</sup> BOSCHET))
-((C.M. le 16-12-1662, M<sup>e</sup> BERTRAND))
-((C.M. le 6-2-1527 n.s., M<sup>e</sup> BASTIDE))
-((C.M. le 12-10-1596, M<sup>e</sup> DURANT))
-((C.M. le 16-12-1549, M<sup>e</sup> BRICONNET))
-((C.M. le 25-9-1576, M<sup>e</sup> CORBIER))
-((C.M. le 11-7-1585, M<sup>e</sup> CORBIER))
-((C.M. le 16-6-1586, M<sup>e</sup> CORBIER))
-((C.M. le 14-1-1620, M<sup>e</sup> BONNET))
-((C.M. le 26-9-1617, M<sup>e</sup> DUCAMP))
-((C.M. le 15-3-1657, M<sup>e</sup> BRES))
-((C.M. le 14-2-1684, M<sup>e</sup> BRES))
-((C.M. le 12-2-1446 n.s., M<sup>e</sup> TORRES))
-((C.M. le 29-12-1485, M<sup>e</sup> ROCHIER))
-((Le 19-4-1537, M<sup>e</sup> LAURENT))
-((C.M. le 23-5-1575, M<sup>e</sup> BOSCHET))
-((C.M. le 17-11-1598, M<sup>e</sup> DURANT))
-((C.M. le 27-11-1560, M<sup>e</sup> LAURENT))
-((C.M. le 22-6-1561, M<sup>e</sup> BOSCHET))
-((Le 20-12-1616, M<sup>e</sup> PRIVAT))
-((C.M. le 1-10-1627, M<sup>e</sup> PRIVAT))
-((C.M. le 21-2-1648, M<sup>e</sup> GIBERT))
-((C.M. le 2-9-1642, M<sup>e</sup> GIBERT))
-((C.M. le 6-1-1652, M<sup>e</sup> GIBERT))
-((C.M. le 18-3-1656, M<sup>e</sup> PRIVAT))
-((Le 14-3-1542, M<sup>e</sup> BRISSONET))
-((C.M. le 30-1-1569, M<sup>e</sup> CORBIER))
-((C.M. le 13-3-1570, M<sup>e</sup> CORBIER))
-((Voir R. VIERNE Les PELET Généalogie en Cévennes nos 57 à 60))
-((C.M. le 14-3-1620, M<sup>e</sup> PRIVAT))
-((Voir les BASTIDE par R. VIERNE, cahiers du CGP))
+
+[^1]: C.M. le 7-2-1408 n.s., M<sup>e</sup> DOLADILHE
+
+[^2]: Le 25-2-1571, M<sup>e</sup> BOSCHET
+
+[^3]: Le 6-10-1585, M<sup>e</sup> BOSCHET
+
+[^4]: C.M. le 17-4-1566, M<sup>e</sup> BOSCHET
+
+[^5]: C.M. le 14-12-1578, M<sup>e</sup> BOSCHET
+
+[^6]: C.M. le 8-5-1580, M<sup>e</sup> BOSCHET
+
+[^7]: C.M. le 5-12-1585, M<sup>e</sup> BOSCHET
+
+[^8]: C.M. le 25-5-1594, M<sup>e</sup> BOSCHET
+
+[^9]: C.M. le 16-12-1662, M<sup>e</sup> BERTRAND
+
+[^10]: C.M. le 6-2-1527 n.s., M<sup>e</sup> BASTIDE
+
+[^11]: C.M. le 12-10-1596, M<sup>e</sup> DURANT
+
+[^12]: C.M. le 16-12-1549, M<sup>e</sup> BRICONNET
+
+[^13]: C.M. le 25-9-1576, M<sup>e</sup> CORBIER
+
+[^14]: C.M. le 11-7-1585, M<sup>e</sup> CORBIER
+
+[^15]: C.M. le 16-6-1586, M<sup>e</sup> CORBIER
+
+[^16]: C.M. le 14-1-1620, M<sup>e</sup> BONNET
+
+[^17]: C.M. le 26-9-1617, M<sup>e</sup> DUCAMP
+
+[^18]: C.M. le 15-3-1657, M<sup>e</sup> BRES
+
+[^19]: C.M. le 14-2-1684, M<sup>e</sup> BRES
+
+[^20]: C.M. le 12-2-1446 n.s., M<sup>e</sup> TORRES
+
+[^21]: C.M. le 29-12-1485, M<sup>e</sup> ROCHIER
+
+[^22]: Le 19-4-1537, M<sup>e</sup> LAURENT
+
+[^23]: C.M. le 23-5-1575, M<sup>e</sup> BOSCHET
+
+[^24]: C.M. le 17-11-1598, M<sup>e</sup> DURANT
+
+[^25]: C.M. le 27-11-1560, M<sup>e</sup> LAURENT
+
+[^26]: C.M. le 22-6-1561, M<sup>e</sup> BOSCHET
+
+[^27]: Le 20-12-1616, M<sup>e</sup> PRIVAT
+
+[^28]: C.M. le 1-10-1627, M<sup>e</sup> PRIVAT
+
+[^29]: C.M. le 21-2-1648, M<sup>e</sup> GIBERT
+
+[^30]: C.M. le 2-9-1642, M<sup>e</sup> GIBERT
+
+[^31]: C.M. le 6-1-1652, M<sup>e</sup> GIBERT
+
+[^32]: C.M. le 18-3-1656, M<sup>e</sup> PRIVAT
+
+[^33]: Le 14-3-1542, M<sup>e</sup> BRISSONET
+
+[^34]: C.M. le 30-1-1569, M<sup>e</sup> CORBIER
+
+[^35]: C.M. le 13-3-1570, M<sup>e</sup> CORBIER
+
+[^36]: Voir R. VIERNE Les PELET Généalogie en Cévennes nos 57 à 60
+
+[^37]: C.M. le 14-3-1620, M<sup>e</sup> PRIVAT
+
+[^38]: Voir les BASTIDE par R. VIERNE, cahiers du CGP

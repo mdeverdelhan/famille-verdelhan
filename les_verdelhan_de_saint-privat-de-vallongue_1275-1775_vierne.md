@@ -66,9 +66,9 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
 
  * Seigneur de Sarreméjane.
  * Habite à Codoulous.
- * Seigneur de Marvelhac (1399) comme époux de Tibos (Tiburce) d'ESPINASSON((C.M. le 11-9-1378 [d'après D'HOZIER](armorial_general_de_france_d_hozier))), fille de noble Pierre, damoiseau, seigneur de Marvelhac, et d'Hermende d'ANDUZE, celle-ci fille de Guillaume d'ANDUZE dit de MARVELHAC qui hommage à l'évêque en 1307 ; Pierre d'ESPINASSON alias de MARVELHAC s'occupait, entre autre, de intérêts de GRIMOARD, seigneur de Grizac ; il habitait à Marvelhac dans la maison de sa femme (1362).
+ * Seigneur de Marvelhac (1399) comme époux de Tibos (Tiburce) d'ESPINASSON[^1], fille de noble Pierre, damoiseau, seigneur de Marvelhac, et d'Hermende d'ANDUZE, celle-ci fille de Guillaume d'ANDUZE dit de MARVELHAC qui hommage à l'évêque en 1307 ; Pierre d'ESPINASSON alias de MARVELHAC s'occupait, entre autre, de intérêts de GRIMOARD, seigneur de Grizac ; il habitait à Marvelhac dans la maison de sa femme (1362).
  * On lui reconnaît en 1399 et 1425 des biens reconnus à Pierre d'ANDUZE d'ESPINASSON (le 20-4-1347 et le 30-3-1411) et avant à Guillaume (le 7-2-1310 vs), et possédés par Antoine, sieur de Marvelhac en 1578 ; le 8-1-1405 vs, on lui reconnaît à Saint-Andéol-de-Clerguemort des biens reconnus à Pons de la GARDE en 1397.
- * Tibos teste en 1434, Pierre étant encore en vie; elle laisse neuf enfants dont les deux aînés ont des legs importants((Le 4-6-1434, M<sup>e</sup> GUIN)) :
+ * Tibos teste en 1434, Pierre étant encore en vie; elle laisse neuf enfants dont les deux aînés ont des legs importants[^2] :
    * Étienne, qui suit, aura les terres qui furent de Jehan BELLUGE du mas de Fontmarin.
    * Pierre, futur sieur de Marvelhac aura des terres de Jehan de CHATUSSE ainsi que les 50 florins d'or qu'elle avait eus en dot
    * Jacques, (c'est peut-être lui qui fait une reconnaissance à Gap Frances en 1444 au nom de sa femme Delphine VALES, fille de feu Jean de Frutgères et soeur d'Agnès 56H 1955 AD des Bouches du Rhône, thèse de Mr Jean Claude HELAS)
@@ -94,7 +94,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  * le 24-1-1452 vs des biens reconnus à Guillaume BERNARD sieur de Saint-Christol le 30-6-1345 (il possède aussi des biens reconnus au dit Guillaume BERNARD et à noble Pierre BERNARD son fils le 22-2-1354 vs).
  * Le 2-1-1454 vs des biens à Sambuget (St-Andéol-de-Clerguemort) reconnus à Guigon de la GARDE le 24-11-1397.
  * Il reconnaît des biens à l'abbé de Cendras le 24-10-1439.
- * En 1443, il partage l'héritage avec son frère Pierre, acceptant l'arbitrage de Raymond de GAUJAC du Soulier et de Jehan GUIN des Appens. Il lui est attribué les mas et fiefs de Chatusse et Sarreméjane, les droits seigneuriaux sur Fontmary et des censives sur St-Julien-des-Points, St-Andéol-de-Clerguemort, le Collet-de-Dèze, la Melouze, St-Frézal-de-Ventalon et Cassagnas((Le 14-3-1443, M<sup>e</sup> ESCALIER)).
+ * En 1443, il partage l'héritage avec son frère Pierre, acceptant l'arbitrage de Raymond de GAUJAC du Soulier et de Jehan GUIN des Appens. Il lui est attribué les mas et fiefs de Chatusse et Sarreméjane, les droits seigneuriaux sur Fontmary et des censives sur St-Julien-des-Points, St-Andéol-de-Clerguemort, le Collet-de-Dèze, la Melouze, St-Frézal-de-Ventalon et Cassagnas[^3].
  * Il est le père de :
    * Pierre qui suit,
    * Guillaume, clerc à Sarreméjane en 1467,
@@ -114,7 +114,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  * Hommage à l'abbé de Cendras 1513.
  * Il est le père de :
    * Firmin, qui suit
-   * Pierre, qui se fixe à Chausse (1567) après avoir été prêtre à Sarreméjane (1550) ; son épouse Françoise DURANT lui a donné, pour le moins, deux fils, Jehan, cordonnier, marié en 1588 avec Jehanne ALLEGRE de Sénéchas((C.M. le 8-3-1588, M<sup>e</sup> BAUZON)) (d'où Madeleine, épouse en 1623 de Jean TEISSIER, serrurier à Alès) et Antoine, maçon, époux en 1601 de Florette PLANTIER de Soustelle((C.M. le 15-2-1601, M<sup>e</sup> CORNIARET)).
+   * Pierre, qui se fixe à Chausse (1567) après avoir été prêtre à Sarreméjane (1550) ; son épouse Françoise DURANT lui a donné, pour le moins, deux fils, Jehan, cordonnier, marié en 1588 avec Jehanne ALLEGRE de Sénéchas[^4] (d'où Madeleine, épouse en 1623 de Jean TEISSIER, serrurier à Alès) et Antoine, maçon, époux en 1601 de Florette PLANTIER de Soustelle[^5].
 
  **VIII -- Firmin VERDELHAN (+\<1562)**
 
@@ -130,7 +130,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
 
  * Seigneur de Sarreméjane, de Fabrèges.
  * On lui reconnaît le 19-11-1566 des biens reconnus après à son petit-fils Antoine, sieur de Fabrèges le 16-4-1653.
- * Il teste en 1567((Le 12-11-1567, M<sup>e</sup> PAULET)) laissant trois enfants de sa première épouse :
+ * Il teste en 1567[^6] laissant trois enfants de sa première épouse :
    * Daniel, qui suit,
    * Pierre, souche du rameau du Rochadel et
    * Jacques qui iront aux écoles de grammaire pour savoir lire et écrire; ils auront chacun 250 livres (dont 120 à leur mariage); en 1600, Jacques est huissier au siège présidial de Nimes ; notaire, il vend un office de notaire situé à la Brousse à son frère Daniel. Daniel VERDEHAN, maçon du Rochadel assure la tutelle de ses enfants (1609) ;
@@ -139,7 +139,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  * Sa troisième femme, en 1578, Marguerite DURAND, veuve en premières noces de Guillaume de BUDOS et en secondes noces de Claude ALLEGRE du Chambon près de Sénéchas, fille de Pierre et Marguerite CHAMBON de Soleyrols près de Vialas, lui donne deux filles :
    * Françoise, épouse dès 1598 de Jean SOUSTELLE de Chalserre près de Ste-Cécile-d'Andorge
    * Antoinette pas mariée en 1615; elle donne ses biens à son neveu Antoine (qui suit en XI) à l'occasion de son mariage en 1630.
- * Il est prévu dans le contrat de mariage d'Antoine et Marguerite((C.M. le 4-9-1578, M<sup>e</sup> POITEVIN)) que Daniel aura la moitié des biens de son père et qu'il épousera Madeleine, fille de Marguerite DURAND, dotée de 266 1/3 écus qui seront payés par son oncle messire Jacques de BUDOS.
+ * Il est prévu dans le contrat de mariage d'Antoine et Marguerite[^7] que Daniel aura la moitié des biens de son père et qu'il épousera Madeleine, fille de Marguerite DURAND, dotée de 266 1/3 écus qui seront payés par son oncle messire Jacques de BUDOS.
  * Le 27-3-1584 il fait hommage avec son fils Daniel au seigneur de Grizac.
  * Outre les enfants déjà cités on lui connaît :
    * Antoine, à Nîmes en 1615 ; en 1609, il donne quittance de 100 livres à son frère Daniel en déduction de ses droits.
@@ -155,7 +155,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  * Les 23-5-1597, 31-1-1605 et 8-3-1605 des biens reconnus à Étienne VERDELHAN le 11-10-1431 et à Pierre VERDELHAN le 19-1-1321 vs.
  * Le 18-1-1598 des biens reconnus à Guigon de la GARDE,son auteur en avril 1369 et ensuite à son fils Antoine le 17-4-1653 et à son petit-fils Jacques le 4-3-1663.
  * En 1602, il blesse gravement à la tête Jean SALLES qui, inquiet pour sa vie, fait son testament le 11 juillet.
- * Il teste en 1615((Le 8-5-1615, M<sup>e</sup> ALLEGRE)) avec, à ce moment-là sept enfants, tous de Madeleine de BUDOS, léguant 700 livres aux garçons et 800 et trois robes aux filles :
+ * Il teste en 1615[^8] avec, à ce moment-là sept enfants, tous de Madeleine de BUDOS, léguant 700 livres aux garçons et 800 et trois robes aux filles :
    * Antoine, héritier universel, qui suit en XI a,
    * Jacques (cité en 1623)
    * François
@@ -168,7 +168,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  **XI a -- Antoine VERDELHAN**
 
  * Bien qu'il réside à Sarreméjane, on le qualifie de seigneur de Fabrèges, du Crespin, de Curières, coseigneur du Masmin.
- * Époux en 1630 de demoiselle Jeanne GUERIN, fille de Jacques, sieur du Chambonnet et d'Anne PAULET, de l'Elze de Saint-Hilaire-de-Lavit, dotée de 2.850 livres tournois((C.M. le 12-1-1630, M<sup>e</sup> ALLEGRE)),
+ * Époux en 1630 de demoiselle Jeanne GUERIN, fille de Jacques, sieur du Chambonnet et d'Anne PAULET, de l'Elze de Saint-Hilaire-de-Lavit, dotée de 2.850 livres tournois[^9],
  * On lui reconnaît :
    * Le 16-4-1653 et le 15-11-1655, des biens reconnus avant à son père et avant à d'autres de ses prédécesseurs.
    * Le 23-1-1654, des biens reconnus ensuite à sa veuve au nom de son fils Jacques, sieur du Masmin, le 7-10-1668.
@@ -722,109 +722,211 @@ La suite de cette affaire n'est pas encore connue; une conséquence certaine en 
 
 Il est très probable que cette famille était une habituée des assemblées comme beaucoup d'autres de cette région; en revanche un doute réel subsiste sur la tenue, dans la nuit du 22 avril, de cette assemblée qui aurait bien pu être imaginée par les deux compères qui avaient soupé ensemble. En effet Claude Dussaut ne précise pas ce qu'il était allé faire à Vialas (à une dizaine de kilomètres de chez lui) après le repas du soir et Jean Gévaudan ne donne aucun détail sur les malades qu'il était allé visiter dans la soirée; et leurs chemins les ont amenés -- par hasard -- à Sarreméjane au moment de l'assemblée !
 
-((et quelques centaines d'actes de moindre importance trouvés dans les dépôts des [Archives départementales](http://archives.lozere.fr/).))
+[^102]
 
 
 
-((C.M. le 11-9-1378 [d'après D'HOZIER](armorial_general_de_france_d_hozier)))
-((Le 4-6-1434, M<sup>e</sup> GUIN))
-((Le 14-3-1443, M<sup>e</sup> ESCALIER))
-((C.M. le 8-3-1588, M<sup>e</sup> BAUZON))
-((C.M. le 15-2-1601, M<sup>e</sup> CORNIARET))
-((Le 12-11-1567, M<sup>e</sup> PAULET))
-((C.M. le 4-9-1578, M<sup>e</sup> POITEVIN))
-((Le 8-5-1615, M<sup>e</sup> ALLEGRE))
-((C.M. le 12-1-1630, M<sup>e</sup> ALLEGRE))
-((Le 26-2-1649, M<sup>e</sup> PONGE))
-((C.M. en 1692, M<sup>e</sup> POLGE))
-((C.M. le 28-8-1656, M<sup>e</sup> PONGE))
-((C.M. le 5-3-1662, M<sup>e</sup> PONGE))
-((C.M. octobre 1675, M<sup>e</sup> PONGE))
-((C.M. le 14-3-1670, M<sup>e</sup> PONGE))
-((C.M. le 6-8-1673, M<sup>e</sup> PONGE))
-((C.M. le 17-11-1672, M<sup>e</sup> PONGE))
-((C.M. le 2-8-1710, M<sup>e</sup> PELET))
-((C.M. le 21-10-1732, M<sup>e</sup> PIN))
-((x le 23-4-1730 à Bez))
-((D'après les relevés de Mme Arlette ARDOUIN))
-((C.M. le 17-9-1674, M<sup>e</sup> VERDELHAN))
-((C.M. le 4-2-1680, M<sup>e</sup> MAZOYER))
-((C.M. le 3-3-1707, M<sup>e</sup> PERIER))
-((C.M. le 26-7-1728, M<sup>e</sup> DUBOST))
-((Le 5-4-1740, M<sup>e</sup> PIN))
-((C.M. le 10-11-1716, M<sup>e</sup> FOLCHER))
-((C.M. le 3-3-1744, M<sup>e</sup> PIN))
-((C.M. le 14-7-1717, M<sup>e</sup> PERIER))
-((C.M. le 13-7-1704, M<sup>e</sup> PRIVAT))
-((C.M. le 1-3-1736, M<sup>e</sup> PIN))
-((C.M. le 16-2-1735, M<sup>e</sup> PIN))
-((C.M. le 5-5-1664, M<sup>e</sup> PONGE))
-((C.M. le 27-5-1697, M<sup>e</sup> VERDELHAN))
-((C.M. le 8-5-1688, M<sup>e</sup> VERDELHAN))
-((C.M. le 20-2-1719, M<sup>e</sup> PELET))
-((C.M. le 23-10-1756, M<sup>e</sup> PIN))
-((x le 13-4-1786))
-((C.M. le 1-4-1790, M<sup>e</sup> PIN))
-((C.M. le 1-9-1750, M<sup>e</sup> PIN x au désert le 13-9-1750))
-((C.M. le 24-2-1776, M<sup>e</sup> PIN))
-((C.M. le 29-3-1774, M<sup>e</sup> PIN x le 11-4-1774 au désert))
-((C.M. le 14-1-1807, M<sup>e</sup> BARDET))
-((C.M. le 14-4-1674, M<sup>e</sup> VERDELHAN x le 25-4-1674 au temple))
-((C.M. le 17-5-1659, M<sup>e</sup> MAZOYER))
-((C.M. le 27-1-1693, M<sup>e</sup> VERDELHAN))
-((C.M. le 5-3-1597, M<sup>e</sup> PRIVAT))
-((Le 17-5-1630, M<sup>e</sup> GIBERT))
-((C.M. le 22-7-1592, M<sup>e</sup> PRIVAT))
-((C.M. le 16-6-1661, M<sup>e</sup> MATHIEU))
-((C.M. le 14-12-1694, M<sup>e</sup> MOUTET))
-e((C.M. le 13-2-1707, M<sup>e</sup> PELET))
-((C.M. le 3-2-1637, M<sup>e</sup> GIBERT))
-((C.M. le 17-2-1678, M<sup>e</sup> ROCHETTE))
-((C.M. le 8-1-1724, M<sup>e</sup> PIN))
-((C.M. le 9-10-1731, M<sup>e</sup> PIN))
-((C.M. le 17-9-1733, M<sup>e</sup> PIN x le 28-3-1734, èglise de St-Frèzal))
-((C.M. le 29-11-1770, M<sup>e</sup> PIN x le 4-12-1770 au désert))
-((x le 4-4-1739 au désert))
-((C.M. le 6-8-1748, M<sup>e</sup> PIN x le 8-9-1748 au désert))
-((Le 14-7-1722, M<sup>e</sup> PIN))
-((C.M. le 23-7-1774, M<sup>e</sup> PIN x le 7-8-1774 au désert, à Vialas))
-((C.M. le 9-10-1781, M<sup>e</sup> PIN x le 7-11-1781 au désert))
-((C.M. le 18-8-1778, M<sup>e</sup> PIN))
-((Le 24-5-1628, M<sup>e</sup> GIBERT))
-((C.M. le 24-2-1642, M<sup>e</sup> LEYRIS))
-((C.M. le 3-1-1694, M<sup>e</sup> LEYRIS))
-((C.M. le 1-10-1670, M<sup>e</sup> DAUDE))
-((C.M. le 4-2-1682, M<sup>e</sup> CHABERT))
-((C.M. le 3-2-1688, M<sup>e</sup> PLANTIER))
-((C.M. le 4-2-1722, M<sup>e</sup> PIN))
-((C.M. le 24-9-1722, M<sup>e</sup> PIN le 23-11-1722 à l'église de St-Frèzal))
-((C.M. le 4-9-1755, M<sup>e</sup> DUCAMP))
-((C.M. le 9-3-1752, M<sup>e</sup> DUCAMP))
-((Le 11-9-1450, M<sup>e</sup> TORRES))
-((C.M. le 22-11-1473, M<sup>e</sup> BARTHELEMY))
-((C.M. le 24-10-1435, M<sup>e</sup> GUIN))
-((C.M. le 23-4-1448, M<sup>e</sup> MICHEL))
-((Quittance du 19-1-1460, M<sup>e</sup> TORRES))
-((C.M. le 19-8-1567, M<sup>e</sup> PAULET))
-((C.M. le 30-6-1563, M<sup>e</sup> SABATIER))
-((C.M. le 15-12-1575, M<sup>e</sup> POMAREDE))
-((Le 7-6-1577, M<sup>e</sup> COSTE))
-((C.M. le 1-9-1585, M<sup>e</sup> DELAPIERRE))
-((C.M. le 27-12-1592, M<sup>e</sup> BAUZON))
-((C.M. le 24-1-1627, M<sup>e</sup> RAMPON))
-((C.M. le 18-5-1647, M<sup>e</sup> GIBERT))
-((C.M. le 18-9-1655, M<sup>e</sup> PONGE))
-((C.M. le 29-2-1656, M<sup>e</sup> PLANTIER))
-((Le 20-7-1671, M<sup>e</sup> PONGE))
-((C.M. le 3-5-1659, M<sup>e</sup> PLANTIER))
-((Quittance du 5-3-1588, M<sup>e</sup> BAUZON))
-((C.M. le 1-6-1594, M<sup>e</sup> DUTERON))
-((Me Jean CHANTELOUVE))
-((C.M. le 1-1-1623, M<sup>e</sup> VERDELHAN))
-((C.M. le 22-9 et 27-12-1665, M<sup>e</sup> PONGE))
-((C.M. le 8-7-1648, M<sup>e</sup> PASCAL))
-((C.M. le 16-8-1583, M<sup>e</sup> BAUZON))
-((C.M. le 4-2-1624, M<sup>e</sup> DUMONT))
-((le 13-12-1676, M<sup>e</sup> MAZOYER))
-((C.M. le 16-6-1676, M<sup>e</sup> PONGE))
-((et quelques centaines d'actes de moindre importance trouvés dans les dépôts des [Archives départementales](http://archives.lozere.fr/).))
+
+[^1]: C.M. le 11-9-1378 [d'après D'HOZIER](armorial_general_de_france_d_hozier)
+
+[^2]: Le 4-6-1434, M<sup>e</sup> GUIN
+
+[^3]: Le 14-3-1443, M<sup>e</sup> ESCALIER
+
+[^4]: C.M. le 8-3-1588, M<sup>e</sup> BAUZON
+
+[^5]: C.M. le 15-2-1601, M<sup>e</sup> CORNIARET
+
+[^6]: Le 12-11-1567, M<sup>e</sup> PAULET
+
+[^7]: C.M. le 4-9-1578, M<sup>e</sup> POITEVIN
+
+[^8]: Le 8-5-1615, M<sup>e</sup> ALLEGRE
+
+[^9]: C.M. le 12-1-1630, M<sup>e</sup> ALLEGRE
+
+[^10]: Le 26-2-1649, M<sup>e</sup> PONGE
+
+[^11]: C.M. en 1692, M<sup>e</sup> POLGE
+
+[^12]: C.M. le 28-8-1656, M<sup>e</sup> PONGE
+
+[^13]: C.M. le 5-3-1662, M<sup>e</sup> PONGE
+
+[^14]: C.M. octobre 1675, M<sup>e</sup> PONGE
+
+[^15]: C.M. le 14-3-1670, M<sup>e</sup> PONGE
+
+[^16]: C.M. le 6-8-1673, M<sup>e</sup> PONGE
+
+[^17]: C.M. le 17-11-1672, M<sup>e</sup> PONGE
+
+[^18]: C.M. le 2-8-1710, M<sup>e</sup> PELET
+
+[^19]: C.M. le 21-10-1732, M<sup>e</sup> PIN
+
+[^20]: x le 23-4-1730 à Bez
+
+[^21]: D'après les relevés de Mme Arlette ARDOUIN
+
+[^22]: C.M. le 17-9-1674, M<sup>e</sup> VERDELHAN
+
+[^23]: C.M. le 4-2-1680, M<sup>e</sup> MAZOYER
+
+[^24]: C.M. le 3-3-1707, M<sup>e</sup> PERIER
+
+[^25]: C.M. le 26-7-1728, M<sup>e</sup> DUBOST
+
+[^26]: Le 5-4-1740, M<sup>e</sup> PIN
+
+[^27]: C.M. le 10-11-1716, M<sup>e</sup> FOLCHER
+
+[^28]: C.M. le 3-3-1744, M<sup>e</sup> PIN
+
+[^29]: C.M. le 14-7-1717, M<sup>e</sup> PERIER
+
+[^30]: C.M. le 13-7-1704, M<sup>e</sup> PRIVAT
+
+[^31]: C.M. le 1-3-1736, M<sup>e</sup> PIN
+
+[^32]: C.M. le 16-2-1735, M<sup>e</sup> PIN
+
+[^33]: C.M. le 5-5-1664, M<sup>e</sup> PONGE
+
+[^34]: C.M. le 27-5-1697, M<sup>e</sup> VERDELHAN
+
+[^35]: C.M. le 8-5-1688, M<sup>e</sup> VERDELHAN
+
+[^36]: C.M. le 20-2-1719, M<sup>e</sup> PELET
+
+[^37]: C.M. le 23-10-1756, M<sup>e</sup> PIN
+
+[^38]: x le 13-4-1786
+
+[^39]: C.M. le 1-4-1790, M<sup>e</sup> PIN
+
+[^40]: C.M. le 1-9-1750, M<sup>e</sup> PIN x au désert le 13-9-1750
+
+[^41]: C.M. le 24-2-1776, M<sup>e</sup> PIN
+
+[^42]: C.M. le 29-3-1774, M<sup>e</sup> PIN x le 11-4-1774 au désert
+
+[^43]: C.M. le 14-1-1807, M<sup>e</sup> BARDET
+
+[^44]: C.M. le 14-4-1674, M<sup>e</sup> VERDELHAN x le 25-4-1674 au temple
+
+[^45]: C.M. le 17-5-1659, M<sup>e</sup> MAZOYER
+
+[^46]: C.M. le 27-1-1693, M<sup>e</sup> VERDELHAN
+
+[^47]: C.M. le 5-3-1597, M<sup>e</sup> PRIVAT
+
+[^48]: Le 17-5-1630, M<sup>e</sup> GIBERT
+
+[^49]: C.M. le 22-7-1592, M<sup>e</sup> PRIVAT
+
+[^50]: C.M. le 16-6-1661, M<sup>e</sup> MATHIEU
+
+[^51]: C.M. le 14-12-1694, M<sup>e</sup> MOUTET
+e
+[^52]: C.M. le 13-2-1707, M<sup>e</sup> PELET
+
+[^53]: C.M. le 3-2-1637, M<sup>e</sup> GIBERT
+
+[^54]: C.M. le 17-2-1678, M<sup>e</sup> ROCHETTE
+
+[^55]: C.M. le 8-1-1724, M<sup>e</sup> PIN
+
+[^56]: C.M. le 9-10-1731, M<sup>e</sup> PIN
+
+[^57]: C.M. le 17-9-1733, M<sup>e</sup> PIN x le 28-3-1734, èglise de St-Frèzal
+
+[^58]: C.M. le 29-11-1770, M<sup>e</sup> PIN x le 4-12-1770 au désert
+
+[^59]: x le 4-4-1739 au désert
+
+[^60]: C.M. le 6-8-1748, M<sup>e</sup> PIN x le 8-9-1748 au désert
+
+[^61]: Le 14-7-1722, M<sup>e</sup> PIN
+
+[^62]: C.M. le 23-7-1774, M<sup>e</sup> PIN x le 7-8-1774 au désert, à Vialas
+
+[^63]: C.M. le 9-10-1781, M<sup>e</sup> PIN x le 7-11-1781 au désert
+
+[^64]: C.M. le 18-8-1778, M<sup>e</sup> PIN
+
+[^65]: Le 24-5-1628, M<sup>e</sup> GIBERT
+
+[^66]: C.M. le 24-2-1642, M<sup>e</sup> LEYRIS
+
+[^67]: C.M. le 3-1-1694, M<sup>e</sup> LEYRIS
+
+[^68]: C.M. le 1-10-1670, M<sup>e</sup> DAUDE
+
+[^69]: C.M. le 4-2-1682, M<sup>e</sup> CHABERT
+
+[^70]: C.M. le 3-2-1688, M<sup>e</sup> PLANTIER
+
+[^71]: C.M. le 4-2-1722, M<sup>e</sup> PIN
+
+[^72]: C.M. le 24-9-1722, M<sup>e</sup> PIN le 23-11-1722 à l'église de St-Frèzal
+
+[^73]: C.M. le 4-9-1755, M<sup>e</sup> DUCAMP
+
+[^74]: C.M. le 9-3-1752, M<sup>e</sup> DUCAMP
+
+[^75]: Le 11-9-1450, M<sup>e</sup> TORRES
+
+[^76]: C.M. le 22-11-1473, M<sup>e</sup> BARTHELEMY
+
+[^77]: C.M. le 24-10-1435, M<sup>e</sup> GUIN
+
+[^78]: C.M. le 23-4-1448, M<sup>e</sup> MICHEL
+
+[^79]: Quittance du 19-1-1460, M<sup>e</sup> TORRES
+
+[^80]: C.M. le 19-8-1567, M<sup>e</sup> PAULET
+
+[^81]: C.M. le 30-6-1563, M<sup>e</sup> SABATIER
+
+[^82]: C.M. le 15-12-1575, M<sup>e</sup> POMAREDE
+
+[^83]: Le 7-6-1577, M<sup>e</sup> COSTE
+
+[^84]: C.M. le 1-9-1585, M<sup>e</sup> DELAPIERRE
+
+[^85]: C.M. le 27-12-1592, M<sup>e</sup> BAUZON
+
+[^86]: C.M. le 24-1-1627, M<sup>e</sup> RAMPON
+
+[^87]: C.M. le 18-5-1647, M<sup>e</sup> GIBERT
+
+[^88]: C.M. le 18-9-1655, M<sup>e</sup> PONGE
+
+[^89]: C.M. le 29-2-1656, M<sup>e</sup> PLANTIER
+
+[^90]: Le 20-7-1671, M<sup>e</sup> PONGE
+
+[^91]: C.M. le 3-5-1659, M<sup>e</sup> PLANTIER
+
+[^92]: Quittance du 5-3-1588, M<sup>e</sup> BAUZON
+
+[^93]: C.M. le 1-6-1594, M<sup>e</sup> DUTERON
+
+[^94]: Me Jean CHANTELOUVE
+
+[^95]: C.M. le 1-1-1623, M<sup>e</sup> VERDELHAN
+
+[^96]: C.M. le 22-9 et 27-12-1665, M<sup>e</sup> PONGE
+
+[^97]: C.M. le 8-7-1648, M<sup>e</sup> PASCAL
+
+[^98]: C.M. le 16-8-1583, M<sup>e</sup> BAUZON
+
+[^99]: C.M. le 4-2-1624, M<sup>e</sup> DUMONT
+
+[^100]: le 13-12-1676, M<sup>e</sup> MAZOYER
+
+[^101]: C.M. le 16-6-1676, M<sup>e</sup> PONGE
+
+[^102]: et quelques centaines d'actes de moindre importance trouvés dans les dépôts des [Archives départementales](http://archives.lozere.fr/).
