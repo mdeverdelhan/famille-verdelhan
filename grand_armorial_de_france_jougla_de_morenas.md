@@ -12,7 +12,7 @@ Jougla de Morénas fait allusion aux Verdelhan dans le tome VI (Paris, Société
 
 Page 430, entre DE VERDALLE et DE VERDELIN.
 
-{{ verdelhan\_jougla\_de\_morenas.png?640 \|Les Verdelhan dans le Jougla de Morénas}}
+![Les Verdelhan dans le Jougla de Morénas](/media/verdelhan_jougla_de_morenas.png)
 
 ### Retranscription
 

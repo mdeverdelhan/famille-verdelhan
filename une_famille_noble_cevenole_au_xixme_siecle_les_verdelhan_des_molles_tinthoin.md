@@ -79,7 +79,7 @@ L'ensemble du mobilier, bibliothèque, denrées et vêtements est évalué 1556 
 
 [Jean-Daniel Verdelhan des Molles](jean-daniel_verdelhan_des_molles_1737-1822) possède, en outre, les 7 *métairies* du Mas de Serre, [des Molles](liste_des_proprietes_notables#Ferme_des_Molles), Galdin, de lous Banquets, du Cros et de Peire Cadel, avec la pièce de terre de la Cambrotte et du Moulin, provenant du chef de sa femme décédée, puis les deux *domaines* des Abarlens, de la Combe ou Coumbe lui appartenant et du Mas del Miech appartenant à sa femme. Ces propriétés rurales comprennent, chacune cuisine, 1 ou 2 chambres, 2 ou 3 écuries, parfois une « magnanière »((Magnaguiéïro, coconnière, atelier où on élève des vers à soie.)) ou un pailler ou une cave ou une grange à foin.
 
-{{ domaine\_de\_la\_combe\_de\_thonas.png \|Domaine de la Combe de Thonas}}
+![Domaine de la Combe de Thonas](/media/domaine_de_la_combe_de_thonas.png)
 
 Les 6 métairies ou domaines : la Combe et le Mas del Miech, Le Peire Cadol, le Moulin, le Cros et les Abarlens sont loués à mi-fruit aux colons partiaires qui en jouissent. La [métairie des Molles](liste_des_proprietes_notables#Ferme_des_Molles), seule, est affermée en argent : 51,50 fr, à un nommé Mazauric, agriculteur ; le bail est renouvelé en 1823. Le domaine des Banquets est baillé à ferme pour 87 ans, en 1809, moyennant 300 francs en argent, 14 quintaux (7 qx) de foin, 12 cannes((Environ 120 litres (mesure d'Alès).)) de vin, un quintal de raisin (80 kg), une carte d'haricots secs (1 dal) et une paire de poulets.
 

@@ -1,6 +1,6 @@
 ## Charles-Léon Verdelhan des Molles (1805-1868)
 
-{{ individus:leon\_des\_molles.png?150\|Portrait de Léon des Molles}}
+![Portrait de Léon des Molles](/media/individus/leon_des_molles.png)
 
 Charles-Léon Verdelhan des Molles, dit *Léon des Molles*, nait le 30 janvier 1805 à [Saint-Germain de Calberte](liste_des_proprietes_notables).
 

@@ -1,6 +1,6 @@
 ## Paulin-Joseph-Albert de Verdelhan des Molles (1837-1914)
 
-{{ individus:paulin-albert\_des\_molles.png?150\|Portrait de Paulin-Albert par Alphonse Liebert}}
+![Portrait de Paulin-Albert, par Alphonse Liebert](/media/individus/paulin-albert_des_molles.png)
 
 Paulin-Joseph-Albert de Verdelhan des Molles, dit *Albert des Molles* (ou simplement *Paulin-Albert* dans la famille), naît en 1837 à Alès.
 

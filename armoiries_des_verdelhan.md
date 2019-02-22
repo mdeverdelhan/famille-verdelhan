@@ -1,6 +1,6 @@
 ## Armoiries des Verdelhan
 
-{{ armoiries\_verdelhan.png?100\|Armes des Verdelhan, source Wikipedia}}
+![Armes des Verdelhan, source Wikipedia](/media/armoiries_verdelhan.png)
 
 Les armoiries d'une famille sont toujours discutables (et discutées). Celles-ci ne font pas exceptions. Ainsi cette page présente quelques explications sur l'héraldique des Verdelhan ; mais il ne s'agit que d'interprétations issues des habitudes du domaine, de divers documents généalogiques, et d'une histoire familiale transmise oralement.
 
@@ -48,7 +48,7 @@ Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur �
 
 ### Évolution des armoiries
 
-{{ armoiries\_verdelhan\_orig.png?100\|Armes originelles probables des Verdelhan, source Marc de Verdelhan}}
+![Armes originelles probables des Verdelhan, source Marc de Verdelhan](/media/armoiries_verdelhan_orig.png)
 
 Dans son [étude sur les Verdelhan de Saint-Privat-de-Vallongue](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne), Vierne indique : « Les nobles blasonnaient de sable à une étoile d'argent. ». Bien qu'il n'indiquât pas de source permettant d'étayer cette affirmation on est tenté de le croire sachant le sérieux dont il fait preuve habituellement.
 

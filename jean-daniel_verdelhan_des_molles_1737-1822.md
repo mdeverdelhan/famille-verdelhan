@@ -1,6 +1,6 @@
 ## Jean-Daniel Verdelhan des Molles (1737-1822)
 
-{{ individus:jean-daniel.png?150\|Portrait de Jean-Daniel Verdelhan des Molles}}
+![Portrait de Jean-Daniel Verdelhan des Molles](/media/individus/jean-daniel.png)
 
 Jean-Daniel Verdelhan, sieur des Molles, est né le 24 juin 1737 à [Saint-Germain de Calberte](liste_des_proprietes_notables).
 
