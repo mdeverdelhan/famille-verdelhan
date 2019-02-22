@@ -25,7 +25,7 @@ Le lion
 
 Contrairement à ce que beaucoup pensent, le lion des Verdelhan n'est pas un lion *issant* (ni même *hissant*). Deux généalogistes du XIX<sup>ième</sup> siècle nous renseignent sur la signification de ce terme en héraldique :
 
- * « **ISSANT, TE**, gérond. et adject., se dit d'un lion, d'une aigle ou d'un autre animal, qui paraît à l'un des bords de l'écu sur un chef, une fasce, etc., et ne montre que la tête et une petite partie de son corps. »((Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816))
+ * « **ISSANT, TE**, gérond. et adject., se dit d'un lion, d'une aigle ou d'un autre animal, qui paraît à l'un des bords de l'écu sur un chef, une fasce, etc., et ne montre que la tête et une petite partie de son corps. »[^1]
  * « **ISSANT**. Se dit de tout animal, lion, aigle ou autre, dont on ne voit figuré que la tête et une petite partie du corps. L'animal Issant semble sortir d'une pièce ou d'une partition de l'écu, il doit toujours être représenté seul, il peut être couronné, armé, etc., aucun émail ne lui est particulier, mais il faut se garder de le confondre avec l'animal naissant dont il est parlé à ce mot. »((L.-A. Duhoux d'Argicourt, *Alphabet et figures de tous les termes du blason*, Paris, 1899))
 
 Le dictionnaire *Le Robert* nous indique lui aussi que « \[ce qualificatif\] se dit d'animaux qui ne présentent que la moitié supérieure du corps et paraissent sortir de la pièce ou du champ de l'écu ».
@@ -53,3 +53,6 @@ Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur �
 Dans son [étude sur les Verdelhan de Saint-Privat-de-Vallongue](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne), Vierne indique : « Les nobles blasonnaient de sable à une étoile d'argent. ». Bien qu'il n'indiquât pas de source permettant d'étayer cette affirmation on est tenté de le croire sachant le sérieux dont il fait preuve habituellement.
 
 Les armes originelles de la famille seraient donc simplement composées comme modélisé sur l'image ci-contre ; les autres meubles provenant vraisemblablement des différentes alliances des Verdelhan.
+
+
+[^1]: Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816
