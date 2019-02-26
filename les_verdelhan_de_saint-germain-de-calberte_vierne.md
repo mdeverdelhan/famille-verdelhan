@@ -69,7 +69,7 @@ Le patronyme VERDELHAN est connu dans la paroisse de Saint-Germain-de-Calberte d
    * Germain qui suit,
    * Antoine (+<1531) qui reconnaît quelques biens au seigneur de Portes en 1509 ; sa fille Catherine est héritière.
    * Jacques prêtre à Saint-Germain-de-Calberte en 1541,
-   * Phélicie, épouse en 1489 de Bernard BANCILHON de Nozières((C.M. le 3-8-1489, M<sup>e</sup> JULIEN))
+   * Phélicie, épouse en 1489 de Bernard BANCILHON de Nozières[^1]
 
  **VIII -- Germain VERDELHAN (+\<1532)**
 
@@ -131,7 +131,7 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
  * Héritier à Frépestel.
  * En 1508, il reconnaît la moitié d'un moulin sur le Gardon à Jehan de CADOENE.
  * Époux de Catherine PUECHREDON.
- * Il teste en 1524((Le 25-5-1524, M<sup>e</sup> COMTE)) avec quatre enfants :
+ * Il teste en 1524[^3] avec quatre enfants :
    * Pierre qui suit,
    * Louis qui aura 10 livres dont 4 à son mariage
    * Cécile et
@@ -158,35 +158,35 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
    * François,
    * David, marié dès 1612 à Suzanne FILHOL
    * Jacques époux d'Anne FARELLE, sans postérité connue
-   * Jeanne, mariée en 1619 à Jean MAZOYER de Bluech de Saint-Privat-de-Vallongue((C.M. le 11-11-1619, M<sup>e</sup> DELORT)).
+   * Jeanne, mariée en 1619 à Jean MAZOYER de Bluech de Saint-Privat-de-Vallongue[^4].
 
  **X a -- Jean VERDELHAN (+\<1639)**
 
  * Greffier pour le seigneur de Saint-Étienne-Vallée-française.
- * En 1612, il épouse Françoise SABATIER((C.M. le 30-9-1612, M<sup>e</sup> CASTANET)), fille de François, seigneur de Soleyrol et Françoise VALETTE, de Cabrespy près de Saint-Étienne. Son oncle, Jean RAYMOND, seigneur du Mazelet, lui donne alors la censive, les droits de directe seigneurie, juridiction haute, moyenne et basse, mère, mixte et impère qu'il a sur le mas des Fourniels. Le seigneur du Mazelet en avait hérité de son père, Jacques, seigneur du Vilar qui avait acquis cette seigneurie de Charles de ROCHEBARON, seigneur de la Garde((Voir les Coseigneurs de Calberte, Familles cévenoles 3)).
+ * En 1612, il épouse Françoise SABATIER[^5], fille de François, seigneur de Soleyrol et Françoise VALETTE, de Cabrespy près de Saint-Étienne. Son oncle, Jean RAYMOND, seigneur du Mazelet, lui donne alors la censive, les droits de directe seigneurie, juridiction haute, moyenne et basse, mère, mixte et impère qu'il a sur le mas des Fourniels. Le seigneur du Mazelet en avait hérité de son père, Jacques, seigneur du Vilar qui avait acquis cette seigneurie de Charles de ROCHEBARON, seigneur de la Garde[^6].
  * En 1613, il participe à l'assemblée des calvinistes à Lunel.
  * Françoise teste en 1639, veuve et disparaît peu après ; elle est la mère de :
    * Pierre qui suit,
    * Jean (+<1639),
-   * Jeanne épouse en 1643 de Jean DUPUY de Saint-Étienne-Vallée-française((C.M. le 28-5-1643, M<sup>e</sup> TEISSIER)).
+   * Jeanne épouse en 1643 de Jean DUPUY de Saint-Étienne-Vallée-française[^7].
 
  **XI a -- Pierre VERDELHAN (° ca 1614, +1682)**
 
  * Écuyer, seigneur de Fourniels, il habite à Saint-Étienne.
- * En 1649, il épouse devant Dieu, Lucrèce VALMALETTE, fille de Luc et Françoise de BELCASTEL et passe contrat devant le notaire en 1652((le 27-3-1652, M<sup>e</sup> DELAPIERRE)).
+ * En 1649, il épouse devant Dieu, Lucrèce VALMALETTE, fille de Luc et Françoise de BELCASTEL et passe contrat devant le notaire en 1652[^8].
  * Il a eu au moins quatre enfants :
    * Jacques qui suit,
-   * Annibal (°1652, +1704), sieur de Fourniels, marchand à Nîmes ; en 1696, il épouse Françoise le VIEUX, fille de François et Françoise de CLESSE((le 3-12-1696 à l'église)), d'où entre autres, Jacques qui a fait carrière à Paris, héritier de la haute justice sur les Fourniels léguée par son oncle Pierre.
+   * Annibal (°1652, +1704), sieur de Fourniels, marchand à Nîmes ; en 1696, il épouse Françoise le VIEUX, fille de François et Françoise de CLESSE[^9], d'où entre autres, Jacques qui a fait carrière à Paris, héritier de la haute justice sur les Fourniels léguée par son oncle Pierre.
    * Pierre (+>1701), lieutenant de juge à Saint-Étienne, sans postérité ; il désigne comme héritière sa soeur Jeanne à qui il cède ses droits sur Fourniels.
    * Adam (1684),
-   * Jeanne, mariée en 1706 au notaire Christophe PRIVAT((C.M. le 22-11-1706, M<sup>e</sup> PELET le 16-11-1706 à l'église)).
+   * Jeanne, mariée en 1706 au notaire Christophe PRIVAT[^10].
 
  **XII a -- Jacques VERDELHAN (°1649)**
 
  * Écuyer, seigneur de Fourniels.
  * Après la révocation de l'édit de Nantes et les abjurations forcées, il est jugé bon catholique et fait carrière dans l'armée.
  * Lieutenant de cavalerie dès 1688, longtemps en garnison dans le diocèse de Condon.
- * En 1698, il épouse Elisabeth de BEAUQUESNE, fille d'Antoine, conseiller procureur du roi de la ville d'Auvillar((C.M. le 25-10-1698, M<sup>e</sup> MENET)), d'où :
+ * En 1698, il épouse Elisabeth de BEAUQUESNE, fille d'Antoine, conseiller procureur du roi de la ville d'Auvillar[^11], d'où :
    * Jacques Antoine (°1699),
    * Bernard qui suit,
    * Jean (°1712),
@@ -210,7 +210,7 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
  **X b -- Daniel VERDELHAN**
 
  * Écuyer, seigneur de Thonas et de la Bessède, praticien à Thonas, dans la paroisse.
- * En 1608, il épouse Jeanne PLANQUE, fille d'Étienne et Jeanne SOULIER, de Thonas((C.M. le 30-4-1608, M<sup>e</sup> COSTE)).
+ * En 1608, il épouse Jeanne PLANQUE, fille d'Étienne et Jeanne SOULIER, de Thonas[^12].
  * En 1636, il vend une métairie sise au Mazel de Flandonnenque et part à Toulouse pour un procès ; il décède dans cette ville.
  * Il a eu pour le moins sept enfants légitimes :
    * Pierre qui suit,
@@ -229,7 +229,7 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
  * Seigneur des Moles, de Thonas et de la Bessède, il habite à la Combe de Thonas.
  * Il semble avoir acquis la seigneurie des Moles vers 1650, d'Antoine NOGUIER, écuyer, qualifié seigneur des Moles encore en 1648.
  * Il abjure la foi réformée en 1685 et comme d'autres familles bourgeoises, il opte franchement pour la nouvelle religion obligatoire ce qui va entraîner la destruction de sa maison par les camisards, lors de la guerre des Cévennes.
- * Il teste en 1676((le 13-8-1676, M<sup>e</sup> PRIVAT)), faisant un legs charitable aux pauvres de Saint-Germain-de-Calberte et de Sainte-Croix-de-Vallée-française ; il a alors six enfants que lui a donnés Anne DUMAS, fille du sieur du Pradel :
+ * Il teste en 1676[^13], faisant un legs charitable aux pauvres de Saint-Germain-de-Calberte et de Sainte-Croix-de-Vallée-française ; il a alors six enfants que lui a donnés Anne DUMAS, fille du sieur du Pradel :
    * Daniel qui suit,
    * Jacques, sieur de Valmale (1707),
    * autre Jacques,
@@ -241,8 +241,8 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
 
  * Seigneur des Moles, de Thonas et de la Bessède.
  * Docteur en droit et avocat au parlement de Toulouse.
- * En 1702, il passe un contrat de mariage avec Françoise TEYSSONNIERE, fille de Jean, ancien notaire et Suzanne DUCROS, dotée de 250 livres plus 3700 livres d'obligés((C.M. le 9-1-1702, M<sup>e</sup> PRIVAT)).
- * En 1705, il convole avec Diane de TEULE, fille d'Hercule, maire de Saint-Étienne et Lucrèce de CABIRON, dotée de 4000 livres((C.M. le 17-11-1707, M<sup>e</sup> PRIVAT le 8-2-1705 à l'église)).
+ * En 1702, il passe un contrat de mariage avec Françoise TEYSSONNIERE, fille de Jean, ancien notaire et Suzanne DUCROS, dotée de 250 livres plus 3700 livres d'obligés[^14].
+ * En 1705, il convole avec Diane de TEULE, fille d'Hercule, maire de Saint-Étienne et Lucrèce de CABIRON, dotée de 4000 livres[^15].
  * On lui connaît huit enfants :
    * Pierre Jacques qui suit,
    * Jacques (°1710), après des études à la faculté de médecine de Montpellier, il exerce son art à Paris,
@@ -251,53 +251,54 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
    * François Germain sieur de la Bessède, absent du royaume en 1741
    * Julie (°1718), mariée en 1743 à Philippe de SALIN, seigneur de Polastron,
    * Anne (°1722),
-   * Louise, tous cités dans son testament de 1741((le 14-8-1741, M<sup>e</sup> PELLET)).
+   * Louise, tous cités dans son testament de 1741[^16].
 
  **XIII b -- Pierre Jacques VERDELHAN**
 
  * Seigneur des Moles, de Thonas, du Poujol et de la Bessède.
  * Il acquiert la seigneurie de la Garde,
  * Avocat au parlement de Toulouse,
- * En 1733, il épouse Marguerite CANONGE, fille de Jean et Jeanne VELAY, des Aberlencs près de Cadoine((C.M. le 10-11-1733, M<sup>e</sup> PIN)) d'où :
+ * En 1733, il épouse Marguerite CANONGE, fille de Jean et Jeanne VELAY, des Aberlencs près de Cadoine[^17] d'où :
    * [Jean Daniel](jean-daniel_verdelhan_des_molles_1737-1822) qui hérite des biens, il participe à l'assemblée de la noblesse du Gévaudan en 1789,
    * [Jacques Gaspard](jacques-gaspard_verdelhan_des_molles_1739-1794), prêtre anticonstitutionnel en 1791,
    * Léon Marie, officier d'infanterie,
    * Pierre Marie, officier d'infanterie,
    * Jeanne Marie, épouse en 1752 d'Olivier TEISSIER, seigneur de Saint-Frézal et la Vernède.
 
-FIXME
-
-Note dont il reste à trouver l'emplacement : (2) Voir Familles cévenoles 2, chapitre 6
+   
+FIXME Emplacement de la note 2 non trouvé ([^2])
 
 
 [^1]: C.M. le 3-8-1489, M<sup>e</sup> JULIEN
 
-[^2]: Le 25-5-1524, M<sup>e</sup> COMTE
+[^2]: Voir Familles cévenoles 2, chapitre 6
 
-[^3]: C.M. le 11-11-1619, M<sup>e</sup> DELORT
+[^3]: Le 25-5-1524, M<sup>e</sup> COMTE
 
-[^4]: C.M. le 30-9-1612, M<sup>e</sup> CASTANET
+[^4]: C.M. le 11-11-1619, M<sup>e</sup> DELORT
 
-[^5]: Voir les Coseigneurs de Calberte, Familles cévenoles 3
+[^5]: C.M. le 30-9-1612, M<sup>e</sup> CASTANET
 
-[^6]: C.M. le 28-5-1643, M<sup>e</sup> TEISSIER
+[^6]: Voir les Coseigneurs de Calberte, Familles cévenoles 3
 
-[^7]: le 27-3-1652, M<sup>e</sup> DELAPIERRE
+[^7]: C.M. le 28-5-1643, M<sup>e</sup> TEISSIER
 
-[^8]: le 3-12-1696 à l'église
+[^8]: le 27-3-1652, M<sup>e</sup> DELAPIERRE
 
-[^9]: C.M. le 22-11-1706, M<sup>e</sup> PELET le 16-11-1706 à l'église
+[^9]: le 3-12-1696 à l'église
 
-[^10]: C.M. le 25-10-1698, M<sup>e</sup> MENET
+[^10]: C.M. le 22-11-1706, M<sup>e</sup> PELET le 16-11-1706 à l'église
 
-[^11]: C.M. le 30-4-1608, M<sup>e</sup> COSTE
+[^11]: C.M. le 25-10-1698, M<sup>e</sup> MENET
 
-[^12]: le 13-8-1676, M<sup>e</sup> PRIVAT
+[^12]: C.M. le 30-4-1608, M<sup>e</sup> COSTE
 
-[^13]: C.M. le 9-1-1702, M<sup>e</sup> PRIVAT
+[^13]: le 13-8-1676, M<sup>e</sup> PRIVAT
 
-[^14]: C.M. le 17-11-1707, M<sup>e</sup> PRIVAT le 8-2-1705 à l'église
+[^14]: C.M. le 9-1-1702, M<sup>e</sup> PRIVAT
 
-[^15]: le 14-8-1741, M<sup>e</sup> PELLET
+[^15]: C.M. le 17-11-1707, M<sup>e</sup> PRIVAT le 8-2-1705 à l'église
 
-[^16]: C.M. le 10-11-1733, M<sup>e</sup> PIN
+[^16]: le 14-8-1741, M<sup>e</sup> PELLET
+
+[^17]: C.M. le 10-11-1733, M<sup>e</sup> PIN

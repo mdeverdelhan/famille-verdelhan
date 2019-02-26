@@ -172,19 +172,19 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  * On lui reconnaît :
    * Le 16-4-1653 et le 15-11-1655, des biens reconnus avant à son père et avant à d'autres de ses prédécesseurs.
    * Le 23-1-1654, des biens reconnus ensuite à sa veuve au nom de son fils Jacques, sieur du Masmin, le 7-10-1668.
- * Il teste en 1649 avec cinq fils et cinq filles((Le 26-2-1649, M<sup>e</sup> PONGE)).
+ * Il teste en 1649 avec cinq fils et cinq filles[^10].
  * Dans le testament de Jeanne GUERIN, le 20-2-1680 ses fils, Antoine et André, ne figurent pas, mais apparaissent deux nouvelles filles, Ester et autre Jeanne.
  * Il est le père de :
    * Jacques, qui suit,
    * Antoine (1649),
-   * Marc Antoine, sieur de Curières, chirurgien à St-Privat-de-Vallongue en 1682 ; époux en 1692 de Suzanne ROCHETTE, fille de Gilles, apothicaire, et de demoiselle Marguerite MATHIEU de Génolhac((C.M. en 1692, M<sup>e</sup> POLGE)).
+   * Marc Antoine, sieur de Curières, chirurgien à St-Privat-de-Vallongue en 1682 ; époux en 1692 de Suzanne ROCHETTE, fille de Gilles, apothicaire, et de demoiselle Marguerite MATHIEU de Génolhac[^11].
    * André (1649, recensé NC en 1687 à Sarreméjane
    * Jean (ou Jean André) recensé NC en 1687 à Sarreméjane; tué le 23-4-1702 ([voir plus loin en annexe](#Assemblée_du_23_avril_1702))
-   * Tuphène, épouse en 1656 de Jean LAVAL du Castanet de Dèze((C.M. le 28-8-1656, M<sup>e</sup> PONGE))
-   * Madeleine, mariée en 1662 avec Jean ROUSSON de Castel Vieil (Ste-Croix-Vallée-Française)((C.M. le 5-3-1662, M<sup>e</sup> PONGE)),
-   * Jeanne, épouse en 1675 d'Antoine JEAN, travailleur de terre à Alès((C.M. octobre 1675, M<sup>e</sup> PONGE)).
-   * Isabeau (Elisabeth), mariée en 1670 avec Jacques GENOYER du Bluech de St-Privat-de-Vallongue((C.M. le 14-3-1670, M<sup>e</sup> PONGE)),
-   * Louise, épouse en 1673 avec Gilles RIBES de Soustelle((C.M. le 6-8-1673, M<sup>e</sup> PONGE))
+   * Tuphène, épouse en 1656 de Jean LAVAL du Castanet de Dèze[^12]
+   * Madeleine, mariée en 1662 avec Jean ROUSSON de Castel Vieil (Ste-Croix-Vallée-Française)[^13],
+   * Jeanne, épouse en 1675 d'Antoine JEAN, travailleur de terre à Alès[^14].
+   * Isabeau (Elisabeth), mariée en 1670 avec Jacques GENOYER du Bluech de St-Privat-de-Vallongue[^15],
+   * Louise, épouse en 1673 avec Gilles RIBES de Soustelle[^16]
    * Ester (1680)
    * autre Jeanne (1680), recensée NC en 1687 à Sarreméjane.
  * Outre ses douze enfants légitimes précédents, il a eu un fils Jacques (qui suivra en XII c) issu de ses amours illicites avec Jeanne DUCROS.
@@ -192,7 +192,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  **XII a -- Jacques VERDELHAN (+\<1719)**
 
  * Seigneur du Masmin, du Crespy, du Térondel, de Malbosc, de Fabrèges, de Villeneuve, de Curières, de la Folchérinque.
- * Époux en 1672 d'Antoinette FAGES (° ca 1647), fille d'Antoine, sieur du Palais et de Louise TEISSIER((C.M. le 17-11-1672, M<sup>e</sup> PONGE)).
+ * Époux en 1672 d'Antoinette FAGES (° ca 1647), fille d'Antoine, sieur du Palais et de Louise TEISSIER[^17].
  * Héritier universel de sa mère; habite à Sarreméjane.
  * On lui reconnaît le 4-3-1663 des biens reconnus avant à son père (le 17-4-1653) et à son aïeul (le 18-1-1598).
  * En prison après l'assemblée du 23-4-1702 ([voir plus loin en annexe](#Assemblée_du_23_avril_1702)).
@@ -204,11 +204,11 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
 
  **XIII a -- Antoinette VERDELHAN**
 
- * En 1710, à 27 ans, elle épouse Jean LABAUME((C.M. le 2-8-1710, M<sup>e</sup> PELET)), d'une famille de riches marchands du mas de la Blachère (St-Privat-de-Vallongue) ; elle est alors donataire de tous les biens.
+ * En 1710, à 27 ans, elle épouse Jean LABAUME[^18], d'une famille de riches marchands du mas de la Blachère (St-Privat-de-Vallongue) ; elle est alors donataire de tous les biens.
  * On reconnaît, le 8-4-1716 à Jean LABAUME les biens de Jacques VERDELHAN.
  * En 1726, Jean LABAUME reconnaît tenir du comte du Roure une centaine de pièces de terre ; en 1738, il déclare à l'intendant que le franc fief qui le concerne est peu de chose et que les censives qu'il perçoit sont extrêmement modestes.
  * Elle a eu au moins deux enfants :
-   * Marie LABAUME, épouse en 1732 de Pierre LARGUIER de St-Michel-de-Dèze((C.M. le 21-10-1732, M<sup>e</sup> PIN))
+   * Marie LABAUME, épouse en 1732 de Pierre LARGUIER de St-Michel-de-Dèze[^19]
    * Jean LABAUME, seigneur du Masmin, du Crespy, de Fabrèges et autres lieux, à qui sont reconnus les biens de son grand-père Jacques en 1745.
 
 Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu depuis le 13<sup>ème</sup> siècle.
@@ -218,11 +218,11 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * Sieur du Crespy, notaire (1643-1652).
  * Le 10-1-1643 sa cousine Antoinette NOUVEL, fille de feu Jean, de Castanet dans la paroisse, donne tous ses biens à Pierre « qu'elle désirerait relever même pour plus facilement lui faire espérer un mariage avantageux qu'il est près de contracter avec Anne NOUVEL sa nièce »; et le dit mariage eut lieu le 13 du dit mois devant le notaire Ponge.
  * De ses amours probablement illégitimes avec Jeanne PELET (ou PETIT ?) est né :
-   * Jacques (+ <1722), notaire dès 1666 (il n'avait pas vingt ans) à Saint-Privat puis à Castres où il épouse Esther VERDELHAN (°ca 1644) de cette ville, probablement une cousine, fille de Daniel (!) bourgeois de Vabres, demeurant à Castres et veuve de Thobie BONIFAS, apothicaire de Vabres. Esther lui donne deux jumelles Marie (+ 1678) et Esther, baptisées le 6-2-1677 puis deux jumeaux Jean et Grace qui n'ont vécu que quelques jours en 1679, puis Abraham baptisé le 7-2-1681; avocat au parlement de Castres (1677), docteur (1680), conseiller du roi et lieutenant particulier au siège de Castelnau de Brassac (1708) puis lieutenant et juge en la cour de cette ville où il réside depuis 1689; veuf, il épouse Marie MALLABIOU dont il a Pierre (°1708,+ 1722) et Marie (°1711) femme en 1730 de Jean JULIEN((x le 23-4-1730 à Bez)); de ses amours illégitimes avec Olympe BARDOU, Jacques a eu une fille Louise décédée à 7 ans le 16-1-1715((D'après les relevés de Mme Arlette ARDOUIN)). Dans l'étude de 1991, il a été indûment attribué à Anne NOUVEL.
+   * Jacques (+ <1722), notaire dès 1666 (il n'avait pas vingt ans) à Saint-Privat puis à Castres où il épouse Esther VERDELHAN (°ca 1644) de cette ville, probablement une cousine, fille de Daniel (!) bourgeois de Vabres, demeurant à Castres et veuve de Thobie BONIFAS, apothicaire de Vabres. Esther lui donne deux jumelles Marie (+ 1678) et Esther, baptisées le 6-2-1677 puis deux jumeaux Jean et Grace qui n'ont vécu que quelques jours en 1679, puis Abraham baptisé le 7-2-1681; avocat au parlement de Castres (1677), docteur (1680), conseiller du roi et lieutenant particulier au siège de Castelnau de Brassac (1708) puis lieutenant et juge en la cour de cette ville où il réside depuis 1689; veuf, il épouse Marie MALLABIOU dont il a Pierre (°1708,+ 1722) et Marie (°1711) femme en 1730 de Jean JULIEN[^20]; de ses amours illégitimes avec Olympe BARDOU, Jacques a eu une fille Louise décédée à 7 ans le 16-1-1715[^21]. Dans l'étude de 1991, il a été indûment attribué à Anne NOUVEL.
  * Sa deuxième épouse, Lucrèce MICHEL, fille d'Antoine et de Suzanne BAUZON de St-Privat-de-Vallongue, lui a donné au moins :
    * César qui suit en XII ba,
-   * Françoise, mariée en 1674 à Antoine PIC de St-André-de-Lancize((C.M. le 17-9-1674, M<sup>e</sup> VERDELHAN)) ; veuve dès 1687 avec deux enfants,
-   * Laurence (°ca 1656), épouse en 1680 de Charles DELEUZE, menuisier des Faïsses de St-Privat-de-Vallongue((C.M. le 4-2-1680, M<sup>e</sup> MAZOYER)), dotée de 250 livres.
+   * Françoise, mariée en 1674 à Antoine PIC de St-André-de-Lancize[^22] ; veuve dès 1687 avec deux enfants,
+   * Laurence (°ca 1656), épouse en 1680 de Charles DELEUZE, menuisier des Faïsses de St-Privat-de-Vallongue[^23], dotée de 250 livres.
    * et vraisemblablement Antoine qui suivra en XII bb.
 
  **XII ba -- César VERDELHAN (+1702)**
@@ -239,45 +239,45 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * Espérance (°1682).
  * En 1688, il se remarie avec Antoinette FOURNIER qui lui donne au moins deux enfants :
    * Marie (°19-6-1691, bapt. 26-6)
-   * Marguerite mariée en 1707 avec Olivier MICHEL, travailleur de terre à la journée, dotée de 400 livres par son père, 300 livres par son frère Antoine et tous les biens de sa mère ; sa tante Jeanne FOURNIER lui donne 60 livres de bijoux, deux draps de lit, deux nappes et six serviettes((C.M. le 3-3-1707, M<sup>e</sup> PERIER)). Olivier est tuteur de ses neveux en 1717.
+   * Marguerite mariée en 1707 avec Olivier MICHEL, travailleur de terre à la journée, dotée de 400 livres par son père, 300 livres par son frère Antoine et tous les biens de sa mère ; sa tante Jeanne FOURNIER lui donne 60 livres de bijoux, deux draps de lit, deux nappes et six serviettes[^24]. Olivier est tuteur de ses neveux en 1717.
 
  **XIII ba -- Antoine VERDELHAN (°1674, +1715)**
 
  * Sieur de la Combe de Marvelhac ; praticien.
  * Époux d'Isabeau PEYRAUBE, fille de Pierre et Françoise DELFIONE (ou DELFIEU); d'où :
    * Pierre, sieur de la Combe (+1743) ; en 1731, il partage l'héritage de ses parents décédés *ab intestat* avec sa soeur Marguerite ; par la suite, il est dit imbécile, épileptique et infirme.
-   * Marguerite, épouse en 1728 de Jean TEISSIER, habitant Marvelhac((C.M. le 26-7-1728, M<sup>e</sup> DUBOST)),
+   * Marguerite, épouse en 1728 de Jean TEISSIER, habitant Marvelhac[^25],
    * Catherine (1716),
-   * Marie (+1730) qui teste sans postérité en 1730((Le 5-4-1740, M<sup>e</sup> PIN)).
- * Veuve, Isabeau se remarie en 1716 avec un autre Antoine VERDELHAN, fils d'Antoine et d'Espérance PINET du Luc de St-André-de-Lancize((C.M. le 10-11-1716, M<sup>e</sup> FOLCHER)) (voir ci-dessous).
+   * Marie (+1730) qui teste sans postérité en 1730[^26].
+ * Veuve, Isabeau se remarie en 1716 avec un autre Antoine VERDELHAN, fils d'Antoine et d'Espérance PINET du Luc de St-André-de-Lancize[^27] (voir ci-dessous).
 
  **XII bb -- Antoine VERDELHAN**
 
  * Il habite au Luc avec son épouse Espérance PINET dont on connaît trois fils :
    * César qui suit,
-   * Antoine, marié en 1716 avec Isabeau PEYRAUBE, veuve de son cousin germain homonyme (27) ; d'où Isabeau, épouse en 1744 de Pierre FELGEROLLES du Vialaponsonenc de St-Frézal-Ventalon((C.M. le 3-3-1744, M<sup>e</sup> PIN))
-   * Jean, habitant parfois à la Rivière de St-Privat avec sa femme Anne FRAISSE, fille d'Étienne et Marie FOUILLHAC de Bagnols((C.M. le 14-7-1717, M<sup>e</sup> PERIER)).
+   * Antoine, marié en 1716 avec Isabeau PEYRAUBE, veuve de son cousin germain homonyme (27) ; d'où Isabeau, épouse en 1744 de Pierre FELGEROLLES du Vialaponsonenc de St-Frézal-Ventalon[^28]
+   * Jean, habitant parfois à la Rivière de St-Privat avec sa femme Anne FRAISSE, fille d'Étienne et Marie FOUILLHAC de Bagnols[^29].
 
  **XIII bb -- César VERDELHAN (+\<1735)**
 
  * Travailleur de terre à la journée à la Souche de St-Privat.
- * Il épouse en 1704 Madeleine FILHOL, fille de Jean et Alix TURC de St-Privat((C.M. le 13-7-1704, M<sup>e</sup> PRIVAT)), d'où :
-   * André, tailleur d'habits au Soulier, marié en 1736 avec Suzanne RODIER, veuve AUSSET du Malhautier des Balmes((C.M. le 1-3-1736, M<sup>e</sup> PIN))
-   * Françoise, épouse en 1735 de Jacques CORRIGER de Soulatges((C.M. le 16-2-1735, M<sup>e</sup> PIN)).
+ * Il épouse en 1704 Madeleine FILHOL, fille de Jean et Alix TURC de St-Privat[^30], d'où :
+   * André, tailleur d'habits au Soulier, marié en 1736 avec Suzanne RODIER, veuve AUSSET du Malhautier des Balmes[^31]
+   * Françoise, épouse en 1735 de Jacques CORRIGER de Soulatges[^32].
 
  **XII c -- Jacques VERDELHAN**
 
  * Fils naturel d'Antoine de Sarreméjane et de Jeanne DUCROS, du niveau XI.
  * Il habite à Combes Crozes (St-Frézal-de-Ventalon) où il est recensé NC en 1687 (près de Conches).
- * Époux de Jeanne BLACHERE, fille de François et d'Isabeau JOUANENC des Combes Crozes((C.M. le 5-5-1664, M<sup>e</sup> PONGE))
+ * Époux de Jeanne BLACHERE, fille de François et d'Isabeau JOUANENC des Combes Crozes[^33]
  * Il est père de :
    * Daniel, qui suit
-   * Judith épouse de François VAREILLES du Viala de St-André-de-Lancize((C.M. le 27-5-1697, M<sup>e</sup> VERDELHAN)).
+   * Judith épouse de François VAREILLES du Viala de St-André-de-Lancize[^34].
 
  **XIII c -- Daniel VERDELHAN (+\<1719)**
 
  * Il habite au Viala de St-André-de-Lancize.
- * Époux de Claude BERTRAND, fille de David et Françoise PHILIP du mas de Cadoine (St-Germain-de-Calberte)((C.M. le 8-5-1688, M<sup>e</sup> VERDELHAN)).
+ * Époux de Claude BERTRAND, fille de David et Françoise PHILIP du mas de Cadoine (St-Germain-de-Calberte)[^35].
  * Il est père de
    * Claude qui suit
    * et probablement d'Antoine qui faisait partie de la troupe de JOUANY en 1704.
@@ -285,29 +285,29 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  **XIV c -- Claude VERDELHAN**
 
  * Il habite au mas de la Fare de St-Germain-de-Calberte en 1719 puis à Cessenades (St-Frézal-de-Ventalon) en 1750.
- * Époux en 1719 de Catherine RAYDON, fille d'Antoine et Jacqueline CHAPON de Cessenades((C.M. le 20-2-1719, M<sup>e</sup> PELET)) ;
+ * Époux en 1719 de Catherine RAYDON, fille d'Antoine et Jacqueline CHAPON de Cessenades[^36] ;
  * Il est le père de :
    * Jacques, qui suit
-   * Jean (+<1785), marié en 1756 avec Louise BRIGNON, fille de Jean et de Jeanne CHAPELLE de St-Maurice-de-Ventalon((C.M. le 23-10-1756, M<sup>e</sup> PIN)) ; veuve, Louise habite à la Mimade de St-Frézal-de-Ventalon; ils ont eu cinq enfants : Jean (°1758), èpoux en 1786 de Jeanne BRES, fille de Louis du Fossat((x le 13-4-1786)), Louise (°1761) femme en 1785 de Jean BONICEL, travailleur de terre au Granier((C.M. le 1-4-1790, M<sup>e</sup> PIN)), Jacques (°1769), Francoise (°1765) mariée en 1790 avec Pierre PELLECUER de St-Frèzal-de-Ventalon (39) et Jeanne (°1781). Le fils de Jean et Jeanne BRES, Jean (°1789 + 1846) époux de Marie FILHOL habite à la Blachèrette de St-Privat-de-Vallongue.
+   * Jean (+<1785), marié en 1756 avec Louise BRIGNON, fille de Jean et de Jeanne CHAPELLE de St-Maurice-de-Ventalon[^37] ; veuve, Louise habite à la Mimade de St-Frézal-de-Ventalon; ils ont eu cinq enfants : Jean (°1758), èpoux en 1786 de Jeanne BRES, fille de Louis du Fossat[^38], Louise (°1761) femme en 1785 de Jean BONICEL, travailleur de terre au Granier[^39], Jacques (°1769), Francoise (°1765) mariée en 1790 avec Pierre PELLECUER de St-Frèzal-de-Ventalon (39) et Jeanne (°1781). Le fils de Jean et Jeanne BRES, Jean (°1789 + 1846) époux de Marie FILHOL habite à la Blachèrette de St-Privat-de-Vallongue.
    * François se marie le 11-9-1764 avec Marie RICHARD devant le curé de St-Hilaire-de-Lavit qui baptise 25 jours plus tard leur première fille Catherine et, trois ans après, une autre fille Jeanne ; en revanche, c'est le pasteur de St-Privat-de-Vallongue qui unit leur fils François à Marguerite DELEUZE le 27-4-1790.
 
  **XV c -- Jacques VERDELHAN**
 
  * Travailleur de terre, né vers 1725.
  * Habite à Cessenades (1750 et 1763), à Conches (1754), aux Pérelles (1768), à Salson (1774).
- * Époux de Jeanne VIDAL, fille d'Antoine et de Marie PONGE des Habrits de St-Frézal-de-Ventalon((C.M. le 1-9-1750, M<sup>e</sup> PIN x au désert le 13-9-1750)).
+ * Époux de Jeanne VIDAL, fille d'Antoine et de Marie PONGE des Habrits de St-Frézal-de-Ventalon[^40].
  * Il est père de sept enfants, dont:
    * Jean, qui suit
    * François (°1758)
    * Étienne (°1761)
    * François (°1763)
    * Jeanne (°1768), tous baptisés au désert,
-   * Marie, épouse en 1776 de Jean PELATAN de St-Frézal-de-Ventalon((C.M. le 24-2-1776, M<sup>e</sup> PIN)).
+   * Marie, épouse en 1776 de Jean PELATAN de St-Frézal-de-Ventalon[^41].
 
  **XVI c -- Jean VERDELHAN (1759-1822)**
 
  * Cultivateur à Salson de St-Frézal-de-Ventalon, puis aux Faïsses de St-Privat-de-Vallongue.
- * Époux de Suzanne CANONGE, fille de Jean et de Marie PUECH des Faïsses((C.M. le 29-3-1774, M<sup>e</sup> PIN x le 11-4-1774 au désert))
+ * Époux de Suzanne CANONGE, fille de Jean et de Marie PUECH des Faïsses[^42]
  * Père de :
    * Marguerite
    * Louise
@@ -315,7 +315,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * Jean-Louis
    * Augustin
    * Jean, époux en 1806 de Marie CHAPELLE de St-Maurice-de-Ventalon, habitant aux Faisses.
-   * Jeanne, mariée en 1807 avec Jean François VERDELHAN du mas du Moulin de St-Privat-de-Vallongue((C.M. le 14-1-1807, M<sup>e</sup> BARDET)) qui, chacun à leur manière, ont maintenu le patronyme à Saint-Privat et dans la Vallée longue.
+   * Jeanne, mariée en 1807 avec Jean François VERDELHAN du mas du Moulin de St-Privat-de-Vallongue[^43] qui, chacun à leur manière, ont maintenu le patronyme à Saint-Privat et dans la Vallée longue.
 
  **XI d -- Daniel VERDELHAN (°1615/1620, +\<1674)**
 
@@ -326,16 +326,16 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * Pierre, qui suit,
    * André (1674),
    * Antoine, précepteur des écoles en 1641
-   * Gérémi (°ca 1650), cardeur, époux de Françoise HUGON, fille de Pierre et de Françoise GARNIER des Pérelles de St-Frézal-de-Ventalon((C.M. le 14-4-1674, M<sup>e</sup> VERDELHAN x le 25-4-1674 au temple)) ; on lui connaît un fils Louis né le 2-4-1681 et baptisé quatre jours après ; il n'apparaît pas au recensement de 1687.
+   * Gérémi (°ca 1650), cardeur, époux de Françoise HUGON, fille de Pierre et de Françoise GARNIER des Pérelles de St-Frézal-de-Ventalon[^44] ; on lui connaît un fils Louis né le 2-4-1681 et baptisé quatre jours après ; il n'apparaît pas au recensement de 1687.
 
  **XII d -- Pierre VERDELHAN**
 
  * Tisserand de cadis à Soubrelargues où il possède quelques terres, puis praticien.
  * Recensé NC en 1687.
- * Époux en 1659 de Simone (? Suzanne) VIERNE, fille de Simon et Suzanne TRIBES de Thomet près de St-Michel-de-Dèze((C.M. le 17-5-1659, M<sup>e</sup> MAZOYER)), qui lui donne :
+ * Époux en 1659 de Simone (? Suzanne) VIERNE, fille de Simon et Suzanne TRIBES de Thomet près de St-Michel-de-Dèze[^45], qui lui donne :
    * Antoine, qui suit,
    * Louis, parrain de son cousin germain Louis en 1681.
-   * Françoise; en 1691, elle annule son contrat de mariage avec Pierre GIBERT pour épouser ensuite Jean CORRIGER de la Lauze((C.M. le 27-1-1693, M<sup>e</sup> VERDELHAN)) ; recensée NC en 1687 avec deux filles Simone et Françoise.
+   * Françoise; en 1691, elle annule son contrat de mariage avec Pierre GIBERT pour épouser ensuite Jean CORRIGER de la Lauze[^46] ; recensée NC en 1687 avec deux filles Simone et Françoise.
 
  **XIII d -- Antoine VERDELHAN**
 
@@ -354,7 +354,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * Jacques qui suivra en X1 b,
    * Antoine, apprenti maçon chez son oncle LENTEYRES (1601), puis maçon à Alès ; en 1624, héritier d'un dixième des biens, il reçoit une pièce de terre,
    * Pierre, sans postérité (+ > 1607),
-   * Jean, marié en 1597 avec Marthe DELEUZE, fille de Jean, de Prades près de Saint-Martin-de-Boubaux((C.M. le 5-3-1597, M<sup>e</sup> PRIVAT)),
+   * Jean, marié en 1597 avec Marthe DELEUZE, fille de Jean, de Prades près de Saint-Martin-de-Boubaux[^47],
    * André, époux d'Anne GARNIER, fille de Jacques et Anne ESCALIER et soeur de Jean, des Plantiers qui paye sa dot en 1623.
 
  **XI a -- Daniel VERDELHAN**
@@ -363,8 +363,8 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * En 1586, sa mère, veuve, lui donne la moitié des biens.
  * En 1598, désigné somme syndic du pan de la Rivière – dont la charge principale était la perception d'impôts – il demande l'annulation de cette nomination, considérant qu'il y a des paroissiens plus capables que lui.
  * En 1609, comme tuteur des enfants de feu Jacques VERDELHAN, huissier à la cour du sénéchal, il donne quittance de 300 livres au notaire Daniel VERDELHAN de Sarreméjane, fils héritier d'Antoine, ce pour entier paiement du légat fait par le dit Antoine au dit Jacques.
- * Il teste en 1630 avec cinq enfants de ses trois épouses((Le 17-5-1630, M<sup>e</sup> GIBERT)) :
- * De Jacquette SALLES, fille de Sébastien du Rochadel((C.M. le 22-7-1592, M<sup>e</sup> PRIVAT)), il a eu :
+ * Il teste en 1630 avec cinq enfants de ses trois épouses[^48] :
+ * De Jacquette SALLES, fille de Sébastien du Rochadel[^49], il a eu :
    * François sui suit,
    * Pierre, apprenti cadissier en 1623.
  * De Catherine ARTIGUES, il a eu
@@ -372,12 +372,12 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * Guillaume.
  * De Jacquette VERNET, sa troisième femme sont nés :
    * Marie, désignée comme héritière,
-   * Pierre, né postérieurement au testament de son père ; en 1661, il épouse Anne DUCAMP, fille de Jacques et Suzanne MEJANELLE de Lancizole près de St- Germain-de-Calberte((C.M. le 16-6-1661, M<sup>e</sup> MATHIEU)) ; d'où pour le moins, Jeanne, mariée en 1694 avec Antoine DELEUZE de St-Michel-de-Dèze((C.M. le 14-12-1694, M<sup>e</sup> MOUTET)) et Marie, épouse en 1707 de Jean CHAPON, travailleur de terre au mas du Mouton près du Collet-de-Dèze((C.M. le 13-2-1707, M<sup>e</sup> PELET)).
+   * Pierre, né postérieurement au testament de son père ; en 1661, il épouse Anne DUCAMP, fille de Jacques et Suzanne MEJANELLE de Lancizole près de St- Germain-de-Calberte[^50] ; d'où pour le moins, Jeanne, mariée en 1694 avec Antoine DELEUZE de St-Michel-de-Dèze[^51] et Marie, épouse en 1707 de Jean CHAPON, travailleur de terre au mas du Mouton près du Collet-de-Dèze[^52].
 
  **XII a -- François VERDELHAN**
 
  * Ménager au Rochadel.
- * En 1637, il épouse Marie ARTIGUES, fille d'Antoine et Jeanne BARBUT, de La Bastide dans la paroisse((C.M. le 3-2-1637, M<sup>e</sup> GIBERT)).
+ * En 1637, il épouse Marie ARTIGUES, fille d'Antoine et Jeanne BARBUT, de La Bastide dans la paroisse[^53].
  * La même année, il rachète à Jacques MICHEL les droits cédés par son frère Jacques, pour soixante livres.
  * En 1638, il vend un castanet sis au Ligmarès.
  * On lui connaît deux fils :
@@ -391,7 +391,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * De Gilette DELEUZE il a eu :
    * André qui suit,
    * Jacques, sans postérité (+ < 1678)
-   * Louis, époux en 1678 de Margueritte CHAPON, fille de Jean et Madeleine GIBERT de Tignac((C.M. le 17-2-1678, M<sup>e</sup> ROCHETTE)),
+   * Louis, époux en 1678 de Margueritte CHAPON, fille de Jean et Madeleine GIBERT de Tignac[^54],
    * Jeanne, mariée le même jour à Jean CHAPON, maître cadissier d'Alègre près de Génolhac et cousin germain de Marguerite ; elle est dotée d'une pièce de terre, 12 linceuls, 6 serviettes, 2 écuelles en étain, 16 bêtes à laine et 4 chèvres (54).
 
  **XIV a -- André VERDELHAN (+ \< 1708)**
@@ -400,8 +400,8 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * Il ne peut être que le cardeur de laine fixé à Bonuéjols près de St Frézal de Ventalon par son mariage en 1690 avec Suzanne SALLES, fille héritière de Jacques de ce lieu.
  * Il a eu trois enfants :
    * André qui suit.
-   * Suzanne, épouse en 1724 de Jean ARTIGUES de Pénens((C.M. le 8-1-1724, M<sup>e</sup> PIN)),
-   * Jeanne, mariée à Jacques ARBOUSSET du Castanet, puis en 1731, à Jean MATHIEU de la Rochette((C.M. le 9-10-1731, M<sup>e</sup> PIN)).
+   * Suzanne, épouse en 1724 de Jean ARTIGUES de Pénens[^55],
+   * Jeanne, mariée à Jacques ARBOUSSET du Castanet, puis en 1731, à Jean MATHIEU de la Rochette[^56].
 
  **XV a -- André VERDELHAN (+1762/70)**
 
@@ -412,23 +412,23 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * André qui suit,
    * Antoine (1723)
    * Jacques,
-   * Louis, marié en 1734 avec Marie SALLES, fille de Jacques et Jeanne LACOMBE du Fresquet de St-Michel-de-Dèze((C.M. le 17-9-1733, M<sup>e</sup> PIN x le 28-3-1734, èglise de St-Frèzal)) ; d'où Louis et Marguerite, mariée en 1770 avec Jacques SAIX du Tour dont elle a eu six enfants((C.M. le 29-11-1770, M<sup>e</sup> PIN x le 4-12-1770 au désert)).
-   * Jeanne, épouse en 1739 de Jacques DESSALHENS de Leyris, avec une descendance((x le 4-4-1739 au désert)).
+   * Louis, marié en 1734 avec Marie SALLES, fille de Jacques et Jeanne LACOMBE du Fresquet de St-Michel-de-Dèze[^57] ; d'où Louis et Marguerite, mariée en 1770 avec Jacques SAIX du Tour dont elle a eu six enfants[^58].
+   * Jeanne, épouse en 1739 de Jacques DESSALHENS de Leyris, avec une descendance[^59].
 
  **XVI a -- André VERDELHAN (° ca 1716, +1791)**
 
  * Travailleur de terre au moulin de Soulages (1748, 1751), puis à Bonijol sive Bonuéjols (1762).
- * En 1748, il convole avec Suzanne SOULAGES, fille d'Étienne et Margueritte BOUTEILLE du mas du Moulin((C.M. le 6-8-1748, M<sup>e</sup> PIN x le 8-9-1748 au désert)).
- * Il teste en 1772 avec quatre enfants((Le 14-7-1722, M<sup>e</sup> PIN)) :
-   * André habitant au Moulin, époux en 1774 de Marie PANTEL de Vialas, avec une postérité au 19<sup>ème</sup> siècle((C.M. le 23-7-1774, M<sup>e</sup> PIN x le 7-8-1774 au désert, à Vialas)).
-   * Louis (° 1751, + 1791), marié en 1781 avec Jeanne ROUVERAN, fille de Pierre et Françoise SOLEIRET de St-Michel-de-Dèze((C.M. le 9-10-1781, M<sup>e</sup> PIN x le 7-11-1781 au désert)) ; d'où Louis (° ca 1780), Jeanne (° 1784), Jean-Louis (° 1786)...
-   * Suzanne (° 1758), mariée en 1778 avec Henri BRUC de St-Germain-de-Calberte((C.M. le 18-8-1778, M<sup>e</sup> PIN)).
+ * En 1748, il convole avec Suzanne SOULAGES, fille d'Étienne et Margueritte BOUTEILLE du mas du Moulin[^60].
+ * Il teste en 1772 avec quatre enfants[^61] :
+   * André habitant au Moulin, époux en 1774 de Marie PANTEL de Vialas, avec une postérité au 19<sup>ème</sup> siècle[^62].
+   * Louis (° 1751, + 1791), marié en 1781 avec Jeanne ROUVERAN, fille de Pierre et Françoise SOLEIRET de St-Michel-de-Dèze[^63] ; d'où Louis (° ca 1780), Jeanne (° 1784), Jean-Louis (° 1786)...
+   * Suzanne (° 1758), mariée en 1778 avec Henri BRUC de St-Germain-de-Calberte[^64].
    * Marie (° 1763), épouse en 1784 de Jean-Jacques BLACHERE.
 
  **XI b -- Jacques VERDELHAN**
 
  * Maçon à St-Christol où, dès 1604, il a épousé Jeanne GARNIER, fille de Guillaume et Isabeau DELEUZE.
- * Jeanne teste en 1628, citant ses cinq enfants((Le 24-5-1628, M<sup>e</sup> GIBERT)) :
+ * Jeanne teste en 1628, citant ses cinq enfants[^65] :
    * Pierre qui suit,
    * Antoine (+<1641), désigné comme héritier ; époux en 1623 de Jacquette PAUC de St-Étienne-Vallée-Française,
    * Isabeau, mariée à Jacques MICHEL de Chapieu,
@@ -438,27 +438,27 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  **XII b -- Pierre VERDELHAN (° 1616, +\<1694)**
 
  * Cadissier aux Ponchets de Ste-Cécile-d'Andorge (1647, 1670) puis au Castanet de Dèze.
- * Émancipé et marié en 1642 avec Jeanne PANTOSTIER, fille de Jean et Marie CORTES des Ponchets((C.M. le 24-2-1642, M<sup>e</sup> LEYRIS)).
+ * Émancipé et marié en 1642 avec Jeanne PANTOSTIER, fille de Jean et Marie CORTES des Ponchets[^66].
  * Il a eu pour le moins :
    * Antoine qui suit,
-   * Edouard, époux en 1694 d'Antoinette POLGE, native de Génolhac, élevée à Dieusse et servante depuis six ans chez Mathieu LEYRIS de Valmalle chez qui elle a gagné 120 livres((C.M. le 3-1-1694, M<sup>e</sup> LEYRIS)).
-   * Marguerite, mariée en 1670 à Jacques ARNAL du Castanet((C.M. le 1-10-1670, M<sup>e</sup> DAUDE)).
-   * Marie, épouse en 1682 de Jean DIET((C.M. le 4-2-1682, M<sup>e</sup> CHABERT)).
+   * Edouard, époux en 1694 d'Antoinette POLGE, native de Génolhac, élevée à Dieusse et servante depuis six ans chez Mathieu LEYRIS de Valmalle chez qui elle a gagné 120 livres[^67].
+   * Marguerite, mariée en 1670 à Jacques ARNAL du Castanet[^68].
+   * Marie, épouse en 1682 de Jean DIET[^69].
    * Isabeau, autorisée en 1677 à se marier à Nîmes.
 
  **XIII b -- Antoine VERDELHAN (+\>1723)**
 
  * Passementier au Castanet de Dèze.
- * En 1688, il épouse Anne DIET, fille de Jean et Marie PAULET de Lozerette près de St- Julien-du-Tournel((C.M. le 3-2-1688, M<sup>e</sup> PLANTIER)), d'où :
+ * En 1688, il épouse Anne DIET, fille de Jean et Marie PAULET de Lozerette près de St- Julien-du-Tournel[^70], d'où :
    * Jean qui suit,
-   * Pierre, recensé N.C. au Castanet en 1697 ; de sa femme, Jeanne, il a eu Antoine marié en 1722 à Jeanne SALLES, fille de Jean et Florette BONAL de Possiels près de St-Andéol-de-Clerguemort((C.M. le 4-2-1722, M<sup>e</sup> PIN)).
+   * Pierre, recensé N.C. au Castanet en 1697 ; de sa femme, Jeanne, il a eu Antoine marié en 1722 à Jeanne SALLES, fille de Jean et Florette BONAL de Possiels près de St-Andéol-de-Clerguemort[^71].
 
  **XIV b -- Jean VERDELHAN (+\<1752)**
 
  * Il habite au Castanet.
- * En 1723, il convole avec Jeanne ELZIERE, fille de David et Catherine ROUVERAN de Pénens, dotée de 60 livres((C.M. le 24-9-1722, M<sup>e</sup> PIN le 23-11-1722 à l'église de St-Frèzal)), d'où :
-   * Jacques, travailleur de terre au Castanet puis à Pénens bas, époux en 1755 de Marie PELLET, fille de Pierre et Suzanne NOGARET de Pomérols près de St-Martin-de-Boubaux((C.M. le 4-9-1755, M<sup>e</sup> DUCAMP)),
-   * Marie, femme en 1752 de Pierre PLANTIER de St-Paul-la-Coste((C.M. le 9-3-1752, M<sup>e</sup> DUCAMP)).
+ * En 1723, il convole avec Jeanne ELZIERE, fille de David et Catherine ROUVERAN de Pénens, dotée de 60 livres[^72], d'où :
+   * Jacques, travailleur de terre au Castanet puis à Pénens bas, époux en 1755 de Marie PELLET, fille de Pierre et Suzanne NOGARET de Pomérols près de St-Martin-de-Boubaux[^73],
+   * Marie, femme en 1752 de Pierre PLANTIER de St-Paul-la-Coste[^74].
 
 #### 3 - A Marvelhac
 
@@ -474,16 +474,16 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * Époux de Guillemette de GAUJAC, fille de Raymond et de Catherine, dame des Abrits de St-Martin-de-Lansuscle et codame des châteaux de Fontanilles et de Calberte, habitant au Soulier de St-Hilaire-de-Lavit.
  * On lui reconnaît en 1446 des biens reconnus avant à noble Pierre BERNARD le 22-2-1354 vs et à Guillaume BERNARD, son père, de St-Michel-de-Dèze le 30-6-1335 et après à M<sup>e</sup> Jacob VERDELHAN en 1607.
  * Il possède quelques biens de noble Guigon de la GARDE à St-Julien-des-Points.
- * Il teste en 1450((Le 11-9-1450, M<sup>e</sup> TORRES)).
+ * Il teste en 1450[^75].
  * Il est le père d'au moins cinq garçons et plusieurs filles:
    * Pierre, héritier universel, qui suit.
-   * Jacques qui est allé aux écoles grammaticales comme son père l'avait souhaité; il a exercé la fonction de notaire (1466-1473); pourrait être le Jacques VERDELHAN de Frutgères à qui Raymond de GAUJAC, fils du feu seigneur des Abrits, donne une maison d'habitation sise à Frutgères ; en 1473, il épouse Gabrielle FALCON, fille de Jehan d'Alès((C.M. le 22-11-1473, M<sup>e</sup> BARTHELEMY)).
+   * Jacques qui est allé aux écoles grammaticales comme son père l'avait souhaité; il a exercé la fonction de notaire (1466-1473); pourrait être le Jacques VERDELHAN de Frutgères à qui Raymond de GAUJAC, fils du feu seigneur des Abrits, donne une maison d'habitation sise à Frutgères ; en 1473, il épouse Gabrielle FALCON, fille de Jehan d'Alès[^76].
    * Antoine (1450)
    * Vincent, prêtre à Marvelhac en 1467 ; on lui reconnaît comme seigneur de Marveilhac en 1491 des biens sis à St-Andéol-de-Clerguemort, venant de Raymond de GAUJAC à qui ils avaient été reconnus en 1449.
    * Jehan, époux d'Isabelle RAYNOLD de St-Germain-de-Calberte (x <1450); veuve dès 1453, Isabelle se remarie en 1461 à Étienne MANENT de St-Germain-de-Calberte;
-   * Catherine, femme en 1435 de Jehan GUIN du mas Bernat à St-Étienne-Vallée-Française((C.M. le 24-10-1435, M<sup>e</sup> GUIN))
-   * Aygline, épouse en 1448 de Pierre LOMBARD, sartre d'Anduze((C.M. le 23-4-1448, M<sup>e</sup> MICHEL))
-   * plusieurs autres filles non encore mariées en 1450, parmi lesquelles Jehanne, épouse de noble Jehan du CAYLAR, du Caylar (paroisse de Monoblet) qui donne quittance de dot en 1460((Quittance du 19-1-1460, M<sup>e</sup> TORRES)).
+   * Catherine, femme en 1435 de Jehan GUIN du mas Bernat à St-Étienne-Vallée-Française[^77]
+   * Aygline, épouse en 1448 de Pierre LOMBARD, sartre d'Anduze[^78]
+   * plusieurs autres filles non encore mariées en 1450, parmi lesquelles Jehanne, épouse de noble Jehan du CAYLAR, du Caylar (paroisse de Monoblet) qui donne quittance de dot en 1460[^79].
 
  **VI -- Pierre VERDELHAN (°ca 1430, ? + \<1508)**
 
@@ -515,7 +515,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * Madeleine,
    * Catherine, veuve d'Antoine VARELHES de Vieljouves,
    * Antoinette, mariée dès 1551 avec Gabriel ALDEBERT du Pradal de Cassagnas,
-   * Alys dont une petite-fille, Delphine SORALHAC, habitant à Alès épouse en 1567, Louis SOULIER de St-Privat-de-Vallongue((C.M. le 19-8-1567, M<sup>e</sup> PAULET)),
+   * Alys dont une petite-fille, Delphine SORALHAC, habitant à Alès épouse en 1567, Louis SOULIER de St-Privat-de-Vallongue[^80],
    * Françoise ;
    * une des filles est mariée à Nîmes avec un MAUBUISSON et mère d'Antoine, tisserand, qui épouse en 1676 Catherine CORBIER ;
 
@@ -528,12 +528,12 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * En 1570, il habite à l'Estyrenche de St-Privat-de-Vallongue puis à St-Étienne-Vallée-Française où il est juge (1575, 1595) ;
  * En lui reconnaît en juin 1578 de nombreuses terres à Soubrelargues (autrement dit Rochejean), en particulier des terres reconnues le 22-2-1304 vs à Pierre BERNARD et le 30-6-1345 par Privat de ROCHEJEAN à noble Guillaume BERNARD, prédécesseur de Pierre d'ESPINASSON et plus tard à Pierre VERDELHAN le 13-5-1446.
  * Il achète de nombreuses terres à son neveu Jacques de Marvelhac (1593-95).
- * En 1563, il épouse Marguerite PEREDES, fille d'Antoine de St-Étienne-Vallée-Française((C.M. le 30-6-1563, M<sup>e</sup> SABATIER)) d'où au moins trois fils :
+ * En 1563, il épouse Marguerite PEREDES, fille d'Antoine de St-Étienne-Vallée-Française[^81] d'où au moins trois fils :
    * Jacob, qui suit en IX aa,
    * André qui suivra en IX ab,
    * Pierre, écuyer, sieur de Marvelhac, habitant à St-Étienne-Vallée-Française; apprenti marchand à Nîmes en 1584 ; il achète un cheval pour partir à la guerre en 1593; on le voit comme témoin de la quittance de dot de Jehan VERDELHAN des Parets (23-2-1594) et au mariage de sa cousine germaine Jehanne le 1-6-1594; il est décédé en août 1594 et son père paye son cheval.
- * En 1575, il convole avec Marguerite RAT, veuve de Jehan QUARANTE et fille de Christophe d'Alès((C.M. le 15-12-1575, M<sup>e</sup> POMAREDE)) ; Marguerite teste en 1577, faisant héritier universel son fils Isaac QUARANTE((Le 7-6-1577, M<sup>e</sup> COSTE)).
- * En 1585, Gasparde d'ASSAS, une veuve habitant Gasques et dotée de 200 écus devint sa troisième femme((C.M. le 1-9-1585, M<sup>e</sup> DELAPIERRE)).
+ * En 1575, il convole avec Marguerite RAT, veuve de Jehan QUARANTE et fille de Christophe d'Alès[^82] ; Marguerite teste en 1577, faisant héritier universel son fils Isaac QUARANTE[^83].
+ * En 1585, Gasparde d'ASSAS, une veuve habitant Gasques et dotée de 200 écus devint sa troisième femme[^84].
 
  **IX aa -- Jacob VERDELHAN (+\<1628)**
 
@@ -553,7 +553,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * Bailhe de la commanderie de Gap-Francès (1607, 1624)
  * Bailhe du mandement de St-Maurice-de-Ventalon pour le seigneur de Tignac (1609, 1621).
  * Corentier du bénéfice et prieuré de St-Maurice-de Ventalon en 1624.
- * Époux en 1592 de Marguerite de FAYET (qui pourrait être issue de Laubaret de St-Maurice-de-Ventalon((C.M. le 27-12-1592, M<sup>e</sup> BAUZON)) ;
+ * Époux en 1592 de Marguerite de FAYET (qui pourrait être issue de Laubaret de St-Maurice-de-Ventalon[^85] ;
  * Il est le père de
    * Antoine, qui suit.
  * La chronologie en ferait aussi le père de
@@ -565,22 +565,22 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * Habite à Marvelhac (1625) puis à St-Maurice-de-Ventalon (1646).
  * En 1645, il est député au colloque de St-Germain-de-Calberte
  * En 1658, il finit de payer la métairie de Marvelhac aux héritiers de Suzanne d'IZARN ;
- * Époux en 1627 de Simone ANDRE, fille d'Antoine, bailhe du Pont-de-Monvert et de Jeanne MAZOYER, dotée de 850 livres((C.M. le 24-1-1627, M<sup>e</sup> RAMPON)).
+ * Époux en 1627 de Simone ANDRE, fille d'Antoine, bailhe du Pont-de-Monvert et de Jeanne MAZOYER, dotée de 850 livres[^86].
  * On lui connaît sept enfants:
    * Antoine, l'aîné, décédé sans postérité.
    * Jean, qui suit,
-   * Lucrèce, épouse en 1647 de Pierre AUGIER du Collet-de-Dèze((C.M. le 18-5-1647, M<sup>e</sup> GIBERT)),
-   * Marguerite, mariée en 1655 avec François SARAZIN, sieur de la Plane de Plavaysset((C.M. le 18-9-1655, M<sup>e</sup> PONGE)),
-   * Blanche, épouse en 1656 de Jean DELEUZE, fils d'Antoine, sieur de la Figière, de St-Andéol-de-Clerguemort, dotée de 1110 livres((C.M. le 29-2-1656, M<sup>e</sup> PLANTIER)),
+   * Lucrèce, épouse en 1647 de Pierre AUGIER du Collet-de-Dèze[^87],
+   * Marguerite, mariée en 1655 avec François SARAZIN, sieur de la Plane de Plavaysset[^88],
+   * Blanche, épouse en 1656 de Jean DELEUZE, fils d'Antoine, sieur de la Figière, de St-Andéol-de-Clerguemort, dotée de 1110 livres[^89],
    * Jeanne, épouse dès 1655 d'Antoine PUCHERAL de la Brousse, dotée de 110 livres et une paire de boeufs.
-   * Simone, femme de Jean TEISSIER, sieur de la Vernède, de St-Privat-de-Vallongue ; elle teste en 1671((Le 20-7-1671, M<sup>e</sup> PONGE)).
+   * Simone, femme de Jean TEISSIER, sieur de la Vernède, de St-Privat-de-Vallongue ; elle teste en 1671[^90].
 
  **XI ab -- Jean VERDELHAN (+ 1674/83)**
 
  * Sieur de la Lauze (1656), de Marvelhac, succédant à son frère Antoine.
  * Décédé avant le recensement des NC en 1686.
  * Il fait hommage au baron de Grizac en 1667, comme ses aieulx Pierre d'ESPINASSON en 1376 et Pierre VERDELHAN en 1435 et 1448.
- * Époux en 1659 de Jeanne LAURENS, fille de Jean, capitaine et sieur de la Blachère et de Jeanne ROUVIERE du Pont-de-Montvert((C.M. le 3-5-1659, M<sup>e</sup> PLANTIER)) ; Jeanne est la soeur de Jean LAURENS, sieur de la Nougarède, mort aux galères vers 1695.
+ * Époux en 1659 de Jeanne LAURENS, fille de Jean, capitaine et sieur de la Blachère et de Jeanne ROUVIERE du Pont-de-Montvert[^91] ; Jeanne est la soeur de Jean LAURENS, sieur de la Nougarède, mort aux galères vers 1695.
  * On ne lui connaît qu'une fille
    * Marguerite, qui suit.
 
@@ -604,8 +604,8 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
    * Isaac,
    * Marguerite, épouse de Firmin MARINGAUD de la Lauze,
    * Isabelle, femme de Bernard FORT de Granville,
-   * Jacquette, mariée dès 1588 à Jehan HUGOL alias HUGON du Granier((Quittance du 5-3-1588, M<sup>e</sup> BAUZON))
-   * Jehanne, (fille de J.V) mariée en 1594 avec Jehan CHAPTAL de Cocurès, dotée par ses frères((C.M. le 1-6-1594, M<sup>e</sup> DUTERON)),
+   * Jacquette, mariée dès 1588 à Jehan HUGOL alias HUGON du Granier[^92]
+   * Jehanne, (fille de J.V) mariée en 1594 avec Jehan CHAPTAL de Cocurès, dotée par ses frères[^93],
    * Marguerite, (fille d'A.R.) épouse de Jacques BAUZON.
 
  **IX b -- Jacques VERDELHAN (+\>1624)**
@@ -614,7 +614,7 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * Il habite à Marvelhac, donataire de la moitié des biens dès 1588.
  * En 1594, il dote sa soeur Jehanne, femme de Jehan CHAPTAL.
  * Marié dès 1584 avec Jehanne GAUSSEN alias GAULCEM (décédée dès 1622) de Belvèze d'où six enfants cités dans le testament de leur grand-père Jehan GAUSSEN en 1596 :
-   * Jean ; le 29-9-1622, émancipé il fait une donation à sa soeur Marguerite((Me Jean CHANTELOUVE)).
+   * Jean ; le 29-9-1622, émancipé il fait une donation à sa soeur Marguerite[^94].
    * Pierre, rentier pour trois ans de la métairie de Jacob, sieur de Marvelhac, avec le cautionnement de son oncle André.
    * André,
    * Antoine qui teste le 22-2-1626 craignant pour sa vie après avoir été battu par Jacques LARGUIER, lieutenant du bailhe en la comté de Roure et quelques autres qui lui ont dérobé sept bêtes et un chaudron ; père naturel de Marguerite.
@@ -655,14 +655,14 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  **X a -- Jean VERDELHAN (+\<1665)**
 
  * Cordonnier aux Parets.
- * Époux d'Anne SOULIER, fille de Jean et Antoinette PARIS de la Blachière et soeur de Jean qui paye sa dot en 1623((C.M. le 1-1-1623, M<sup>e</sup> VERDELHAN)) ;
+ * Époux d'Anne SOULIER, fille de Jean et Antoinette PARIS de la Blachière et soeur de Jean qui paye sa dot en 1623[^95] ;
  * Il possède en 1648 des biens ayant appartenu aux PASCAL de la Blacherette en 1516.
  * Il paye la dot de sa soeur Jacquette en 1655.
  * Convaincu de crime de lèse-majesté (pour des raisons non connues).
  * Il est le père de :
    * Pierre, qui suit
-   * Jacques, époux de Lucrèce DONZEL, fille de Jean et de Marguerite BENOIT de Saint-Maurice-de-Ventalon((C.M. le 22-9 et 27-12-1665, M<sup>e</sup> PONGE)). En 1727, sa fille héritière Marguerite, veuve de Pierre GRALHON, reconnaît trois pièces de terre au comte du Roure.
-   * Françoise épouse en 1648 d'Antoine GUIN de la Rodolarie((C.M. le 8-7-1648, M<sup>e</sup> PASCAL)).
+   * Jacques, époux de Lucrèce DONZEL, fille de Jean et de Marguerite BENOIT de Saint-Maurice-de-Ventalon[^96]. En 1727, sa fille héritière Marguerite, veuve de Pierre GRALHON, reconnaît trois pièces de terre au comte du Roure.
+   * Françoise épouse en 1648 d'Antoine GUIN de la Rodolarie[^97].
 
  **XI a -- Pierre VERDELHAN**
 
@@ -672,10 +672,10 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  **IX b -- Étienne VERDELHAN (+\<1595)**
 
  * Il habite à Fabreguette.
- * Époux en 1583 d'Antoinette HUGON, fille de Pierre et Jehanne GIBERNE de la Coste de St-Privat, dotée de 146 livres((C.M. le 16-8-1583, M<sup>e</sup> BAUZON)).
+ * Époux en 1583 d'Antoinette HUGON, fille de Pierre et Jehanne GIBERNE de la Coste de St-Privat, dotée de 146 livres[^98].
  * Il est, en toute vraisemblance, le père de :
    * Jehan qui suit,
-   * Jacques à qui Anne COMBES à qui Anne COMBES a donné Antoine et Françoise (1623) ; en 1624, il se remarie à St-Jean-du-Gard avec Jeanne MILHAC((C.M. le 4-2-1624, M<sup>e</sup> DUMONT)).
+   * Jacques à qui Anne COMBES à qui Anne COMBES a donné Antoine et Françoise (1623) ; en 1624, il se remarie à St-Jean-du-Gard avec Jeanne MILHAC[^99].
 
  **X b -- Jean VERDELHAN (+ 1641 /54)**
 
@@ -683,13 +683,13 @@ Le patronyme VERDELHAN s'est ainsi éteint à Sarreméjane où il était connu d
  * Marié dès 1623 avec Anne BONAFOUS, fille de Jean de la Blacherette, d'où :
    * Jean qui suit,
    * Suzanne, imbécile,
-   * Marie qui teste en 1676 en faveur d'un GIBERNE((le 13-12-1676, M<sup>e</sup> MAZOYER)).
+   * Marie qui teste en 1676 en faveur d'un GIBERNE[^100].
 
  **XI b -- Jean VERDELHAN**
 
  * Il habite à Fabreguette.
  * Époux de Jeanne DANIEL, d'où :
-   * Françoise, mariée en 1674 avec Michel DONZEL du Granier((C.M. le 16-6-1676, M<sup>e</sup> PONGE)).
+   * Françoise, mariée en 1674 avec Michel DONZEL du Granier[^101].
 
 #### Assemblée du 23 avril 1702
 
