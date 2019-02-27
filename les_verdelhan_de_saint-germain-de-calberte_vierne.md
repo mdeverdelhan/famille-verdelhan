@@ -1,13 +1,13 @@
 ## Les Verdelhan de Saint-Germain-de-Calberte (Vierne)
 
-Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur) et a été publié en novembre 2008 dans le n°82 de « Généalogie en Cévennes » (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
+Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur) et a été publié en novembre 2008 dans [le n°82 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/82.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
 
 Il est précédé de deux autres articles complétant l'étude :
 
  * [Les Verdelhan de Saint-Privat-de-Vallongue (1275-1775)](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne)
  * [Les Verdelhan de Castagnols](les_verdelhan_de_castagnols_vierne)
 
-Les membres de l'ACGC pourront trouver l'exemplaire du bulletin au format PDF à cette adresse : http://site.acgc.free.fr/fichiers/bulletins/82.pdf (Accès réservé). La retranscription qui suit est augmentée de corrections typographiques ainsi que d'éléments fournis par d'autres membres de l'ACGC.
+La retranscription qui suit est augmentée de corrections typographiques ainsi que d'éléments fournis par d'autres membres de l'ACGC.
 
 ### Retranscription
 
@@ -200,7 +200,7 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
 
  **IX b -- Pierre VERDELHAN (+\<1608)**
 
- * [D'après les frères HAAG](La_France_protestante_(Haag)), il serait un fils d'Antoine, seigneur de Marvelhac, sur manifestement une information fournie par un de ses descendants qui recherchait un lien avec la célèbre lignée de Saint-Privat-de-Vallongue.
+ * [D'après les frères HAAG](la_france_protestante_haag), il serait un fils d'Antoine, seigneur de Marvelhac, sur manifestement une information fournie par un de ses descendants qui recherchait un lien avec la célèbre lignée de Saint-Privat-de-Vallongue.
  * Il habite à Frépestel où sa qualité de cadet ne le fait pas apparaître souvent dans les actes de notaires.
  * Il adhère aux idées de CALVIN,
  * On lui connaît deux fils :

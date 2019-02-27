@@ -30,7 +30,7 @@ Contrairement à ce que beaucoup pensent, le lion des Verdelhan n'est pas un lio
  
 Le dictionnaire *Le Robert* nous indique lui aussi que « \[ce qualificatif\] se dit d'animaux qui ne présentent que la moitié supérieure du corps et paraissent sortir de la pièce ou du champ de l'écu ».
 
-Le lion des Verdelhan est donc un lion par défaut, un lion *rampant* ([Plus d'explications sur Wikipedia](http://fr.wikipedia.org/wiki/Lion_(h%C3%A9raldique)#Lion_et_Lion_l.C3.A9opard.C3.A9)). L'histoire familiale lui fait signifier « un haut fait d'arme ». Cela pourrait alors correspondre à la [bataille de Pavie](wp>fr:Bataille_de_Pavie) si l'on explique [les besants](armoiries_des_verdelhan#Les_besants) par la reconnaissance de la rançon des fils de François 1<sup>ier</sup>. Néanmoins de nombreuses familles arborent un lion sur leurs armoiries ; et un célèbre proverbe héraldique nous dit que « qui n'a pas de blason porte un lion ». Aussi sachons rester prudents.
+Le lion des Verdelhan est donc un lion par défaut, un lion *rampant* ([Plus d'explications sur Wikipedia](http://fr.wikipedia.org/wiki/Lion_(h%C3%A9raldique)#Lion_et_Lion_l.C3.A9opard.C3.A9)). L'histoire familiale lui fait signifier « un haut fait d'arme ». Cela pourrait alors correspondre à la [bataille de Pavie (1525)](https://fr.wikipedia.org/wiki/Bataille_de_Pavie_(1525)) si l'on explique [les besants](armoiries_des_verdelhan#Les_besants) par la reconnaissance de la rançon des fils de François 1<sup>ier</sup>. Néanmoins de nombreuses familles arborent un lion sur leurs armoiries ; et un célèbre proverbe héraldique nous dit que « qui n'a pas de blason porte un lion ». Aussi sachons rester prudents.
 
 Les besants
 -----------
@@ -42,7 +42,7 @@ Les besants représentent des pièces de monnaie. Chez les Verdelhan ils sont en
 
 #### La couronne de marquis
 
-La couronne de [marquis](wp>fr:Marquis) ornant les armes des Verdelhan est elle aussi soumise à controverse. En effet, le seul marquisat connu de la famille fût celui de Montanègues, acheté en 1761 par Jacques Verdelhan des Fourniels. La branche des Fourniels s'étant éteinte au XIX<sup>ème</sup> siècle et les premières références à la couronne apparaissant à cette époque-là, il est possible que cela ait paru un bel ornement à rajouter aux armes *officielles*. Il se peut également que cela provienne d'une alliance quelconque.
+La couronne de [marquis](https://fr.wikipedia.org/wiki/Marquis) ornant les armes des Verdelhan est elle aussi soumise à controverse. En effet, le seul marquisat connu de la famille fût celui de Montanègues, acheté en 1761 par Jacques Verdelhan des Fourniels. La branche des Fourniels s'étant éteinte au XIX<sup>ème</sup> siècle et les premières références à la couronne apparaissant à cette époque-là, il est possible que cela ait paru un bel ornement à rajouter aux armes *officielles*. Il se peut également que cela provienne d'une alliance quelconque.
 
 Il existerait enfin une lettre patente autorisant les Verdelhan à porter leur écu « *timbré d'un casque, taré de profil, orné de ses lambrequins* » mais son existence n'est pas attestée.
 

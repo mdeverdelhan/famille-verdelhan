@@ -1,14 +1,13 @@
 ## Les Verdelhan de Saint-Privat-de-Vallongue (1275-1775) (Vierne)
 
-Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur)
-et a été publié en mai 2008 dans le n°80 de « Généalogie en Cévennes » (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
+Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur) et a été publié en mai 2008 dans [le n°80 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/80.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
 
 Il est suivi de deux autres articles complétant l'étude :
 
  * [Les Verdelhan de Castagnols](les_verdelhan_de_castagnols_vierne)
  * [Les Verdelhan de Saint-Germain-de-Calberte](les_verdelhan_de_saint-germain-de-calberte_vierne)
 
-Les membres de l'ACGC pourront trouver l'exemplaire du bulletin au format PDF à cette adresse : http://site.acgc.free.fr/fichiers/bulletins/80.pdf (Accès réservé). La retranscription qui suit est augmentée de corrections typographiques ainsi que d'éléments fournis par d'autres membres de l'ACGC.
+La retranscription qui suit est augmentée de corrections typographiques ainsi que d'éléments fournis par d'autres membres de l'ACGC.
 
 ### Retranscription
 

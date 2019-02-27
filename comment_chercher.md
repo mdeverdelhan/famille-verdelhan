@@ -4,12 +4,12 @@
 
 Jusqu'au début du XX<sup>ème</sup> siècle, l'histoire des Verdelhan se confond avec celles du Gard et de la Lozère. On comprendra donc qu'il faille chercher de ce côté là.
 
- * [Archives municipales d'Alès](http://www.alescevennes.fr/portal/portal/pac/informer/archivesmunicipales/presentation)
+ * [Archives municipales d'Alès](https://www.ales.fr/territoire/decouvrir/archives-municipales-dales/)
  * Archives municipales de Langogne
  * Archives municipales de Mende
  * [Archives municipales de Nîmes](http://www.ville-nimes.fr/index.php?id=31)
- * [Archives départementales du Gard](http://www.gard.fr/nos-actions/culture-sport/les-archives-departementales/effectuer-une-recherche.html)
- * [Archives départementales de l'Hérault](http://archives.herault.fr/)
+ * [Archives départementales du Gard](http://www.archives.gard.fr/)
+ * [Archives départementales de l'Hérault](http://archives-pierresvives.herault.fr/)
  * [Archives départementales de la Lozère](http://archives.lozere.fr/)
 
 ### Voir aussi
@@ -25,12 +25,14 @@ Sociétés et associations de généalogistes[^lawriw] :
 Catalogues de bibliothèques :
 
  * Bibliothèque Carré d'Art (Nîmes) : [Consultation du catalogue](http://carreartmusee.centredoc.fr/opac/)
- * Médiathèque Émile Zola (Montpellier) : [Consultation du catalogue](http://sbib.bm.montpellier-agglo.com/zonesl/)
+ * Médiathèques de Montpellier Méditerranée Métropole : [Consultation du catalogue](https://mediatheques.montpellier3m.fr/DEFAULT/form.aspx?SC=COLLECTIF)
  * Bibliothèque numérique de Google : [Google Books](http://books.google.fr/)
  * Bibliothèque numérique de la BNF : [Gallica](http://gallica.bnf.fr/)
 
 Fiches d'aide des Archives Nationales :
 <http://www.archivesnationales.culture.gouv.fr/chan/chan/archives-fiches-recherche.html>
+
+Téléarchives par Brozer : http://www.brozer.fr/telearchives/
 
 ### Graphies alternatives
 

@@ -26,7 +26,7 @@ Verdelhan des Fourniels Jacques, Victor
 Verdelhan des Fourniels (de) Marie
 ----------------------------------
 
- * Mère de [wp>fr:Jacques Aimard de Moreton de Chabrillant](wp>fr:Jacques_Aimard_de_Moreton_de_Chabrillant)
+ * Mère de [Jacques Aimard de Moreton de Chabrillan](https://fr.wikipedia.org/wiki/Jacques_Aimard_de_Moreton_de_Chabrillan)
  * [http://books.google.fr/books?id=9TwVAAAAQAAJ&pg=PA37&lpg=PA37&dq=verdeillan&source=bl&ots=-2GMKHvt6p&sig=XhlZ3Wc1ggLUfeAX3WLxUsJsvlQ&hl=fr&ei=7bqgSrO-MpShjAeNhPzDDg&sa=X&oi=book_result&ct=result&resnum=9#v=onepage&q=verdeillan&f=false](http://books.google.fr/books?id=9TwVAAAAQAAJ&pg=PA37&lpg=PA37&dq=verdeillan&source=bl&ots=-2GMKHvt6p&sig=XhlZ3Wc1ggLUfeAX3WLxUsJsvlQ&hl=fr&ei=7bqgSrO-MpShjAeNhPzDDg&sa=X&oi=book_result&ct=result&resnum=9#v=onepage&q=verdeillan&f=false)
  * Chercher Fourniel :
    * [http://www.archive.org/stream/archivesgnalogi01unkngoog/archivesgnalogi01unkngoog_djvu.txt](http://www.archive.org/stream/archivesgnalogi01unkngoog/archivesgnalogi01unkngoog_djvu.txt)
