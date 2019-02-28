@@ -1,6 +1,6 @@
 ## Les Verdelhan de Castagnols (Vierne)
 
-Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur) et a été publié en août 2008 dans [le n°81 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/81.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
+Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#à-propos-de-lauteur) et a été publié en août 2008 dans [le n°81 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/81.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
 
 Il est précédé de l'article « [Les Verdelhan de Saint-Privat-de-Vallongue (1275-1775)](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne) » et suivi de celui des [Verdelhan de Saint-Germain-de-Calberte](les_verdelhan_de_saint-germain-de-calberte_vierne) qui complète l'étude.
 
@@ -8,7 +8,7 @@ La retranscription qui suit est augmentée de corrections typographiques ainsi q
 
 ### Retranscription
 
-Deux lignées intéressantes de VERDELHAN se sont développées dans la paroisse de Castagnols, [à Polimies](#à_Polimies) et [à Gourdouze](#à_Gourdouze), avec des extensions dans la Vallée longue et Génolhac, à partir du 14<sup>ème</sup> siècle, du moins d'après les traces conservées dans les Archives départementales. La proximité du Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
+Deux lignées intéressantes de VERDELHAN se sont développées dans la paroisse de Castagnols, [à Polimies](#à-polimies) et [à Gourdouze](#à-gourdouze), avec des extensions dans la Vallée longue et Génolhac, à partir du 14<sup>ème</sup> siècle, du moins d'après les traces conservées dans les Archives départementales. La proximité du Masmin et de Coudoulous laisse peu de doutes sur leurs origines.
 
 #### 1 - A Polimies
 
@@ -348,7 +348,7 @@ On n'a pu établir une filiation continue qu'à partir de Laurent dont la descen
 
 #### 7 - Au Rochadel
 
-Une autre lignée intéressante s'est développée au 16<sup>ème</sup> siècle dans la paroisse de Saint-Michel-de-Dèze, au Rochadel à partir de Pierre VERDELHAN qui y épouse Jacquette LANTEYRES. [Cette lignée se rattache à celle de Sarreméjane](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne#Au_Rochadel).
+Une autre lignée intéressante s'est développée au 16<sup>ème</sup> siècle dans la paroisse de Saint-Michel-de-Dèze, au Rochadel à partir de Pierre VERDELHAN qui y épouse Jacquette LANTEYRES. [Cette lignée se rattache à celle de Sarreméjane](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne#au-rochadel).
 
 
 

@@ -3,7 +3,7 @@ N'hésitez pas à [m'envoyer un e-mail](http://verdelhan.eu/) pour toute remarqu
 
 --- *[Marc de Verdelhan](http://verdelhan.eu/), le 21/02/2019*
 
-Le visiteur intéressé peut commencer par consulter les références à la famille dans les différents [ouvrages et articles traitant des Verdelhan](#ouvrages_et_articles_traitant_des_Verdelhan) (et notamment l'[Armorial du Gévaudan](armorial_du_gevaudan_lescure)). Des notes sur les [armoiries des Verdelhan](armoiries_des_verdelhan) et une [liste des propriétés notables](liste_des_proprietes_notables) de la famille sont également disponibles.
+Le visiteur intéressé peut commencer par consulter les références à la famille dans les différents [ouvrages et articles traitant des Verdelhan](#ouvrages-et-articles-traitant-des-verdelhan) (et notamment l'[Armorial du Gévaudan](armorial_du_gevaudan_lescure)). Des notes sur les [armoiries des Verdelhan](armoiries_des_verdelhan) et une [liste des propriétés notables](liste_des_proprietes_notables) de la famille sont également disponibles.
 
 ### Ouvrages et articles traitant des Verdelhan
 
@@ -11,7 +11,7 @@ Cette section dresse une liste d'ouvrages ou d'articles relatifs à l'histoire d
 
 #### Études sur la famille
 
- * Généalogie en Cévennes, ***[Étude sur la famille Verdelhan dans la Vallée Longue](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne)***, [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur), 2008
+ * Généalogie en Cévennes, ***[Étude sur la famille Verdelhan dans la Vallée Longue](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne)***, [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#à-propos-de-lauteur), 2008
 
  * Revue du Gévaudan des Causses et des Cévennes, ***[Une famille noble Cévenole au XIXème siècle : les Verdelhan des Molles](une_famille_noble_cevenole_au_xixme_siecle_les_verdelhan_des_molles_tinthoin)***, Robert Tinthoin, 1959
 

@@ -56,7 +56,7 @@ Cette famille s'est perpétuée par Simon-Marcel, qui suit, et descend d'un des 
 
  **X.** René Verdelhan des Molles, conseiller général de la Lozère, a épousé M<sup>lle</sup> de Colombet de Landos, dont il a deux fils : Jean et Bernard.
 
-Une autre famille du même nom, fixée à la fin du XVI<sup>e</sup> siècle, paroisse de Saint-Germain de Calberte où demeurait aussi la précédente, et qui pourrait avoir une origine commune avec elle, établit sa filiation régulière depuis Reymond Verdelhan, qui testa le 30 janvier 1611 ; il a laissé postérité connue de nos jours, sous le nom de [Verdelhan des Fourniels](annuaire_de_la_noblesse_de_france_reverend#Volume_67_(69ième_année)_-_1911), qui a été maintenue dans sa noblesse, par lettres patentes de mai 1816, et qui compte des représentants.
+Une autre famille du même nom, fixée à la fin du XVI<sup>e</sup> siècle, paroisse de Saint-Germain de Calberte où demeurait aussi la précédente, et qui pourrait avoir une origine commune avec elle, établit sa filiation régulière depuis Reymond Verdelhan, qui testa le 30 janvier 1611 ; il a laissé postérité connue de nos jours, sous le nom de [Verdelhan des Fourniels](annuaire_de_la_noblesse_de_france_reverend#volume-67-69ième-année---1911), qui a été maintenue dans sa noblesse, par lettres patentes de mai 1816, et qui compte des représentants.
 
 Ces différentes familles portent pour [armoiries](armoiries_des_verdelhan) : *Écartelé : aux 1<sup>er</sup> de sable à l'étoile d'argent ; au 2<sup>e</sup> d'azur à trois coquilles d'or, 2. 1, au 5<sup>e</sup> d'azur au lion d'or ; au 4<sup>e</sup> de gueules à six besans d'argent, 3, 2. 1.*
 
@@ -66,7 +66,7 @@ Ces différentes familles portent pour [armoiries](armoiries_des_verdelhan) : *�
 
  **VERDELHAN DES FOURNIELS**
 
-Cette famille, que l'on trouve fixée a Saint-Germain de Calberte, à la fin du XVI<sup>e</sup> siècle, parait avoir une origine commune avec la famille [Verdelhan des Molles](annuaire_de_la_noblesse_de_france_reverend#Volume_61_(63ième_année)_-_1905) (*Annuaire de la Noblesse*, 1905, p. 470), dont la sgrie des Molles était située au même lieu, bien que le point d'attache n'ait pas été établi historiquement.
+Cette famille, que l'on trouve fixée a Saint-Germain de Calberte, à la fin du XVI<sup>e</sup> siècle, parait avoir une origine commune avec la famille [Verdelhan des Molles](annuaire_de_la_noblesse_de_france_reverend#volume-61-63ième-année---1905) (*Annuaire de la Noblesse*, 1905, p. 470), dont la sgrie des Molles était située au même lieu, bien que le point d'attache n'ait pas été établi historiquement.
 
  **I.** Reymond Verdelhan, du Mas de Frepestel, testa le 30 janvier 1611, et laissa de Jeanne Reymond, entre autres enfants, un fils, qui a continué la filiation.
 

@@ -1,6 +1,6 @@
 ## Les Verdelhan de Saint-Germain-de-Calberte (Vierne)
 
-Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur) et a été publié en novembre 2008 dans [le n°82 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/82.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
+Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#à-propos-de-lauteur) et a été publié en novembre 2008 dans [le n°82 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/82.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
 
 Il est précédé de deux autres articles complétant l'étude :
 
@@ -11,7 +11,7 @@ La retranscription qui suit est augmentée de corrections typographiques ainsi q
 
 ### Retranscription
 
-Le patronyme VERDELHAN est connu dans la paroisse de Saint-Germain-de-Calberte dès le début du 14<sup>ème</sup> siècle [à Calbertette](#à_Calbertette) où il se maintient jusqu'au 16<sup>ème</sup> et [à Frepestel](#à_Frepestel) au 15<sup>ème</sup> avec une puissante descendance jusques aux temps modernes.
+Le patronyme VERDELHAN est connu dans la paroisse de Saint-Germain-de-Calberte dès le début du 14<sup>ème</sup> siècle [à Calbertette](#à-calbertette) où il se maintient jusqu'au 16<sup>ème</sup> et [à Frepestel](#à-frepestel) au 15<sup>ème</sup> avec une puissante descendance jusques aux temps modernes.
 
 #### 1 - A Calbertette
 

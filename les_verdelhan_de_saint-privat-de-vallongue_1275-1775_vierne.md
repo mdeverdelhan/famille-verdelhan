@@ -1,6 +1,6 @@
 ## Les Verdelhan de Saint-Privat-de-Vallongue (1275-1775) (Vierne)
 
-Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#À_propos_de_l'auteur) et a été publié en mai 2008 dans [le n°80 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/80.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
+Cet article a été écrit par [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#à-propos-de-lauteur) et a été publié en mai 2008 dans [le n°80 de « Généalogie en Cévennes »](http://site.acgc.free.fr/fichiers/bulletins/80.pdf) (bulletin trimestriel de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/)).
 
 Il est suivi de deux autres articles complétant l'étude :
 
@@ -18,14 +18,14 @@ Ce patronyme est assez répandu dès 1350 : Pierre à St-Germain-de-Calberte, Je
 
 De puissantes lignées se sont développées :
 
- * [à Sarreméjane](#à_Sarreméjane) et à Marvelhac,
- * dans la paroisse de St-Germain-de-Calberte avec Jehan (1329) [Les Verdelhan de Saint-Germain-de-Calberte (Vierne)#à Calbertette](les_verdelhan_de_saint-germain-de-calberte_vierne#à_Calbertette) puis Raymond [Les Verdelhan de Saint-Germain-de-Calberte (Vierne)#à Frépestel](les_verdelhan_de_saint-germain-de-calberte_vierne#à_Frépestel) (1457),
- * dans la paroisse de Castagnols avec Pierre [Les Verdelhan de Castagnols (Vierne)#à Gourdouze](les_verdelhan_de_castagnols_vierne#à_Gourdouze) (1337) puis Jehan [Les Verdelhan de Castagnols (Vierne)#à Polimies](les_verdelhan_de_castagnols_vierne#à_Polimies) (1390).
+ * [à Sarreméjane](#à-sarreméjane) et à Marvelhac,
+ * dans la paroisse de St-Germain-de-Calberte avec Jehan (1329) [à Calbertette](les_verdelhan_de_saint-germain-de-calberte_vierne#à-calbertette) puis Raymond [à Frépestel](les_verdelhan_de_saint-germain-de-calberte_vierne#à-frépestel) (1457),
+ * dans la paroisse de Castagnols avec Pierre [#à Gourdouze](les_verdelhan_de_castagnols_vierne#à-gourdouze) (1337) puis Jehan [à Polimies](les_verdelhan_de_castagnols_vierne#à-polimies) (1390).
 
 Cet article ne porte que sur les VERDELHAN de St-Privat-de-Vallongue et leurs descendants proches de la Vallée longue, connus de 1275 à 1775.
 Dix années de recherches supplémentaires ont permis l'apport de nombreux compléments et la correction de quelques erreurs sans conséquence, rendant obsolète la rédaction de 1991.
 
-On distinguera la lignée principale constituée par [ceux de Sarreméjane](#A_Sarreméjane), la [branche de Marvelhac](#A_Marvelhac) qui en est issue à la fin du 14<sup>ème</sup> siècle, le [rameau du Rochadel](#Au_Rochadel) et une petite [branche installée au mas des Paretz](#Au_Mas_des_Parets) au 17<sup>ème</sup> siècle non rattachée avec certitude aux précédentes.
+On distinguera la lignée principale constituée par [ceux de Sarreméjane](#à-sarreméjane), la [branche de Marvelhac](#à-marvelhac) qui en est issue à la fin du 14<sup>ème</sup> siècle, le [rameau du Rochadel](#au-rochadel) et une petite [branche installée au mas des Paretz](#au-mas-des-parets) au 17<sup>ème</sup> siècle non rattachée avec certitude aux précédentes.
 
 Les familles de Sarreméjane et de Marvelhac ont fait l'objet d'[une étude par d'HOZIER](armorial_general_de_france_d_hozier) à qui nous avons fait quelques emprunts. Ce dernier fait des VERDELHAN de Frépestel, seigneurs des Molles, une branche issue de Marvelhac se basant sur un cousinage en 1621 ; cette parenté n'est pas à retenir, du moins en ce qui concerne les pères, car le patronyme existe alors au moins depuis deux siècles, parallèlement à Frépestel et à Marvelhac.
 
@@ -178,7 +178,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
    * Antoine (1649),
    * Marc Antoine, sieur de Curières, chirurgien à St-Privat-de-Vallongue en 1682 ; époux en 1692 de Suzanne ROCHETTE, fille de Gilles, apothicaire, et de demoiselle Marguerite MATHIEU de Génolhac[^11].
    * André (1649, recensé NC en 1687 à Sarreméjane
-   * Jean (ou Jean André) recensé NC en 1687 à Sarreméjane; tué le 23-4-1702 ([voir plus loin en annexe](#Assemblée_du_23_avril_1702))
+   * Jean (ou Jean André) recensé NC en 1687 à Sarreméjane; tué le 23-4-1702 ([voir plus loin en annexe](#assemblée-du-23-avril-1702))
    * Tuphène, épouse en 1656 de Jean LAVAL du Castanet de Dèze[^12]
    * Madeleine, mariée en 1662 avec Jean ROUSSON de Castel Vieil (Ste-Croix-Vallée-Française)[^13],
    * Jeanne, épouse en 1675 d'Antoine JEAN, travailleur de terre à Alès[^14].
@@ -194,7 +194,7 @@ Les nobles [blasonnaient de sable à une étoile d'argent](armoiries_des_verdelh
  * Époux en 1672 d'Antoinette FAGES (° ca 1647), fille d'Antoine, sieur du Palais et de Louise TEISSIER[^17].
  * Héritier universel de sa mère; habite à Sarreméjane.
  * On lui reconnaît le 4-3-1663 des biens reconnus avant à son père (le 17-4-1653) et à son aïeul (le 18-1-1598).
- * En prison après l'assemblée du 23-4-1702 ([voir plus loin en annexe](#Assemblée_du_23_avril_1702)).
+ * En prison après l'assemblée du 23-4-1702 ([voir plus loin en annexe](#assemblée-du-23-avril-1702)).
  * Il est recensé N.C. en 1687 avec quatre enfants :
    * Antoinette, qui suit,
    * Antoine, son fils aîné (°ca 1676) appelé sieur de Villeneuve dès son plus jeune âge (1680), semble décédé à l'âge adulte sans postérité

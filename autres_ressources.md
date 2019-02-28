@@ -11,20 +11,17 @@ Cette page recense les différentes sources d'informations restant à explorer o
 
 #### Verdelhan des Fourniels notables
 
-Verdeilhan des Fourniels Jacques, Antoine
------------------------------------------
+##### Verdeilhan des Fourniels Jacques, Antoine
 
  * Né le 09/05/1756 à Chantelle (Allier)
  * Légion d'honneur ([Voir le site du ministère de la culture](http://www.culture.gouv.fr/public/mistral/leonore_fr?ACTION=CHERCHER&FIELD_98=NOM&VALUE_98=VERDEILHAN%20DESFOURNIEL&DOM=All&REL_SPECIFIC=1))
 
-Verdelhan des Fourniels Jacques, Victor
----------------------------------------
+##### Verdelhan des Fourniels Jacques, Victor
 
  * Né le 10/08/1819 à Lyon (Rhône)
  * Légion d'honneur ([Voir le site du ministère de la culture](http://www.culture.gouv.fr/public/mistral/leonore_fr?ACTION=CHERCHER&FIELD_98=NOM&VALUE_98=VERDELHAN%20DES%20FOURNIELS&DOM=All&REL_SPECIFIC=1))
 
-Verdelhan des Fourniels (de) Marie
-----------------------------------
+##### Verdelhan des Fourniels (de) Marie
 
  * Mère de [Jacques Aimard de Moreton de Chabrillan](https://fr.wikipedia.org/wiki/Jacques_Aimard_de_Moreton_de_Chabrillan)
  * <http://books.google.fr/books?id=9TwVAAAAQAAJ&pg=PA37&lpg=PA37&dq=verdeillan&source=bl&ots=-2GMKHvt6p&sig=XhlZ3Wc1ggLUfeAX3WLxUsJsvlQ&hl=fr&ei=7bqgSrO-MpShjAeNhPzDDg&sa=X&oi=book_result&ct=result&resnum=9#v=onepage&q=verdeillan&f=false>
@@ -55,19 +52,16 @@ Verdelhan des Fourniels (de) Marie
 
 #### Verdelhan des Molles notables
 
-Verdelhan des Molles Simon-Marcel
----------------------------------
+##### Verdelhan des Molles Simon-Marcel
 
  * Chevalier de l'Ordre Royal et Militaire de Saint-Louis (Décoré le 12/03/1817 en tant qu'ancien officier) : [http://chsaintlouis.yellis.net/pages/liste/page1.htm> (chercher "verdelhan")
 
-Verdelhan des Molles (de) Marie Camille Henry
----------------------------------------------
+##### Verdelhan des Molles (de) Marie Camille Henry
 
  * Né le 23/07/1865 à Alès (Gard)
  * Légion d'honneur : <http://www.culture.gouv.fr/public/mistral/leonore_fr?ACTION=CHERCHER&FIELD_98=NOM&VALUE_98=VER%20DELHAN%20DES%20MOLLES&DOM=All&REL_SPECIFIC=1>
 
-Verdelhan des Molles (de) Louis, Bernard
-----------------------------------------
+##### Verdelhan des Molles (de) Louis, Bernard
 
  * Aviateur
  * Né le 3 octobre 1895 à LANGOGNE (Lozère) - Décédé le 14 mai 1918 en mer, en rade de Platéali (Grèce).

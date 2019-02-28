@@ -6,7 +6,7 @@ Paulin-Joseph-Albert de Verdelhan des Molles, dit *Albert des Molles* (ou simple
 
 Il est le fils de [Léon des Molles](charles-leon_verdelhan_des_molles_1805-1868).
 
-Paulin-Albert est maire de Langogne de 1889 à 1912 et conseiller général du canton de Langogne (Lozère) de 1904 à 1910. Il est qualifié d'*agronome distingué* dans différents documents et reçoit plusieurs prix pour notamment l'introduction de la race bovine tartenaise en Lozère et le développement de [sa propriété de Barres](liste_des_proprietes_notables#Château_de_Barres) à Langogne.
+Paulin-Albert est maire de Langogne de 1889 à 1912 et conseiller général du canton de Langogne (Lozère) de 1904 à 1910. Il est qualifié d'*agronome distingué* dans différents documents et reçoit plusieurs prix pour notamment l'introduction de la race bovine tartenaise en Lozère et le développement de [sa propriété de Barres](liste_des_proprietes_notables#château-de-barres) à Langogne.
 
 Il a plusieurs enfants et notamment :
 

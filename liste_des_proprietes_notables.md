@@ -32,7 +32,7 @@ L'édifice sert aujourd'hui de mairie et abrite un cabinet médical.
 
 La ferme des Molles (ou *des Moles*) est la terre dont une partie de la famille tire son nom.
 
-C'est en effet Pierre Verdelhan qui est qualifié le premier de « seigneur des Moles ». [Selon Vierne](les_verdelhan_de_saint-germain-de-calberte_vierne) il acquiert la seigneurie autour de 1650, d'Antoine Noguier. La terre qui lui est attachée devait avoir une valeur nobiliaire importante attendu que Pierre Verdelhan et ses descendants sont qualifiés « seigneurs des Moles » alors qu'ils possèdent d'autres propriétés, seigneuries également, et habitent d'abord à la Combe de Thonas puis [dans le village de Saint-Germain-de-Calberte](#Maison_de_l'abbé_du_Chayla).
+C'est en effet Pierre Verdelhan qui est qualifié le premier de « seigneur des Moles ». [Selon Vierne](les_verdelhan_de_saint-germain-de-calberte_vierne) il acquiert la seigneurie autour de 1650, d'Antoine Noguier. La terre qui lui est attachée devait avoir une valeur nobiliaire importante attendu que Pierre Verdelhan et ses descendants sont qualifiés « seigneurs des Moles » alors qu'ils possèdent d'autres propriétés, seigneuries également, et habitent d'abord à la Combe de Thonas puis [dans le village de Saint-Germain-de-Calberte](#maison-de-labbé-du-chayla).
 
 [Jean-Daniel Verdelhan des Molles](jean-daniel_verdelhan_des_molles_1737-1822), arrière petit-fils de Pierre Verdelhan, possédait encore la métairie des Moles à sa mort (Cf. [Inventaire des biens de Jean-Daniel fait par Tinthoin](une_famille_noble_cevenole_au_xixme_siecle_les_verdelhan_des_molles_tinthoin)).
 Il est probable qu'elle ait été vendue lors de la succession.

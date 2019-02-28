@@ -1,6 +1,6 @@
 ## Étude sur la famille Verdelhan dans la Vallée Longue (Vierne)
 
-Les Verdelhan ont fait l'objet d'une première étude par [M. Raymond Vierne](#À_propos_de_l'auteur) en 1991. Les résultats de ces recherches ont été publiés auprès de la [Société de l'Histoire du Protestantisme Français](http://www.shpf.fr/) (« Cahiers du Centre de Généalogie Protestante », n° 34, Paris, 1991) étant donné que *parpaillots* et *papistes* se sont côtoyés pendant des années dans cette famille.
+Les Verdelhan ont fait l'objet d'une première étude par [M. Raymond Vierne](#à-propos-de-lauteur) en 1991. Les résultats de ces recherches ont été publiés auprès de la [Société de l'Histoire du Protestantisme Français](http://www.shpf.fr/) (« Cahiers du Centre de Généalogie Protestante », n° 34, Paris, 1991) étant donné que *parpaillots* et *papistes* se sont côtoyés pendant des années dans cette famille.
 
 Plusieurs années de recherches supplémentaires ont permis à M. Vierne de rédiger une seconde version, plus complète que la précédente. Cette nouvelle synthèse a été publiée dans le bulletin de l'[Association des Chercheurs et Généalogistes des Cévennes](http://site.acgc.free.fr/) (« Généalogie en Cévennes ») en 2008. Elle est divisée en trois parties (retranscrites sur ce site) :
 

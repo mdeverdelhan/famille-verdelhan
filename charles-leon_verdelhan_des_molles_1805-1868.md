@@ -8,7 +8,7 @@ Il est le petit-fils de [Jean-Daniel](jean-daniel_verdelhan_des_molles_1737-1822
 
 Il est avocat à Alès, député de la Lozère, à l'Assemblée constituante (1848) et au Corps législatif (1852-57).
 
-Il est le père de [Paulin-Albert](paulin-joseph-albert_de_verdelhan_des_molles_1837-1914) qui lui succède dans le développement du [domaine de Barres](liste_des_proprietes_notables#Château_de_Barres).
+Il est le père de [Paulin-Albert](paulin-joseph-albert_de_verdelhan_des_molles_1837-1914) qui lui succède dans le développement du [domaine de Barres](liste_des_proprietes_notables#château-de-barres).
 
 Léon des Molles meurt le 15 décembre 1868.
 

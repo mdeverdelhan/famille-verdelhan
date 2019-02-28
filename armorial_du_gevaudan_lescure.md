@@ -117,7 +117,7 @@ L'auteur de cette branche, dite « des seigneurs des Fourniels », est Raymond
  **III. Pierre Verdelhan**, sieur des Fourniels, épousa, le 27 mars 1652, Lucrèce de Valmalette, fille de Luc de Valmalette et de Françoise de Castel. Ses enfants furent :
 
  * 1° Jacques, qui suit ;
- * 2° Annibal, qui a fait la [#branche C](#branche_C) ;
+ * 2° Annibal, qui a fait la [branche C](#branche-c) ;
  * 3° Pierre, lieutenant du juge de Saint-Etienne Vallée-Française ;
  * 4° Jeanne, mariée au sieur Privat.
 
