@@ -45,7 +45,7 @@ Verdelhan des Fourniels (de) Marie
 
 #### Implantation à Langogne
 
- * Maires de Langogne et conseillers généraux du canton de Langogne : <http://fr.wikipedia.org/wiki/Langogne#Administration](http://fr.wikipedia.org/wiki/Langogne#Administration) et [http://fr.wikipedia.org/wiki/Canton_de_Langogne#Administration>
+ * Maires de Langogne et conseillers généraux du canton de Langogne : <http://fr.wikipedia.org/wiki/Langogne#Administration> et <http://fr.wikipedia.org/wiki/Canton_de_Langogne#Administration>
  * Biographies d'un Colombet de Landos :
    * <http://www.assemblee-nationale.fr/sycomore/fiche.asp?num_dept=1914>
    * <http://www.assemblee-nationale.fr/histoire/biographies/1789-1889/Tome_2/CHABANNAIS_COMBES.pdf> (p 157)
