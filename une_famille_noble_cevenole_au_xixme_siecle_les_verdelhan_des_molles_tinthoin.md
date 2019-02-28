@@ -1,6 +1,6 @@
 ## Une famille noble Cévenole au XIXme siècle : les Verdelhan des Molles (Tinthoin)
 
-Cet article a été écrit par [Robert Tinthoin](Robert_Tinthoin) et a été publié en 1959 dans la « Revue du Gévaudan des Causses et des Cévennes » (Bulletin de la Société des Lettres Sciences et Arts de la Lozère, Nouvelle série n°4, 1958).
+Cet article a été écrit par [Robert Tinthoin](http://www.memoiredemontbazin.fr/des-hommes/personnalites/robert-tinthoin/) et a été publié en 1959 dans la « Revue du Gévaudan des Causses et des Cévennes » (Bulletin de la Société des Lettres Sciences et Arts de la Lozère, Nouvelle série n°4, 1958).
 
 ### Retranscription
 
