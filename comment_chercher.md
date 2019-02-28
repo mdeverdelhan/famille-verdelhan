@@ -29,10 +29,8 @@ Catalogues de bibliothèques :
  * Bibliothèque numérique de Google : [Google Books](http://books.google.fr/)
  * Bibliothèque numérique de la BNF : [Gallica](http://gallica.bnf.fr/)
 
-Fiches d'aide des Archives Nationales :
-<http://www.archivesnationales.culture.gouv.fr/chan/chan/archives-fiches-recherche.html>
 
-Téléarchives par Brozer : http://www.brozer.fr/telearchives/
+Téléarchives par Brozer : <http://www.brozer.fr/telearchives/>
 
 ### Graphies alternatives
 
@@ -53,4 +51,4 @@ voici les orthographes déjà rencontrées :
  * Verdelhan-Desmolles, deverdelhan des Molles, Verdeille des Molles
 
 
-[^lawriw]: Merci à [Nicolas Lawriw](http://nlawriw.free.fr) pour la majorité de ces liens (http://www.brozer.fr).
+[^lawriw]: Merci à [Nicolas Lawriw](http://nlawriw.free.fr) pour la majorité de ces liens (<http://www.brozer.fr>).
