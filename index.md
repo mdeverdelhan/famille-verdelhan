@@ -1,7 +1,7 @@
-Ce wiki recense les ressources que j'ai pu trouver sur l'histoire des **Verdelhan**. Si vous désirez contribuer à ces recherches [cet article](comment_chercher) vous donnera quelques indications.
+Ce site recense les ressources que j'ai pu trouver sur l'histoire des **Verdelhan**. Si vous désirez contribuer à ces recherches [cet article](comment_chercher) vous donnera quelques indications.
 N'hésitez pas à [m'envoyer un e-mail](http://verdelhan.eu/) pour toute remarque ou pour obtenir un accès de rédacteur.
 
---- *[Marc de Verdelhan](http://verdelhan.eu/), le 21/02/2019*
+--- *[Marc de Verdelhan](http://verdelhan.eu/), le 02/03/2019*
 
 Le visiteur intéressé peut commencer par consulter les références à la famille dans les différents [ouvrages et articles traitant des Verdelhan](#ouvrages-et-articles-traitant-des-verdelhan) (et notamment l'[Armorial du Gévaudan](armorial_du_gevaudan_lescure)). Des notes sur les [armoiries des Verdelhan](armoiries_des_verdelhan) et une [liste des propriétés notables](liste_des_proprietes_notables) de la famille sont également disponibles.
 
