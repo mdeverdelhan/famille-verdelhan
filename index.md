@@ -39,16 +39,20 @@ En tant que famille aristocratique, les Verdelhan sont présents dans un certain
  * ***[Annuaire de la pairie et de la noblesse de France et des maisons souveraines de l'Europe](annuaire_de_la_noblesse_de_france_reverend))***, 1905 (63<sup>ième</sup> année, volume 61), VERDELHAN DES MOLLES, Albert Révérend, 1905
 
  * ***Nobiliaire toulousain : inventaire général des titres probants de noblesse et de dignités nobiliaires***, volume 2, Alphonse Brémond, 1863
-   * [Page 494](http://books.google.fr/books?id=jFkoAAAAYAAJ&ots=yQ9-KFAibe&dq=Alphonse%20Br%C3%A9mond%20%3A%20Nobiliaire%20toulousain&pg=PA494#v=onepage&q=verdeilhan&f=false) : « **Verdeilhan** (N..... DE), seigneur de Molles, assista à l'assemblée générale de la noblesse, tenue à Toulouse en 1789. »
+   * [Page 494](http://books.google.fr/books?id=jFkoAAAAYAAJ&ots=yQ9-KFAibe&dq=Alphonse%20Br%C3%A9mond%20%3A%20Nobiliaire%20toulousain&pg=PA494#v=onepage&q=verdeilhan&f=false) :
+   > « **Verdeilhan** (N..... DE), seigneur de Molles, assista à l'assemblée générale de la noblesse, tenue à Toulouse en 1789. »
 
  * ***Catalogue des gentilshommes de Languedoc (Généralité de Toulouse) qui ont pris part ou envoyé leur procuration aux assemblées de la noblesse pour l'élection des députés aux états généraux de 1789***, Louis de la Roque et Édouard de Barthélemy, 1862
-   * Page 21 : « Sénéchaussée de Toulouse - Procès-verbal de l'Assemblée générale des trois ordres de la sénéchaussée de Toulouse. - 27 mars 1789. - Noblesse. »
-   * [Page 29](http://books.google.fr/books?id=scUEAAAAIAAJ&hl=fr&pg=RA1-PA29#v=onepage&q=verdelhan&f=false) : « De Verdelhan, Sgr des Molles. »
+   * Page 21 :
+   > « Sénéchaussée de Toulouse - Procès-verbal de l'Assemblée générale des trois ordres de la sénéchaussée de Toulouse. - 27 mars 1789. - Noblesse. »
+   * [Page 29](http://books.google.fr/books?id=scUEAAAAIAAJ&hl=fr&pg=RA1-PA29#v=onepage&q=verdelhan&f=false) :
+   > « De Verdelhan, Sgr des Molles. »
 
  * ***[Notes pour servir à un nobiliaire de Montpellier](notes_pour_servir_a_un_nobiliaire_de_montpellier_tourtoulon)***, Charles de Tourtoulon, 1856
 
  * ***Dictionnaire universelle de la noblesse de France***, tome 2, Jean-Baptiste-Pierre de Courcelles, 1822
-   * [Page 441](http://gallica.bnf.fr/ark:/12148/bpt6k36855h.image.r=Verdelhan.f445.langFR) : « VERDELHAN, en Languedoc, en Gévaudan, en Gascogne et en Bourbonnais, famille ancienne et distinguée, qui établit sa filiation depuis Pierre Verdelhan, seigneur de Merveillac, qui était marié, le 21 juin 1376, avec Agnès de Coudoulons. Elle a formé plusieurs branches : 1°. les seigneurs de Merveillac, éteints après 1672; 2°. les seigneurs de Sarremejane et de Fabrègues; 3°. les seigneurs de Molles; 4°. les seigneurs des Fourniels; 5°. les seigneurs de Saint-Nazaire et de Montanègues. *Écartelé, au 1 de sable à l'étoile d'argent ; au 2 d'azur, à trois coquilles d'or ; au 3 d'azur, au lion d'or ; au 4 de gueules, à six besants d'argent.* »
+   * [Page 441](http://gallica.bnf.fr/ark:/12148/bpt6k36855h.image.r=Verdelhan.f445.langFR) :
+   > « VERDELHAN, en Languedoc, en Gévaudan, en Gascogne et en Bourbonnais, famille ancienne et distinguée, qui établit sa filiation depuis Pierre Verdelhan, seigneur de Merveillac, qui était marié, le 21 juin 1376, avec Agnès de Coudoulons. Elle a formé plusieurs branches : 1°. les seigneurs de Merveillac, éteints après 1672; 2°. les seigneurs de Sarremejane et de Fabrègues; 3°. les seigneurs de Molles; 4°. les seigneurs des Fourniels; 5°. les seigneurs de Saint-Nazaire et de Montanègues. *Écartelé, au 1 de sable à l'étoile d'argent ; au 2 d'azur, à trois coquilles d'or ; au 3 d'azur, au lion d'or ; au 4 de gueules, à six besants d'argent.* »
 
  * ***[Nobiliaire Universel de France](nobiliaire_universel_de_france_saint-allais)***, tome IX, Nicolas Viton de Saint-Allais, 1816
 
