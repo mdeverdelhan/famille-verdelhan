@@ -1,7 +1,7 @@
-Ce site recense les ressources que j'ai pu trouver sur l'histoire des **Verdelhan**. Si vous désirez contribuer à ces recherches [cet article](comment_chercher) vous donnera quelques indications.
-N'hésitez pas à [m'envoyer un e-mail](http://verdelhan.eu/) pour toute remarque ou pour obtenir un accès de rédacteur.
+*Ce site recense des ressources généalogiques que j'ai pu trouver sur l'histoire des **Verdelhan**. Si vous désirez contribuer à ces recherches [cet article](comment_chercher) vous donnera quelques indications.
+N'hésitez pas à [m'envoyer un e-mail](http://verdelhan.eu/) pour toute remarque ou pour obtenir un accès de rédacteur.*
 
---- *[Marc de Verdelhan](http://verdelhan.eu/), le 02/03/2019*
+--- *[Marc de Verdelhan](http://verdelhan.eu/), le 03/03/2019*
 
 Le visiteur intéressé peut commencer par consulter les références à la famille dans les différents [ouvrages et articles traitant des Verdelhan](#ouvrages-et-articles-traitant-des-verdelhan) (et notamment l'[Armorial du Gévaudan](armorial_du_gevaudan_lescure)). Des notes sur les [armoiries des Verdelhan](armoiries_des_verdelhan) et une [liste des propriétés notables](liste_des_proprietes_notables) de la famille sont également disponibles.
 
@@ -11,11 +11,24 @@ Cette section dresse une liste d'ouvrages ou d'articles relatifs à l'histoire d
 
 #### Études sur la famille
 
+La famille des Verdelhan a plusieurs fois fait l'objet d'études sur des sujets aussi divers que la généalogie cévenole, l'histoire politique de la Lozère ou le protestantisme français. En voici quelques-unes :
+
  * Généalogie en Cévennes, ***[Étude sur la famille Verdelhan dans la Vallée Longue](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne)***, [Raymond Vierne](etude_sur_la_famille_verdelhan_dans_la_vallee_longue_vierne#à-propos-de-lauteur), 2008
 
+ * Terrain n°4, mars 1985, ***[Parenté et représentation politique en Lozère](https://journals.openedition.org/terrain/2864)***, Yves Pourcher, 1985
+ 
+> « [...] A Langogne, les maisons de Colombet de Landos et de Verdelhan des Molles vont associer leurs influences politiques grâce à une alliance prestigieuse. Jean-Baptiste de Colombet est conseiller général du canton de Langogne de 1848 à 1870 et maire de cette ville ; son fils Anatole, également conseiller général (de 1870 à 1898), est élu député de l'arrondissement de Mende de 1871 à 1876, et de 1889 à 1893, puis sénateur de la Lozère de 1876 à 1879, président du Conseil général de 1873 à 1874, et maire de Langogne de 1870 à 1882. Chez les de Verdelhan des Molles, [Léon-Charles](charles-leon_verdelhan_des_molles_1805-1868) est élu en 1848 représentant du peuple, et siège ensuite au Corps législatif de 1852 à 1857 ; son fils Paulin-Albert est conseiller général du canton de Langogne de 1904 à 1910, maire de cette ville de 1889 à 1912. C'est en 1893 que René-Charles, fils de Paulin-Albert, épouse Cécile, fille de Anatole de Colombet de Landos et de Henriette-Eléonore-Valentine Perrin de Daron. A son tour, il siège comme conseiller général de Langogne de 1919 à 1928, et comme maire de cette ville de 1912 à 1925. [...] »
+ 
  * Revue du Gévaudan des Causses et des Cévennes, ***[Une famille noble Cévenole au XIXème siècle : les Verdelhan des Molles](une_famille_noble_cevenole_au_xixme_siecle_les_verdelhan_des_molles_tinthoin)***, Robert Tinthoin, 1959
+ 
+ * ***[La France protestante](la_france_protestante_haag)***, tome IX, Eugène et Émile Haag, 1859
+ 
 
 #### Nobiliaires, armoriaux, etc.
+
+En tant que famille aristocratique, les Verdelhan sont présents dans un certain nombre de nobiliaires et d'armoriaux. Notamment :
+
+ * ***[Armorial Général de France (d'Hozier)](armorial_general_de_france_d_hozier)*** **(PAGE EN COURS DE CONSTRUCTION)**
 
  * ***[Grand Armorial de France](grand_armorial_de_france_jougla_de_morenas)***, tome VI, Henri Jougla de Morénas, 1949
 
@@ -32,8 +45,6 @@ Cette section dresse une liste d'ouvrages ou d'articles relatifs à l'histoire d
    * Page 21 : « Sénéchaussée de Toulouse - Procès-verbal de l'Assemblée générale des trois ordres de la sénéchaussée de Toulouse. - 27 mars 1789. - Noblesse. »
    * [Page 29](http://books.google.fr/books?id=scUEAAAAIAAJ&hl=fr&pg=RA1-PA29#v=onepage&q=verdelhan&f=false) : « De Verdelhan, Sgr des Molles. »
 
- * ***[La France protestante](la_france_protestante_haag)***, tome IX, Eugène et Émile Haag, 1859
-
  * ***[Notes pour servir à un nobiliaire de Montpellier](notes_pour_servir_a_un_nobiliaire_de_montpellier_tourtoulon)***, Charles de Tourtoulon, 1856
 
  * ***Dictionnaire universelle de la noblesse de France***, tome 2, Jean-Baptiste-Pierre de Courcelles, 1822
@@ -41,10 +52,6 @@ Cette section dresse une liste d'ouvrages ou d'articles relatifs à l'histoire d
 
  * ***[Nobiliaire Universel de France](nobiliaire_universel_de_france_saint-allais)***, tome IX, Nicolas Viton de Saint-Allais, 1816
 
-#### Autres études
-
- * Terrain n°4, mars 1985, ***[Parenté et représentation politique en Lozère](https://journals.openedition.org/terrain/2864)***, Yves Pourcher, 1985
-   * « [...] A Langogne, les maisons de Colombet de Landos et de Verdelhan des Molles vont associer leurs influences politiques grâce à une alliance prestigieuse. Jean-Baptiste de Colombet est conseiller général du canton de Langogne de 1848 à 1870 et maire de cette ville ; son fils Anatole, également conseiller général (de 1870 à 1898), est élu député de l'arrondissement de Mende de 1871 à 1876, et de 1889 à 1893, puis sénateur de la Lozère de 1876 à 1879, président du Conseil général de 1873 à 1874, et maire de Langogne de 1870 à 1882. Chez les de Verdelhan des Molles, [Léon-Charles](charles-leon_verdelhan_des_molles_1805-1868) est élu en 1848 représentant du peuple, et siège ensuite au Corps législatif de 1852 à 1857 ; son fils Paulin-Albert est conseiller général du canton de Langogne de 1904 à 1910, maire de cette ville de 1889 à 1912. C'est en 1893 que René-Charles, fils de Paulin-Albert, épouse Cécile, fille de Anatole de Colombet de Landos et de Henriette-Eléonore-Valentine Perrin de Daron. A son tour, il siège comme conseiller général de Langogne de 1919 à 1928, et comme maire de cette ville de 1912 à 1925. [...] »
 
 ### Verdelhan notables
 
@@ -55,10 +62,7 @@ Cette liste recense un certain nombre de Verdelhan que l'on peut qualifier de *n
  * [Charles-Léon Verdelhan des Molles (1805-1868)](charles-leon_verdelhan_des_molles_1805-1868)
  * [Paulin-Joseph-Albert de Verdelhan des Molles (1837-1914)](paulin-joseph-albert_de_verdelhan_des_molles_1837-1914)
 
+ 
 ### Autres
-
-Les articles portant sur les ouvrages suivants sont encore en cours de construction :
-
- * L'[Armorial Général de France (d'Hozier)](armorial_general_de_france_d_hozier)
 
 Et bien d'[autres ressources](autres_ressources) restent encore à explorer ou à classer.
