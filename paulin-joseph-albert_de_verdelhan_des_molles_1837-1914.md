@@ -10,8 +10,7 @@ Paulin-Albert est maire de Langogne de 1889 à 1912 et conseiller général du c
 
 Il a plusieurs enfants et notamment :
 
- * René, qui lui succèdera comme maire de Langogne
- * Bernard, qui mourra au cours de la Ière guerre mondiale dans un accident d'hydravion (son nom figure sur le monument aux morts de la ville de Langogne)
- * Paul
+ * [René](rene-charles_de_verdelhan_des_molles_1868-1947), qui lui succèdera comme maire de Langogne
+ * [Paul]()
 
 Paulin-Albert meurt en 1914.
