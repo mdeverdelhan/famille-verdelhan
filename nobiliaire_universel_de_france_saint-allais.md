@@ -202,6 +202,7 @@ Bathilde-Madelaine-Félicité Verdelhan des Fourniels, mariée, par contrat du 2
 *[Armes](armoiries_des_verdelhan)* : écartelé, au premier de sable, à une étoile d'argent ; au deuxième d'azur, à trois coquilles d'or, posées 2 et 1 ; au troisième d'azur, à un lion d'or ; et au quatrième de gueules, à six besants d'argent, posés 3 2 et 1.
 
 
+---
 
 [^nom]: Ce nom est écrit dans les titres de diverses manières ; on y lit Verdallian, de Verdeillan, de Verdeilhan, Verdelhain, de Verdelhan, Verdelhian, de Verdelhian, Verdelian, Verdelihan, Verdellan et Verdilhan, mais plus communément, et presque toujours VERDELHAN ; aussi les deux branches s'accordent-elles pour l'orthographier ainsi.
 

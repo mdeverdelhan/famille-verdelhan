@@ -33,4 +33,6 @@ Quatre enfants qui joueront un certain rôle dans la vie locale recueilleront ce
 *Bibliographie :* R. Tinthoin. -- [Une famille noble cévenole au 19me siècle : les Verdelhan des Molles](une_famille_noble_cevenole_au_xixme_siecle_les_verdelhan_des_molles_tinthoin).
 
 
+---
+
 [^comparaitre]: C'est-à-dire : avoir participé à l'assemblée de la noblesse pour l'élection des députés aux [états généraux](https://fr.wikipedia.org/wiki/%C3%89tats_g%C3%A9n%C3%A9raux_(France))

@@ -351,6 +351,7 @@ On n'a pu établir une filiation continue qu'à partir de Laurent dont la descen
 Une autre lignée intéressante s'est développée au 16<sup>ème</sup> siècle dans la paroisse de Saint-Michel-de-Dèze, au Rochadel à partir de Pierre VERDELHAN qui y épouse Jacquette LANTEYRES. [Cette lignée se rattache à celle de Sarreméjane](les_verdelhan_de_saint-privat-de-vallongue_1275-1775_vierne#au-rochadel).
 
 
+---
 
 [^1]: C.M. le 7-2-1408 n.s., M<sup>e</sup> DOLADILHE
 

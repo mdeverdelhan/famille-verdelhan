@@ -724,7 +724,7 @@ Il est très probable que cette famille était une habituée des assemblées com
 [^102]
 
 
-
+---
 
 [^1]: C.M. le 11-9-1378 [d'après D'HOZIER](armorial_general_de_france_d_hozier)
 
@@ -827,7 +827,7 @@ Il est très probable que cette famille était une habituée des assemblées com
 [^50]: C.M. le 16-6-1661, M<sup>e</sup> MATHIEU
 
 [^51]: C.M. le 14-12-1694, M<sup>e</sup> MOUTET
-e
+
 [^52]: C.M. le 13-2-1707, M<sup>e</sup> PELET
 
 [^53]: C.M. le 3-2-1637, M<sup>e</sup> GIBERT

@@ -265,8 +265,10 @@ C'est dans cette lignée que l'on trouve les seigneurs des Moles et des Fourniel
    * Pierre Marie, officier d'infanterie,
    * Jeanne Marie, épouse en 1752 d'Olivier TEISSIER, seigneur de Saint-Frézal et la Vernède.
 
-   
-FIXME Emplacement de la note 2 non trouvé ([^2])
+
+---
+
+FIXME Emplacement de la note 2 non trouvé
 
 
 [^1]: C.M. le 3-8-1489, M<sup>e</sup> JULIEN

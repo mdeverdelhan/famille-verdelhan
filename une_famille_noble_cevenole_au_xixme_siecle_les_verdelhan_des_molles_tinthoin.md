@@ -102,7 +102,7 @@ Malgré cette existence champêtre, ils apprécient la culture intellectuelle --
 --- Robert TINTHOIN.
 
 
-
+---
 
 [^1]: Cf. Robert *Tinthoin* « Commerçants des Hautes Cévennes au XIX<sup>me</sup> siècle », in C. R. Congrès Stés historiques du Languedoc, Rodez, 1958.
 

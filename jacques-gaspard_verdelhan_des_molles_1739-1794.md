@@ -18,6 +18,8 @@ Biographie sommaire extraite du [Martyrologue du clergé français pendant la R�
 
  * http://books.google.fr/books?id=dfZEAQAAIAAJ&dq=verdelhan%20jacques%20bordeaux&hl=fr&pg=PA696#v=onepage&q=verdelhan%20jacques%20bordeaux&f=false
 
+ 
+---
 
 [^ad48]: Archives départementales de la Lozère, Série H, n° 13.
 

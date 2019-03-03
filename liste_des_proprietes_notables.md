@@ -42,4 +42,6 @@ La loi du 6 fructidor an II[^6fructidor] fixant les noms de famille, *Jean-Danie
 \[[Voir les photos du bâtiment](https://picasaweb.google.com/111524259305843655428/FermeDesMolles102009?authkey=Gv1sRgCJP1gYHPgo0B)\]
 
 
+---
+
 [^6fructidor]: 23 août 1794

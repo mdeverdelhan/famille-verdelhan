@@ -51,6 +51,8 @@ Dans son [étude sur les Verdelhan de Saint-Privat-de-Vallongue](les_verdelhan_d
 Les armes originelles de la famille seraient donc simplement composées comme modélisé sur l'image ci-contre ; les autres meubles provenant vraisemblablement des différentes alliances des Verdelhan.
 
 
+---
+
 [^viton]: Nicolas Viton de Saint-Allais, *Dictionnaire encyclopédique de la noblesse de France*, Paris, 1816
 
 [^duhoux]: L.-A. Duhoux d'Argicourt, *Alphabet et figures de tous les termes du blason*, Paris, 1899
