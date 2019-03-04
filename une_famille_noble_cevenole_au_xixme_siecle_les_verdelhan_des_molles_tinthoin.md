@@ -2,6 +2,8 @@
 
 Cet article a été écrit par [Robert Tinthoin](http://www.memoiredemontbazin.fr/des-hommes/personnalites/robert-tinthoin/) et a été publié en 1959 dans la « Revue du Gévaudan des Causses et des Cévennes » (Bulletin de la Société des Lettres Sciences et Arts de la Lozère, Nouvelle série n°4, 1958).
 
+La fin de l'étude comporte une erreur : ce n'est pas [Paulin-Albert de Verdelhan des Molles](paulin-joseph-albert_de_verdelhan_des_molles_1837-1914) qui épouse Cécile de Colombet de Landos, mais [son fils René](rene-charles_de_verdelhan_des_molles_1868-1947).
+
 ### Retranscription
 
 Une famille noble Cévenole au XIX<sup>me</sup> siècle :
@@ -61,7 +63,7 @@ Dans [leur maison de St-Germain-de-Calberte](liste_des_proprietes_notables#maiso
 
 L'ensemble du mobilier, bibliothèque, denrées et vêtements est évalué 1556 francs de la monnaie de 1822.
 
-[Jean-Daniel Verdelhan des Molles](jean-daniel_verdelhan_des_molles_1737-1822) possède, en outre, les 7 *métairies* du Mas de Serre, [des Molles](liste_des_proprietes_notables#ferme-des-molles), Galdin, de lous Banquets, du Cros et de Peire Cadel, avec la pièce de terre de la Cambrotte et du Moulin, provenant du chef de sa femme décédée, puis les deux *domaines* des Abarlens, de la Combe ou Coumbe lui appartenant et du Mas del Miech appartenant à sa femme. Ces propriétés rurales comprennent, chacune cuisine, 1 ou 2 chambres, 2 ou 3 écuries, parfois une « magnanière »[^50] ou un pailler ou une cave ou une grange à foin.
+[Jean-Daniel Verdelhan des Molles](jean-daniel_verdelhan_des_molles_1737-1822) possède, en outre, les 7 *métairies* du Mas de Serre, [des Molles](liste_des_proprietes_notables#ferme-des-molles), Galdin, de lous Banquets, du Cros et de Peire Cadel, avec la pièce de terre de la Cambrotte et du Moulin, provenant du chef de sa femme décédée, puis les deux *domaines* des Abarlens, [de la Combe ou Coumbe](https://www.google.com/maps/place/44%C2%B011'49.5%22N+3%C2%B047'49.7%22E/@44.1970833,3.7971389,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x0!8m2!3d44.1970833!4d3.7971389) lui appartenant et du Mas del Miech appartenant à sa femme. Ces propriétés rurales comprennent, chacune cuisine, 1 ou 2 chambres, 2 ou 3 écuries, parfois une « magnanière »[^50] ou un pailler ou une cave ou une grange à foin.
 
 ![Domaine de la Combe de Thonas](/media/domaine_de_la_combe_de_thonas.png)
 
@@ -91,7 +93,7 @@ L'*élevage des vers à soie* --- introduit fin du XVI<sup>me</sup> siècle --- 
 
 La *récolte* de 1822 dans les 6 métairies affermées à mi-fruit, les biens de St-Germain et une pension servie en nature[^71] ont rapporté près de 400 hectolitres de châtaignes blanches de toutes espèces : grosses, bazanettes et brises. Les châtaignes sont consommées par les membres de la famille, les trois domestiques de la maison de St-Germain (2 femmes et 1 homme) et également pour nourrir le cheval et la mule et engraisser les cochons ; le reste est vendu.
 
-Au XIX<sup>me</sup> siècle, cette famille joue un certain *rôle* dans la vie politique locale. [Léon-Charles Verdelhan des Molles](charles-leon_verdelhan_des_molles_1805-1868), aîné des enfants du fils aîné de Jean-Daniel, est élu en 1848 représentant du peuple et membre du Corps législatif. Il a été député légitimiste sous la Seconde République et le Second Empire^[72]. Vers 1850, Paulin-Albert Verdelhan des Molles, conseiller général de la Lozère, maire de Langogne, épouse la fille de Colombet de Landos, sénateur de la Lozère[^73].
+Au XIX<sup>me</sup> siècle, cette famille joue un certain *rôle* dans la vie politique locale. [Léon-Charles Verdelhan des Molles](charles-leon_verdelhan_des_molles_1805-1868), aîné des enfants du fils aîné de Jean-Daniel, est élu en 1848 représentant du peuple et membre du Corps législatif. Il a été député légitimiste sous la Seconde République et le Second Empire^[72]. Vers 1850, [Paulin-Albert Verdelhan des Molles](paulin-joseph-albert_de_verdelhan_des_molles_1837-1914), conseiller général de la Lozère, maire de Langogne, épouse la fille de Colombet de Landos, sénateur de la Lozère[^73].
 
 \* \* \*
 
