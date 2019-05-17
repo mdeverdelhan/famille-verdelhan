@@ -56,7 +56,7 @@ PIERRE Verdelhan Seigneur de Merveillac, est qualifié Damoiseau dans un hommage
 
 ***IV. DEGRÉ.***
 
-JAQUES Verdelhan Seigneur de Merveillac, est nommé dans deux hommages que lui rendirent le 29 Mars (l) 15o8 les nommés Jean Coste & Privat François habitans de la Paroisse de St Julien des Points au Diocese de Mende, pour les biens qu'ils tenoient sous sa directe seigneurie; & il est dit dans ces deux actes fils de Pierre Verdelhan ( filio Petri Verdelhani ) , ainsi que dans un autre hommage du 5 Avril (m) suivant que lui rendit Jean Pelegrin (Peligrini) pour les biens qu'il possédoit sous sa direéte seigneurie, & entr'autres de partie
+Jaques Verdelhan Seigneur de Merveillac, est nommé dans deux hommages que lui rendirent le 29 Mars (l) 15o8 les nommés Jean Coste & Privat François habitans de la Paroisse de St Julien des Points au Diocese de Mende, pour les biens qu'ils tenoient sous sa directe seigneurie; & il est dit dans ces deux actes fils de Pierre Verdelhan ( filio Petri Verdelhani ) , ainsi que dans un autre hommage du 5 Avril (m) suivant que lui rendit Jean Pelegrin (Peligrini) pour les biens qu'il possédoit sous sa direéte seigneurie, & entr'autres de partie
 
 (a) Voyez l'hommage de 1667 rapporté à l'article de Jean Verdelhan auteur du VIIIe degré de labranche aînée. (b) Expédition délivrée vers l'an 146o, à en juger par le caractérede l'écriture. (c)(d) (e) Original, (f) (g) (h) (i) Minute originale.
 
@@ -166,24 +166,12 @@ leur pere, lui appartenoit en vertu de son testament; pour terminer tous dif-
 
 férens, les parties conviennent que ledit Mas appellé le Mas blanc situé à Mer-
 
-veillac appartiendroit à l'avenir audit Etienne , sauf la, directe seigneurie qui, 
-demeureroit auxdits Pierre pere & fils, avec ce qui étoit contenu dans une do- 
-nation faite par ledit feu Pierre & Tibos son épouse, audit Pierre leur fils ;. & 
-que les cens que percevoit ledit Etienne au nom de ses enfans sur le Mas de 
-Fontmarin appartiendroit auxdits Pierre pere & fils, sauf audit Etienne la directe . 
+veillac appartiendroit à l'avenir audit Etienne , sauf la, directe seigneurie qui, demeureroit auxdits Pierre pere & fils, avec ce qui étoit contenu dans une donation faite par ledit feu Pierre & Tibos son épouse, audit Pierre leur fils ;. & que les cens que percevoit ledit Etienne au nom de ses enfans sur le Mas de Fontmarin appartiendroit auxdits Pierre pere & fils, sauf audit Etienne la directe . 
 seigneurie. Cet acte passé à Sarremejane en présence de Jaques Verdelhan & 
-autres ; outre que cet acte établit 3 filiations pour la branche des Seigneurs 
-de Merveillac , il prouve de plus 1°. qu'Etienne dont il est ici question pos- 
-sédoit la Seigneurie de Sarremejane du chef de Tiburge d'Espinasson sa mere, 
+autres ; outre que cet acte établit 3 filiations pour la branche des Seigneurs de Merveillac , il prouve de plus 1°. qu'Etienne dont il est ici question possédoit la Seigneurie de Sarremejane du chef de Tiburge d'Espinasson sa mere, 
 & 2°. qu'il avoit alors plusieurs enfans ; ledit Seigneur de Sarremejane reçut . 
-par acte du 29 Janvier (a) 1454 , passé en présence de Pierre Verdelhan 
-vraisemblablement son frere, & par autres actes du mois de Févrieri(b) de la 
-même année & du 1o (c) des mêmes mois & an, les hommages de Raymont 
-Nogaret (Noguareti) du lieu de Nogaret , François Philipes, du lieu de Cha- 
-banes & Jean Nogaret du lieu de Rodilhaire (de Rodilharia ) savoir de plu- 
-sieurs biens qu'ils tenoient de lui en emphitéose sous sa directe seigneurie à lui 
-advenue de ses antécesseurs ; l'acte de 1443 cité ci-dessus, prouve qu'il avoit eu 
-plusieurs enfans ; mais on n'a pu recouvrer aucun acte qui les désigne tous. . 
+par acte du 29 Janvier (a) 1454 , passé en présence de Pierre Verdelhan vraisemblablement son frere, & par autres actes du mois de Févrieri(b) de la même année & du 1o (c) des mêmes mois & an, les hommages de Raymont Nogaret (Noguareti) du lieu de Nogaret , François Philipes, du lieu de Chabanes & Jean Nogaret du lieu de Rodilhaire (de Rodilharia ) savoir de plusieurs biens qu'ils tenoient de lui en emphitéose sous sa directe seigneurie à lui 
+advenue de ses antécesseurs ; l'acte de 1443 cité ci-dessus, prouve qu'il avoit eu plusieurs enfans ; mais on n'a pu recouvrer aucun acte qui les désigne tous. . 
    3. ETIEN NE Verdelhan demeurant à Sarremejane est le seul que l'on 
       connoisse des enfans d'Etienne Verdelhan dont on vient de parler ; il 
         est qualifié neveu de Pierre Verdelhan,du Mas de Merveillac, auteur du 
@@ -200,16 +188,14 @@ plusieurs enfans ; mais on n'a pu recouvrer aucun acte qui les désigne tous. .
 
 ***III. DEGRÉ.***
 
-P1E R R E Verdelhan Seigneur de Sarremejane n'est dit dans aucun aéte fils d'Etienne ; mais joint au rapport des tems la possession de la même terre qu'il ne put avoir que par succession, on a cru devoir le placer ici au 3° degré comme
+Pierre Verdelhan Seigneur de Sarremejane n'est dit dans aucun aéte fils d'Etienne ; mais joint au rapport des tems la possession de la même terre qu'il ne put avoir que par succession, on a cru devoir le placer ici au 3° degré comme
 
 A- -=s étant vraisemblablement l'un des enfans du Seigneur de Sarremejane auteur dullo degré;ilest nommé dans deuxactes passés en sa présence le 24 Janvier (a)1466& le 7 Juin (b) 1467 ; il ratifia par acte du 18 Octobre (c) 1468 un échange de quelques terres qui étoient sous sa directe , & par autre acte du 1o Septembre (d) 147r , il ratifia encore un échange fait entre Noble Antoine de Autun (de Autumpno ) du lieu de Champclos, Paroisse de So Cécille d'Andorge & Raymond Chabrier (Chabrerii) du Mas de Vilaret, de ladite Paroisse, lequel fit reconnoissance par ce même acte audit Pierre Verdelhan, d'une piece de terre située en ladite Paroisse , qu'il avoit eue par ledit échange & qui étoit sous sa directe et seigneurie : Seroit-ce l'un de ses fils nommé VINCENT Verdelhan, du Mas de Sarremejane, dans un hommage qu'il rendit le 26 Juillet (e) 1513 à l'Abbé de Sendras, pour plusieurs biens qu'iltenoit sous la directe seigneurie de ladite Abbaye.
 
 
 ***V. DEGRÉ.***
 
-Noble ANToiNE Verdelhan Seigneur de Sarremejane & de Fabregues, qui suivant la combinaison d'années pour chaque degré, devoit être arriere-petitfils d'Etienne Verdelhan auteur de la branche des Seigneurs de Sarremejane, possédoit deja cette terre de Sarremejane lors d'une ratification qu'il fit le 22 Mars (f) 1575 d'un échange que Jean Fages, de la Paroisse de So Privat de Vallelongue avoit fait avec Mo. Anthoine Verdelhan Licencié, Sr. de Marveilhac, de § terres tenues dudit Seigneur de Sarremejane auquel ledit Jean Fages donna le même jour une reconnoissance desdites terres mouvantes de la directe seigneurie et juridiction dudit Sarremejane , & d'une reconnoissance que lui fit encore le 24 du même mois (g) Pierre Hugon, de ladite Paroisse de St. Privat, d'une piece de terre qu'il possédoit en ladite Paroisse sous la directe et juridiction moienne et basse dudit Seigneur de Sarremejane, en présence de Mo. Anthoine Verdelhan Sr. de Marveilhac , le 1". acte où l'on trouve qu'il possédoit la terre de Fabregues est une reconnoissance donnée le 26 Juin (h) 1578 à Noble Anthoine Verdelhan ès droits Licencié,Seigneur de Marveilhac, biens tenant et successeur de Noble Pierre Bernard, du lieu de S. Christol, par Jaques Malplach,de ladite Paroisse de S. Privat, savoir de plusieurs piéces de terre étant sous sa directe, moienne, basse, avantage, seigneurie et prélation ; il prenoit encore la qualité
-
-de Seigneur de Fabregues lorsqu'il épousà par contrat du 4 Septembre (i)
+Noble Antoine Verdelhan Seigneur de Sarremejane & de Fabregues, qui suivant la combinaison d'années pour chaque degré, devoit être arriere-petitfils d'Etienne Verdelhan auteur de la branche des Seigneurs de Sarremejane, possédoit deja cette terre de Sarremejane lors d'une ratification qu'il fit le 22 Mars (f) 1575 d'un échange que Jean Fages, de la Paroisse de So Privat de Vallelongue avoit fait avec Mo. Anthoine Verdelhan Licencié, Sr. de Marveilhac, de § terres tenues dudit Seigneur de Sarremejane auquel ledit Jean Fages donna le même jour une reconnoissance desdites terres mouvantes de la directe seigneurie et juridiction dudit Sarremejane , & d'une reconnoissance que lui fit encore le 24 du même mois (g) Pierre Hugon, de ladite Paroisse de St. Privat, d'une piece de terre qu'il possédoit en ladite Paroisse sous la directe et juridiction moienne et basse dudit Seigneur de Sarremejane, en présence de Mo. Anthoine Verdelhan Sr. de Marveilhac , le 1". acte où l'on trouve qu'il possédoit la terre de Fabregues est une reconnoissance donnée le 26 Juin (h) 1578 à Noble Anthoine Verdelhan ès droits Licencié,Seigneur de Marveilhac, biens tenant et successeur de Noble Pierre Bernard, du lieu de S. Christol, par Jaques Malplach,de ladite Paroisse de S. Privat, savoir de plusieurs piéces de terre étant sous sa directe, moienne, basse, avantage, seigneurie et prélation ; il prenoit encore la qualité de Seigneur de Fabregues lorsqu'il épousà par contrat du 4 Septembre (i)
 
 (a) (b)(c) Minute originale.
 
@@ -229,15 +215,7 @@ dela Ville d'Alais, à laquelle appartenoit ledit original; & légalisée le mê
 
 #-#- -E-Easo A2REssa
 
-|
-
-=l
-
-suivant Marguerite DURANT veuve en 2de*. nôces de Claude D'ALEGRE dit VIELvIER , & en 1eres. nôces de Noble Guillaume DE BUDos; par cet acte ilparoît que ledit Antoine Verdelhan avoit été marié en 1eres nôces ; car il déclare qu'il avoit alors un fils naturel & légitime appellé Daniel Verdelhan ; Marguerite Durant de son côté dit qu'elle avoit eue de son 1er mariage une fille
-
-| nommée Demoiselle Madeléne DE BUDos ; & ils promettent réciproquement
-
-de les marier ensemble & d'accomplir ce mariage en faveur duquel Haut & Puissant Seigneur Messire Jaques de Budos Baron & depuis Vicomte de Portes, Baron de Teyrargues, Chevalier de l'Ordre du Roy , Gentilhomme ordinaire de sa Chambre & Lieutenant de cent hommes d'armes de ses Ordonnances, constitue en dot à ladite Demoiselle Madeléne de Budos sa niéce, pour tous droits paternels, la somme de 266 écus & deux tiers d'écus d'or ; & ledit Antoine Verdelhan donne audit Daniel son fils la moitié de tous ses biens , se réservant l'autre moitié pour légitimer ses autres enfans nés et à naitre, & de plus tous les droits seigneuriaux qui étoient dus au Seigneur Baron du Roure & de Grisac duquel il tenoit en juridiction et directe.
+suivant Marguerite DURANT veuve en 2de*. nôces de Claude D'ALEGRE dit VIELvIER , & en 1eres. nôces de Noble Guillaume DE BUDos; par cet acte ilparoît que ledit Antoine Verdelhan avoit été marié en 1eres nôces ; car il déclare qu'il avoit alors un fils naturel & légitime appellé Daniel Verdelhan ; Marguerite Durant de son côté dit qu'elle avoit eue de son 1er mariage une fille nommée Demoiselle Madeléne DE BUDos ; & ils promettent réciproquement de les marier ensemble & d'accomplir ce mariage en faveur duquel Haut & Puissant Seigneur Messire Jaques de Budos Baron & depuis Vicomte de Portes, Baron de Teyrargues, Chevalier de l'Ordre du Roy , Gentilhomme ordinaire de sa Chambre & Lieutenant de cent hommes d'armes de ses Ordonnances, constitue en dot à ladite Demoiselle Madeléne de Budos sa niéce, pour tous droits paternels, la somme de 266 écus & deux tiers d'écus d'or ; & ledit Antoine Verdelhan donne audit Daniel son fils la moitié de tous ses biens , se réservant l'autre moitié pour légitimer ses autres enfans nés et à naitre, & de plus tous les droits seigneuriaux qui étoient dus au Seigneur Baron du Roure & de Grisac duquel il tenoit en juridiction et directe.
 
 
 ***VI. DEGRÉ.***
@@ -263,8 +241,8 @@ y est dit que ce mariage devoit être célébré en l'Eglise prétendue réform�
 enfans qui en naquirent furent * • * 
      PIERRE Verdelhan ci-après. - - 
      DANIEL Verdelhan, nés depuis le testament de leur pere, & avant le 
-     JAQUEs Verdelhan , 1o codicille qu'il fit par lequel il leur légua la 
-     JEAN-JAQUEs Verdelhan, )somme de 1ooo livres à chacun. 
+     Jaques Verdelhan , 1o codicille qu'il fit par lequel il leur légua la 
+     JEAN-Jaques Verdelhan, )somme de 1ooo livres à chacun. 
      JAQUETTE Verdelhan , 
     VALENCE Verdelhan, (nommées dans le testament de leur pere & vi- 
      & vantes encore alors sans alliance. 
@@ -284,7 +262,7 @@ nobles qu'il tenoit en fief dudit Seigneur Evêque; il ne vivoit plus lors du
 contrat de mariage de Daniel Verdelhan son fils qu'il eût de son mariage avec 
 Demoiselle Anne DU MAS. 
       · 9. DANIEL Verdelhan va suivre. . - - 
-| 9. JAQUEs Verdelhan S. de Valmale est ainsi qualifié dans le contrat de 
+| 9. Jaques Verdelhan S. de Valmale est ainsi qualifié dans le contrat de 
       mariage de son frere auquel il fut présent ainsi qu'à celui de Pierre- 
       Jaques Verdelhan son neveu. 
    9. JEANNE Verdelhan fut mariée au S" DE LA RoUvIERE. 
@@ -298,12 +276,12 @@ DAN 1E L Verdelhan Seigneur des Molles, de Thonas, de la Bessede & Coseigneur de
 
 · · 8. GABRIELLE Verdelhan,
 
-1o. PIERRE-JAQUEs Verdelhan continue la descendance. ro. JAQUEs Verdelhan-des Molles Conseiller & Premier Medecin de S.A. S. Mg'. le Prince de Condé , Docteur en Medecine de la Faculté de Montpellier en 1732 ou 1733 , & Docteur Régent de la Faculté de ! Paris en 1744 , naquit le 24 Septembue (a) 171o. 1o. LoUIs Verdelhan naquit le 8 Novembre (b) 1715 , & eut pour maraine dans la cérémonie de son baptême Do Susanne Verdelhan. 1o. SIMoN Verdelhan-des Molles Seigneur du Poujol, Avocat au Parlement de Toulouse, né le 1er Avril (c) 172 5 , eut pour parain dans la cérémonie de son baptême faite le 9 du même mois M'. Jaques Verdelhan, & pour maraine Demoiselle Anne Verdelhan. 1o. JULIE-MADELÉNE Verdelhan-des Molles née le 23 May (d) 1718, fut mariée par contrat du 1 4 Février (e) 17 43 avec Noble Philippes DE SALiN Seigneur de Sailhan, de Lelze, de Nozieres, du Mas de la Salle & de Polastron. 1o. ANNE Verdelhan-des Molles naquit le 27 Mars (f) 1722.
+1o. PIERRE-Jaques Verdelhan continue la descendance. ro. Jaques Verdelhan-des Molles Conseiller & Premier Medecin de S.A. S. Mg'. le Prince de Condé , Docteur en Medecine de la Faculté de Montpellier en 1732 ou 1733 , & Docteur Régent de la Faculté de ! Paris en 1744 , naquit le 24 Septembue (a) 171o. 1o. LoUIs Verdelhan naquit le 8 Novembre (b) 1715 , & eut pour maraine dans la cérémonie de son baptême Do Susanne Verdelhan. 1o. SIMoN Verdelhan-des Molles Seigneur du Poujol, Avocat au Parlement de Toulouse, né le 1er Avril (c) 172 5 , eut pour parain dans la cérémonie de son baptême faite le 9 du même mois M'. Jaques Verdelhan, & pour maraine Demoiselle Anne Verdelhan. 1o. JULIE-MADELÉNE Verdelhan-des Molles née le 23 May (d) 1718, fut mariée par contrat du 1 4 Février (e) 17 43 avec Noble Philippes DE SALiN Seigneur de Sailhan, de Lelze, de Nozieres, du Mas de la Salle & de Polastron. 1o. ANNE Verdelhan-des Molles naquit le 27 Mars (f) 1722.
 
 
 ***X. DEGRÉ.***
 
-Noble PIERRE-JAQUEs Verdelhan-des Molles Seigneur des Molles, de la Garde, de Thonas, du Poujol, de la Bessede & Coseigneur de St. Germain de Calberte , Avocat au Parlement de Toulouse, né le I 1 Décembre (g) 17o8, épousa par contrat du 1o Novembre (h) 1733 Demoiselle Marguerite CANONGE fille de Jean Canonge, & de Demoiselle Jeanne VELLAr, & fut marié en face d'Eglise le 7 Janvier (i) 1734 : ledit Seigneur des Molles acquit en 174o le fief de la Garde, & étant comparu le 9 Janvier (k) 1742 devant le Juge au Bailliage de St. Etienne de Valfrancisque, Sénéchaussée de Nismes » pour faire » apparoir par acte de notoriété publique que la Maison de la Combe de Tounas, Parroisse de S. Germain de Calberte dépendante dud. balhage et juridic» tion appartenoit et étoit habitée par feu Pierre Verdelhan Seigneur des Molles, grand-pere dud. Pierre-Jacques , qu'elle feut brullée par les fanatiques en l'année mil sept cens cinq avec les papiers et titres qui y éstoient dedans, et qu'en » outre les autheurs dud.Sieur Pierre Verdelhan et après luy Daniel, Pierre-Jacques Verdelhan Seigneur des Molles, ses fils et petit-fils, avoient vécu noblement » depuis un tems immémorial et possédé dans ce pais les fiefs des Molles, la Becede, Thounas , Fabregues , Mervelhac , Sarremejane et autres , la plus grande partie desquels estoient possédés par lesd. Verdelhan avec toute justice ; et que led. Pierre-Jacques Verdelhan en jouissoit et outre ceux-là de plusieurs autres « fit requérir ce Juge de vouloir sur ce ouir plusieurs témoins qui
+Noble PIERRE-Jaques Verdelhan-des Molles Seigneur des Molles, de la Garde, de Thonas, du Poujol, de la Bessede & Coseigneur de St. Germain de Calberte , Avocat au Parlement de Toulouse, né le I 1 Décembre (g) 17o8, épousa par contrat du 1o Novembre (h) 1733 Demoiselle Marguerite CANONGE fille de Jean Canonge, & de Demoiselle Jeanne VELLAr, & fut marié en face d'Eglise le 7 Janvier (i) 1734 : ledit Seigneur des Molles acquit en 174o le fief de la Garde, & étant comparu le 9 Janvier (k) 1742 devant le Juge au Bailliage de St. Etienne de Valfrancisque, Sénéchaussée de Nismes » pour faire » apparoir par acte de notoriété publique que la Maison de la Combe de Tounas, Parroisse de S. Germain de Calberte dépendante dud. balhage et juridic» tion appartenoit et étoit habitée par feu Pierre Verdelhan Seigneur des Molles, grand-pere dud. Pierre-Jacques , qu'elle feut brullée par les fanatiques en l'année mil sept cens cinq avec les papiers et titres qui y éstoient dedans, et qu'en » outre les autheurs dud.Sieur Pierre Verdelhan et après luy Daniel, Pierre-Jacques Verdelhan Seigneur des Molles, ses fils et petit-fils, avoient vécu noblement » depuis un tems immémorial et possédé dans ce pais les fiefs des Molles, la Becede, Thounas , Fabregues , Mervelhac , Sarremejane et autres , la plus grande partie desquels estoient possédés par lesd. Verdelhan avec toute justice ; et que led. Pierre-Jacques Verdelhan en jouissoit et outre ceux-là de plusieurs autres « fit requérir ce Juge de vouloir sur ce ouir plusieurs témoins qui
 
 | (a) (b) Extraits des Régistres baptistéres de la Paroisse de St Germain de Calberte délivrés le 5 Novembre 1763 par François Dauphin Curé de ladite Paroisse, & légalisés par Pierre-André Solier Avocat en Parlement, & Juge de St Germain de Calberte. (c) Extrait des Régistres des baptêmes de la même Paroisse délivré le 15 Août 1763 & légalisé le 23 du même mois par Henry Michel Seigneur de las Combes & de Soustelle, Conseiller du Roi & son †§ néral au Siége de Montblanc, qui certifie deplus que » la famille des Verdelhan des Molles estoit comprise dans » la classe des nobles, « (d) Voyez la notte a b de cette page. . (e ) Expédition délivrée sur l'original le 3 Mars 1758 par Castanet Notaire, comme fils résignataire & pourvû de l'office & nottes de feu Pierre Castanet Notaire Royal de S Etienne de Valfancisque qui avoit reçu l'acte, (f) (g) Voyez la notte a b de cette page. (h) Original. - - - (i) Extrait du Régistre des mariages de la Paroisse de So Germain de Calberte, délivré le 15 Acust 1763 & légalisé le 23 du même mois par Henry Michel Seigneur de las Combes & de Soustelle, Conseiller du Roy & son Lieutenant Général au Siége de Montblanc, qui certifie de plus que » la famille der Verdelhan des Moller » estoit comprise dans la classe des nobles. « - (k) Original · ·
 
@@ -311,32 +289,23 @@ Noble PIERRE-JAQUEs Verdelhan-des Molles Seigneur des Molles, de la Garde, de Th
 
 ayans été choisis dans le corps de la noblesse attesterent unanimement les faits cy-dessus & de plus que » led. S. Pierre-Jacques Verdelhan, tant luy que led. » S. Daniel son pere, avoient aquis plusieurs autres fiefs et notament qu'ils » étoient Conseigneurs du lieu et Parroisse de S. Germain de Calberte & c. « Il mourut à Toulouse en 1752 (a); & de son mariage avec Dame Marguerite Canonge morte le 21 Avril (b) 1749, âgée de 39 ans, & inhumée dans la Chapelle du So. Sacrement de l'Eglise Paroissiale de S. Germain de Calberte , sont issus les enfans qui suivent.
 
-1 I. JEAN-DANIEL Verdelhan-des Molles, Seigneur des Molles, de la Gar- 
-    de, du Poujol, de la Bessede & Coseigneur de St Germain de Calber- 
-     te &c, né le 24 Juin ( c ) 1737, eut pour parain dans la cérémonie 
-    de son baptême faite le surlendemain, S. François - Germain Verdel- 
-    han. 
-II. JAQUEs - GAspARD Verdelhan né le 1 3 Juin (d) 1 73 9, a embrassé 
-     l'État ecclésiastique. 
-11. LÉoN-MAURICE Verdelhan Sous-Lieutenant dans le Régiment de Con- 
-    dé Infanterie, naquit le 14 Juin (e) 1744. 
-11. PIERRE-MARIE Verdelhan-des Molles Sous-Lieutenant dans le Régi- 
-    ment de Bourbon Infanterie, naquit le 8 Septembre (f) 1745. 
-II. JEANNE Verdelhan-des Molles née le 11 Juin (g ) 1735, fut mariée 
-     le 1er Novembre ( h ) 1752 avec Noble Jean - Olivier DE TEIssIER 
-    Seigneur de S. Frezal, de la Vernede &c. - 
+1 I. JEAN-DANIEL Verdelhan-des Molles, Seigneur des Molles, de la Garde, du Poujol, de la Bessede & Coseigneur de St Germain de Calberte &c, né le 24 Juin ( c ) 1737, eut pour parain dans la cérémonie de son baptême faite le surlendemain, S. François - Germain Verdelhan. 
+II. Jaques-Gaspard Verdelhan né le 1 3 Juin (d) 1 73 9, a embrassé  l'État ecclésiastique. 
+11. Léon-Maurice Verdelhan Sous-Lieutenant dans le Régiment de Condé Infanterie, naquit le 14 Juin (e) 1744. 
+11. PIERRE-MARIE Verdelhan-des Molles Sous-Lieutenant dans le Régiment de Bourbon Infanterie, naquit le 8 Septembre (f) 1745. 
+II. JEANNE Verdelhan-des Molles née le 11 Juin (g ) 1735, fut mariée le 1er Novembre ( h ) 1752 avec Noble Jean - Olivier DE TEIssIER Seigneur de S. Frezal, de la Vernede &c. - 
 
 **BRANCHE DES SEIGNEURS DES FOURNIELS.**
 
 ***VI. DEGRÉ.***
 
-R E Y MoND Verdelhan, du Mas de Frepestel dans la Paroisse de St Germain de Calberte ( dont on observe que les Seigneurs des Molles sont Coseigneurs) devoit être fils de Pierre Verdelhan frere d'Antoine Verdelhan Seigneur de Merveillac auteur du V" Degré de la branche aînée, Jean Verdelhan Seigneur des Fourniels, fils dudit Reymond, étant qualifié cousin germain (i) de Daniel Verdelhan Seigneur de Thonas que l'on présume avec toute vraisemblance être petit-fils dudit Antoine Verdelhan Seigneur de Merveillac, par les fortes raisons que l'on en a données à l'article du VIe Degré de la branche des Seigneurs des Molles; Reymond Verdelhan que l'on trouve nommé dans un acte
+Reymond Verdelhan, du Mas de Frepestel dans la Paroisse de St Germain de Calberte ( dont on observe que les Seigneurs des Molles sont Coseigneurs) devoit être fils de Pierre Verdelhan frere d'Antoine Verdelhan Seigneur de Merveillac auteur du V" Degré de la branche aînée, Jean Verdelhan Seigneur des Fourniels, fils dudit Reymond, étant qualifié cousin germain (i) de Daniel Verdelhan Seigneur de Thonas que l'on présume avec toute vraisemblance être petit-fils dudit Antoine Verdelhan Seigneur de Merveillac, par les fortes raisons que l'on en a données à l'article du VIe Degré de la branche des Seigneurs des Molles; Reymond Verdelhan que l'on trouve nommé dans un acte
 
 du 3 Février (a) 1572 , fit son testament le 3o Janvier (b) 1611 & mourut avant le 3o Septembre (c) 1612 ; De son mariage avec Jeanne REYMOND morte aussi avant le 28 May (d) 1617 & qui étoit sœur de Noble Jean Reymond So. du Mazelet, naquirent entr'autres enfans * 7. JEAN Verdelhan ci-après. l# tous à St. Germain de Calberte,
 
-7. PIERRE Verdelhan. qui transigerent le 28 May (e) 1617 par acte
+7. Pierre Verdelhan. qui transigerent le 28 May (e) 1617 par acte
 
-7. JAQUEs Verdelhan qui mourut vers le 13 du mois de May 1617 fins enfans de son mariage avec Anne FARELLESSE.
+7. Jaques Verdelhan qui mourut vers le 13 du mois de May 1617 fins enfans de son mariage avec Anne FARELLESSE.
 
 JE A N Verdelhan Seigneur des Fourniels s'établit à St. Etienne de Valfrancisque ; il est nommé, comme on vient de le dire cy-dessus, dans la transaction de 1 6 17 , dans laquelle il déclare qu'il jouissoit des biens qui lui avoient été laissés par Louis Verdelhan son riére - oncle ; & épousa par con-| trat du 3o Septembre (f) 1612 Demoiselle Françoise DE SABATIER fille de François Sabatier Sr. du Soleirol, & de Demoiselle Françoise DE VALETTE; en faveur de ce mariage Noble Jean Reymond Sr. du Mazelet , oncle dudit Jean Verdelhan lui fit don de la censive , droits de directe seigneurie, Juridiction haute, moyenne et baffe, mere mixte et impere qui luy appartenoit sur le Masage des Fourniels, Parroisse de S. Germain de Calberte; il ne vivoit plus le 7 Février (g) 163o suivant un aéte de ce jour dans lequel est énoncé le testament qu'il fit le 8 Avril 162 I , par lequel il déclara que sa femme étoit alors enceinte & qu'il en avoit déja eu pour enfans
 
@@ -349,13 +318,7 @@ JE A N Verdelhan Seigneur des Fourniels s'établit à St. Etienne de Valfrancisq
 
 ***VIII. DEGRÉ.***
 
-| Noble PIERR E Verdelhan Ecuyer, Seigneur des Fourniels, demeurant aussi à St. Etienne de Valfrancisque, & faisant profession de la Religion prétendue
-
-réformée , étoit encore mineur lors du testament de son pere qui lui fit don de la somme de 4oo livres payable quand il auroit atteint l'âge de 25 ans;| est nommé Pierre Verdelhan Ecuyer, S. des Fourniels, dans une quittance qu'il
-
-donna, le 14 Septembre (a) 1648 à Antoine du Noguier Ecuyer, S. des Molles ;: paroît encore sous les noms & qualités de Pierre Verdeillan Ecuier, Sieur des Fourniels, dans une reconnoissance féodalle qu'on lui donna le 23 Septembre (b) suivant, comme ayant droit et cause de feu Noble Jean de Raimond Seigneur du Mazelet , savoir d'une piéce de terre assise au Mas des Fourniels, appellée la Redonnelle , étant sous sa directe seigneurie et Juridiction haute, moienne et basse , mere , mixte et impere, & vivoit encore le 12 Août ( c) 1659 , date d'un accord qu'il fit avec Jean du Puy son beau-frere, dans lequel acte il prend la qualité de Noble Pierre de Verdelhian Sieur des Forniels, fils de
-
-feu Jean Verdelhian Sieur des Forniels, & de feue Damoiselle Françoise de Sabatier ; De son mariage accordé par contrat postnuptial du 27 Mars ( d) 1652 avec Demoiselle Lucréce DE VALMALETTE (qu'il avoit épousé en face d'Eglise le 2 Juin (e) 1649) fille de Luc de Valmalette Ecuyer, (f) & de Demoiselle Françoise DE BELCAsTEL, il eut entr'autres enfans ceux qui suivent. 9. JAQUEs Verdelhan continue la descendance.
+Noble Pierre Verdelhan Ecuyer, Seigneur des Fourniels, demeurant aussi à St. Etienne de Valfrancisque, & faisant profession de la Religion prétendue réformée , étoit encore mineur lors du testament de son pere qui lui fit don de la somme de 4oo livres payable quand il auroit atteint l'âge de 25 ans;| est nommé Pierre Verdelhan Ecuyer, S. des Fourniels, dans une quittance qu'il donna, le 14 Septembre (a) 1648 à Antoine du Noguier Ecuyer, S. des Molles ;: paroît encore sous les noms & qualités de Pierre Verdeillan Ecuier, Sieur des Fourniels, dans une reconnoissance féodalle qu'on lui donna le 23 Septembre (b) suivant, comme ayant droit et cause de feu Noble Jean de Raimond Seigneur du Mazelet , savoir d'une piéce de terre assise au Mas des Fourniels, appellée la Redonnelle , étant sous sa directe seigneurie et Juridiction haute, moienne et basse , mere , mixte et impere, & vivoit encore le 12 Août ( c) 1659 , date d'un accord qu'il fit avec Jean du Puy son beau-frere, dans lequel acte il prend la qualité de Noble Pierre de Verdelhian Sieur des Forniels, fils de feu Jean Verdelhian Sieur des Forniels, & de feue Damoiselle Françoise de Sabatier ; De son mariage accordé par contrat postnuptial du 27 Mars ( d) 1652 avec Demoiselle Lucréce DE VALMALETTE (qu'il avoit épousé en face d'Eglise le 2 Juin (e) 1649) fille de Luc de Valmalette Ecuyer, (f) & de Demoiselle Françoise DE BELCAsTEL, il eut entr'autres enfans ceux qui suivent. 9. Jaques Verdelhan continue la descendance.
 
 9.ANNIBAL Verdelhan suivra après toute la postérité de son frere aîné. .
 
@@ -393,7 +356,7 @@ ficat. (k)( l) Original.
 , Noble JA QUEs Verdelhan Ecuyer, Seigneur des Fourniels, Capitaine de | Cavalerie (a), demeurant comme son pere à St Etienne de Valfrancisque, né| le 2 r Juillet (b) 1649, étoit Lieutenant de Cavalerie dans le Régiment de | Crillon le 12 Mars (c) 1688, dans celui de Noailles le 28 Novembre (d)| 1694, & servoit encôre en la même qualité dans le Régiment de du Clos lors qu'il épousa par contrat du 25 Octobre (e) 1698 ( ce Régiment étant alors en quartier dans la Ville d'Auvillar ) Demoiselle Elisabeth DE BEAUQUESNE fille de Mo. Mo. Antoine de Beauquesne Conseiller Procureur du Roy & de la |
 [ocr errors]
 
-Communauté de ladite Ville d'Auvillar, & de Demoiselle Marie DE RAssE ; est qualifié dans l'extrait baptiftére de son fils aîné de l'an 1699 Capitaine en pied de Cavalerie , cependant il ne prenoit encore que la qualité de Lieutenant de Cavalerie dans le Régiment du Clos lorsqu'il fit son testament le 2o Fé-| vrier (f) 17or , étant, dit-il, en état de partir pour aller joindreson Régiment : On lui connoît de son mariage les enfans dont on va parler. " . . , - 1o. JAQUES-ANToiNE Verdelhan Seigneur des Fourniels naquit le 3 No-| vembre (g) 1699. o " | | 1o. JEAN Verdelhan naquit le 13 Septembre (h) 1712. 1o. BERNARD Verdelhan va suivre. · · · • • - 1o. ANToiNETTE Verdelhan fut mariée avec Pierre DE BoNNAL habitant ' de St Etienne de Valfrancisque. . - ,
+Communauté de ladite Ville d'Auvillar, & de Demoiselle Marie DE RAssE ; est qualifié dans l'extrait baptiftére de son fils aîné de l'an 1699 Capitaine en pied de Cavalerie , cependant il ne prenoit encore que la qualité de Lieutenant de Cavalerie dans le Régiment du Clos lorsqu'il fit son testament le 2o Fé-| vrier (f) 17or , étant, dit-il, en état de partir pour aller joindreson Régiment : On lui connoît de son mariage les enfans dont on va parler. " . . , - 1o. Jaques-ANToiNE Verdelhan Seigneur des Fourniels naquit le 3 No-| vembre (g) 1699. o " | | 1o. JEAN Verdelhan naquit le 13 Septembre (h) 1712. 1o. BERNARD Verdelhan va suivre. · · · • • - 1o. ANToiNETTE Verdelhan fut mariée avec Pierre DE BoNNAL habitant ' de St Etienne de Valfrancisque. . - ,
 
 1o. JEANNE Verdelhan-des Fourniels épousa par contrat du 4 Octobre (i) 1733 Noble Pierre DE BÉRINGUIER. - ·
 
@@ -403,13 +366,15 @@ Communauté de ladite Ville d'Auvillar, & de Demoiselle Marie DE RAssE ; est qua
 BERN AR D Verdelhan Ecuyer, Seigneur des Fourniels, demeurant en la Ville de Chantelle le Château en Bourbonnois , né le 14 Mars (k) I7I4, épousa par contrat du 11 Novembre ( l) 1754 Dlle Françoise ARTAUD fille de Me. Antoine Artaud Sr. de Champforest, Conseiller du Roy, Substitut de son Procureur en la Châtellenie Royale de Chantelle, & de Dame Claudine |
 
 ARNoUx ; il a eu de son † 
-   1. JAQUEs-ANToINE Verdelhan né le 9 May (m) 1756. 
+   1. Jaques-ANToINE Verdelhan né le 9 May (m) 1756. 
 
 **BRANCHE CADETTE DES SEIGNEURS DES FOURNIELS.**
 
 ***IX. DEGRÉ.***
 
-As N1B AL Verdelhan-des Fourniels ( 2o fils de Pierre verdelhan · Écuyer » Seigneur des Fourniels , & de Lucréce de Valmalette ) né le 5 May (c) 1652 , fut marié le 3 Décembre ( d) 1696 avec Demoiselle Françoise LE VIEUx, âgée d'environ 35 ans, de la Ville de Nismes, fille de Daniel le Vieux & de Demoiselle Françoise DE CLEssÉ; & il en eut deux enfans, savoir 1o. JAQUEs Verdelhan-des Fourniels qui va suivre. -- " - - - c& -- "-- • " - • Io. MARIE Verdelhan-des Fourniels née le 26 Février ( e ) 17 o4, & , mariée par contrat du 25 May (f) 1727 avec » Haut & Puissant Sei-- » gneur Messire « Claude D E MoR ET o N dit le Comte de Chabrillan & · qualifié aussi Chevalier, Seigneur de Boisson, du Mandement d'Alegre, de St. Jean Centeiner , de l'Empare &c.
+Annibal Verdelhan - des Fourniels (2<sup>d</sup> fils de Pierre Verdelhan Écuyer, Seigneur des Fourniels, & de Lucréce de Valmalette) né le 5 May (c) 1652, fut marié le 3 Décembre (d) 1696 avec Demoiselle Françoise LE VIEUX, âgée d'environ 35 ans, de la Ville de Nismes, fille de Daniel le Vieux & de Demoiselle Françoise de Clessé ; & il en eut deux enfans, savoir
+
+10. Jaques Verdelhan-des Fourniels qui va suivre. 10. MARIE Verdelhan - des Fourniels née le 26 Février (e) 1704, & mariée par contrat du 25 May (f) 1727 avec « Haut & Puissant Seigneur Messire » Claude de Moreton dit *le Comte de Chabrillan* & qualifié aussi Chevalier, Seigneur de Boisson, du Mandement d'Alegre, de St. Jean Centeiner , de l'Empare &c.
 
 
 ***X. DEGRÉ.***
