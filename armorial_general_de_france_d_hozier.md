@@ -10,16 +10,18 @@ Edition originale : 1738-1768 - 6 registres divisés en 10 volumes.
 
 Les Verdelhan sont présents dans le 9<sup>ième</sup> volume (Registre V, Paris, 1764) de l'*Armorial Général de France*.
 
-Pages 1123 à 1142.
+[Pages 1123 à 1142](https://books.google.fr/books?id=Jv5upmn5P0AC&pg=PA1&q=verdelhan#v=onepage&q=verdelhan).
 
 ### Retranscription
 
-FIXME Retranscription à compléter.
+**VERDELHAN** (a),
+
+*Seigneurs de Merveillac, de Sarremejane, des Molles, de St Germain de Calberte, de la Garde, de la Bessède, du Poujol, des Fourniels &c.*
+
+En Languedoc, en Gévaudan, en Gascogne, et en Bourbonnois.
 
 
 
-
-Seigneurs de Merveillac, de Sarremejane, des Molles, de so Germainde Calberte, de la Garde, de la Bessède, du Poujol, des Fourniels & c.
 
 en deux branches, celles des Seigneurs des Molles & des Seigneurs des Fourniels, issues toutes les deux incontestablement de la même tige que les Seigneurs de Merveillac éteints depuis environ un siécle, & par lesquels on commencera cet article.
 
@@ -412,20 +414,17 @@ As N1B AL Verdelhan-des Fourniels ( 2o fils de Pierre verdelhan · Écuyer » | 
 
 ***X. DEGRÉ.***
 
-| JA QU E s Verdelhan Ecuyer, Seigneur des Fourniels, de St Nazaire , de | Guizans, de Paris, de Merlet, de Gusnianne, de Montanegues &c, Conseil| ler-Sécrétaire du Roy, Maison, Couronne de France & de ses Finances en
+Jaques Verdelhan Ecuyer, Seigneur des Fourniels, de St Nazaire , de Guizans, de Paris, de Merlet, de Gusnianne, de Montanegues &c, Conseiller-Sécrétaire du Roy, Maison, Couronne de France & de ses Finances en 1748, l'un des Fermiers Généraux de Sa Majesté, Conseiller Maître-d'Hôtel ordinaire de la Reine, & ci-devant Agent des affaires du Roy de Pologne, Duc de Lorraine en France, naquit le 23 Février (g) 1697. Pierre Verdelhan son oncle lui avoit laissé par son testament la haute justice qu'il avoit au lieu des Fourniels & ses dépendances, tout ainsi que lui & ses auteurs en avoient joui de tout temps. Il est mort à Paris le 7 Novembre 1763 & a été inhumé en l'Eglise de St Eustache ; De son mariage avec Marie-Madeléne Morin il a eu une fille nommée
 
-| ordinaire de la Reine, & ci-devant Agent des affaires du Roy de Pologne, | Duc de Lorraine en France, naquit le 23 Février (g) 1697. Pierre Verdel| han son oncle lui avoit laissé par son testament la haute justice qu'il avoit au | lieu des Fourniels & ses dépendances, tout ainsi que lui & sès auteurs en avoient joui de tout temps. Il est mort à Paris le 7 Novembre 1763 & a été inhumé en l'Eglise de So Eustache; De son mariage avec Marie-Madeléne MoRIN il a eu une fille nommée
 
-| 1748, l'un des Fermiers Généraux de Sa Majesté, Conseiller Maître-d'Hôtel |
 
 
 ***XI. DEGRÉ.***
 
-BAT HI L D E-M A D ELE'N E-FÉ L1c1TÉ Verdelhan-des Fourniels , mis § contrat du 28 Février (a) 1752 avec » Haut & Puissant Seigneur Messire « aques DE MoREToN dit le Comte de Chabrillan, Chevalier, Seigneur de Bois son, du Mandement d'Alegre, de S Jean Centeiner & aujourd'hui du chefde sa femme, Seigneur de St Nazaire, de Guizans, de Paris, de Merlet, de Gus nianne, de Montanegues &c, Chevalier de l'Ordre Royal & Militaire de St
-
-| Louis, ci-devant Colonel d'un Régiment de Cavalerie de son nom & Maréchal des Camps & Armées du Roy.
+Bathilde-Madelène-Félicité Verdelhan - des Fourniels, mariée par contrat du 28 Février (a) 1752 avec « Haut & Puissant Seigneur Messire » Jaques de Moreton dit *le Comte de Chabrillan*, Chevalier, Seigneur de Boisson, du Mandement d'Alegre, de St Jean Centeiner & aujourd'hui du chef de sa femme, Seigneur de St Nazaire, de Guizans, de Paris, de Merlet, de Gusniane, de Montanegues &c, Chevalier de l'Ordre Royal & Militaire de St Louis, ci-devant Colonel d'un Régiment de Cavalerie de son nom & Maréchal des Camps & Armées du Roy.
 
 (a) Titres de Moreton-de Chabrillan.
+
 [ocr errors]
-[ocr errors]
+
 
