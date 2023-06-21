@@ -19,3 +19,7 @@ Recherches généalogiques sur la famille Verdelhan. Voir <http://verdelhan.eu/f
     * https://gallica.bnf.fr/ark:/12148/bpt6k482258n/f3.image.r=verdelhan
   * Mariage :
     * https://gallica.bnf.fr/ark:/12148/bpt6k5376499/f3.item.r=verdelhan.zoom
+
+## Misc
+
+  * Le 23 avril 1702, au cours d'une assemblée protestante, Jean-André Verdeillan de Sarreméjane est abattu de deux balles de pistolet par des compères du curé de St-Privat-de-Vallongue. Lien des Chercheurs Cévenols (LCC), 1991, numéro 88 (https://cevenols.fr/wp-content/uploads/2017/12/LCC-88.pdf)
