@@ -145,21 +145,31 @@ Livres, revues, ressources bibliographiques restant à explorer :
    * <http://catalogue.bnf.fr/ark:/12148/cb41240906b/PUBLIC>
 
 Jean-Daniel Verdelhan des Molles
+
 	 * Bapteme : https://archives.lozere.fr/ark:/24967/vta575b7ea6e2b1a96b/daogrp/0/256
 	 * Décès : https://archives.lozere.fr/ark:/24967/vtafe680c365bf8c972/daogrp/0/92 (signé par son fils Xavier, alors maire de St Germain de Calberte)
 	
 Simon Marcel Verdelhan Desmolles
+
 	* Mariage :
      - https://archives.ales.fr/ark:/55408/pkz9h3nr8ml7/8843d88e-51b6-4e7b-b535-0f05f5c4dc54
 	   - https://archives.ales.fr/ark:/55408/pkz9h3nr8ml7/37f3b85a-6113-45de-8577-005e1fd0289f
 	   - https://archives.ales.fr/ark:/55408/pkz9h3nr8ml7/42a8515f-3b88-48e5-857a-fe97f0f82560
 
 Charles Léon de Verdelhan des Molles
+
 	 * Naissance : https://archives.lozere.fr/ark:/24967/vta686943b07cedcc4f/daogrp/0/6
+  
+	 * Mariage :
+ 
+		* https://archives.lozere.fr/ark:/24967/vtad7b370fbd180386b/daogrp/0/114
+		* https://archives.lozere.fr/ark:/24967/vta89b75d9bce00dae5/daogrp/0/182
+  
 	 * Décès : https://archives.lozere.fr/ark:/24967/vtac99e4b6678149385/daogrp/0/32
 	
 	
 Marie Madeleine
+
 	 * Bapteme 1684 : https://archives.lozere.fr/ark:/24967/vta3d00ac85822c5d7f/daogrp/0/125
 	
 	
