@@ -179,3 +179,18 @@ Marie Madeleine
 	https://archives.lozere.fr/ark:/24967/vta5c9749d906f8f0ca/daogrp/0/69
 	https://archives.lozere.fr/ark:/24967/vta5c9749d906f8f0ca/daogrp/0/186
 	
+### Archives
+
+#### AD48
+
+  * C 461, 1789 : Rôle des gens de main forte en 1789 (dans P. J-B Delon, _Les élections de 1789 en Gévaudan_, Mende, Imprimerie Lozérienne, 1922, pp. 22-23)
+
+  * Fonds divers privés
+    * https://archives.lozere.fr/data/files/ad48.diffusion/images/FRAD048_etat_fonds_general/fonds_divers_prives_f.pdf
+    * https://archives.lozere.fr/data/files/ad48.diffusion/images/FRAD048_etat_fonds_general/fonds_divers_prives_f_index_1_662.pdf
+    * https://archives.lozere.fr/data/files/ad48.diffusion/images/FRAD048_etat_fonds_general/fonds_divers_prives_f_index_663_3209.pdf
+
+#### AN
+
+  * F7 3681 13 : Mémoire du sieur Dalzan. Affaire des tours de Saillans à St-Germain-de-Calberte (dans P. J-B Delon, _La Révolution en Lozère_, Mende, Imprimerie Lozérienne, 1922, pp. 56-57) ; Bulletin Lozère 1882. II p. 615
+  * Voir aussi : F7 3681 14 et F7 3681 15
