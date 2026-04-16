@@ -201,6 +201,6 @@ Marie Madeleine
 
 ### Livres
 
-  * Ernest Daudat, _Les conspirations royalises dans le Midi_
+  * Ernest Daudet, _Les conspirations royalistes dans le Midi_
     * p. 321 (dans P. J-B Delon, _La Révolution en Lozère_, Mende, Imprimerie Lozérienne, 1922, p. 181)
     * p. 154-216 (dans P. J-B Delon, _La Révolution en Lozère_, Mende, Imprimerie Lozérienne, 1922, p. 233)
